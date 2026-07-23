@@ -347,8 +347,15 @@ async function load(){
   }
   const age=minsAgo(DATA.updated);
   const s=document.getElementById("feedstat");
-  s.textContent="Updated "+ago(age)+" ago · "+DATA.sources_ok+"/"+DATA.sources_total+" feeds";
-  if(age>90) s.className="stale";
+  // "checked" is when the robot last looked. If the newest story is much older
+  // than that, it's a quiet news hour, not a broken pipeline — so show both.
+  let txt="Checked "+ago(age)+" ago";
+  if(DATA.newest){
+    const n=minsAgo(DATA.newest);
+    if(n-age>25) txt+=" · newest "+ago(n);
+  }
+  s.textContent=txt+" · "+DATA.sources_ok+"/"+DATA.sources_total+" feeds";
+  s.className = age>45 ? "stale" : "";
   buildChips();render();
 }
 

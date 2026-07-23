@@ -326,23 +326,17 @@ def main():
     records = [shape(c) for c in clusters]
     records.sort(key=lambda r: r["ts"], reverse=True)
 
+    newest = max((r["ts"] for r in records), default=None)
+
     payload = {
+        # "updated" = when this script last ran. "newest" = the freshest story it
+        # found. A quiet news hour makes these diverge, and that's worth seeing.
         "updated": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        "newest": newest,
         "sources_ok": sum(1 for _, _, e in report if not e),
         "sources_total": len(report),
         "items": records,
     }
-
-    # If nothing actually changed, leave the file alone. An unchanged file means
-    # no commit, which means no Pages rebuild — and Pages only allows about ten
-    # of those an hour.
-    try:
-        with open(OUT, "r", encoding="utf-8") as f:
-            if json.load(f).get("items") == records:
-                print("\nno change since last run — feed.json left as is")
-                return 0
-    except Exception:
-        pass
 
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
