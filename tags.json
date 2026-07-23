@@ -1,0 +1,39 @@
+{
+  "_comment": "Add or remove keywords freely. Matching is case-insensitive and word-boundary aware, so 'etf' will not match 'etfs' unless you add it. Multi-word phrases are fine.",
+
+  "MACRO":         ["federal reserve", "the fed", "fomc", "powell", "rate cut", "rate hike", "interest rate", "basis point", "bps", "cpi", "inflation", "pce", "jobs report", "nonfarm", "unemployment", "treasury yield", "recession", "quantitative", "dovish", "hawkish", "tariff"],
+
+  "EQUITIES":      ["s&p 500", "s&p500", "nasdaq", "dow jones", "stock market", "equities", "wall street", "index fund", "russell", "vix", "earnings"],
+
+  "LIQUIDATION":   ["liquidation", "liquidated", "liquidations", "long squeeze", "short squeeze", "leverage flush", "deleveraging", "margin call", "open interest", "funding rate"],
+
+  "ETF":           ["etf", "etfs", "spot etf", "grayscale", "ishares", "blackrock", "fidelity", "ark invest", "bitwise", "vaneck", "creation basket"],
+
+  "FLOWS":         ["inflow", "inflows", "outflow", "outflows", "net flow", "fund flows", "assets under management", "aum"],
+
+  "REGULATION":    ["sec", "cftc", "regulator", "regulatory", "lawsuit", "enforcement", "subpoena", "compliance", "legislation", "bill", "congress", "senate", "mica", "sanction", "settlement", "court", "judge", "doj", "indicted", "guilty"],
+
+  "HACK":          ["hack", "hacked", "hacker", "exploit", "exploited", "drained", "stolen", "breach", "vulnerability", "rug pull", "rugged", "scam", "phishing", "attacker"],
+
+  "SECURITY":      ["audit", "post-mortem", "bug bounty", "mixer", "tornado cash", "laundering", "north korea", "lazarus"],
+
+  "BTC":           ["bitcoin", "btc", "satoshi", "halving", "mining", "miner", "hashrate"],
+
+  "ETH":           ["ethereum", "eth", "vitalik", "layer 2", "l2", "arbitrum", "optimism", "base chain", "staking", "validator"],
+
+  "SOLANA":        ["solana", "sol", "phantom wallet", "jito", "jupiter exchange", "raydium", "pump.fun", "helius"],
+
+  "MEMECOIN":      ["memecoin", "meme coin", "meme token", "dogecoin", "doge", "shiba", "pepe", "bonk", "wif", "trenches", "launchpad", "degen"],
+
+  "ONCHAIN":       ["on-chain", "onchain", "wallet", "wallets", "transaction volume", "dex volume", "tvl", "total value locked", "bridge", "defi", "smart contract", "nansen", "arkham", "lookonchain", "dune analytics"],
+
+  "WHALE":         ["whale", "whales", "dormant", "large holder", "accumulating", "moved to exchange", "transferred", "million worth"],
+
+  "PERPS":         ["perpetual", "perps", "hyperliquid", "derivatives", "futures", "leverage", "order book", "dydx"],
+
+  "STABLECOIN":    ["stablecoin", "usdt", "usdc", "tether", "circle", "dai", "depeg", "reserves"],
+
+  "INSTITUTIONAL": ["institutional", "treasury company", "corporate treasury", "microstrategy", "strategy inc", "pension", "sovereign wealth", "custody", "bank", "jpmorgan", "goldman", "citi", "blackrock"],
+
+  "LISTING":       ["lists", "listing", "listed on", "delisting", "delist", "binance will list", "coinbase roadmap", "upbit", "perpetual listing", "airdrop", "token generation", "tge", "unlock"]
+}

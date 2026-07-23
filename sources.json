@@ -1,0 +1,25 @@
+[
+  { "name": "CoinDesk",         "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "require_tag": false, "weight": 9 },
+  { "name": "Cointelegraph",    "url": "https://cointelegraph.com/rss",                    "require_tag": false, "weight": 7 },
+  { "name": "The Block",        "url": "https://www.theblock.co/rss.xml",                  "require_tag": false, "weight": 9 },
+  { "name": "Decrypt",          "url": "https://decrypt.co/feed",                          "require_tag": false, "weight": 6 },
+  { "name": "Blockworks",       "url": "https://blockworks.co/feed",                       "require_tag": false, "weight": 8 },
+  { "name": "CryptoSlate",      "url": "https://cryptoslate.com/feed/",                    "require_tag": false, "weight": 5 },
+  { "name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/feed",                 "require_tag": false, "weight": 5 },
+  { "name": "CryptoBriefing",   "url": "https://cryptobriefing.com/feed/",                 "require_tag": false, "weight": 4 },
+  { "name": "BeInCrypto",       "url": "https://beincrypto.com/feed/",                     "require_tag": false, "weight": 4 },
+  { "name": "The Defiant",      "url": "https://thedefiant.io/api/feed",                   "require_tag": false, "weight": 6 },
+  { "name": "Bankless",         "url": "https://www.bankless.com/rss/feed",                "require_tag": false, "weight": 5 },
+  { "name": "DL News",          "url": "https://www.dlnews.com/arc/outboundfeeds/rss/",    "require_tag": false, "weight": 6 },
+
+  { "name": "Federal Reserve",  "url": "https://www.federalreserve.gov/feeds/press_all.xml", "require_tag": false, "weight": 10 },
+  { "name": "SEC",              "url": "https://www.sec.gov/news/pressreleases.rss",         "require_tag": false, "weight": 10 },
+  { "name": "CFTC",             "url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",           "require_tag": false, "weight": 9 },
+
+  { "name": "GNews: Fed",       "url": "https://news.google.com/rss/search?q=federal+reserve+interest+rate+decision&hl=en-US&gl=US&ceid=US:en", "require_tag": true, "weight": 8, "gnews": true },
+  { "name": "GNews: Inflation", "url": "https://news.google.com/rss/search?q=CPI+inflation+report+markets&hl=en-US&gl=US&ceid=US:en",           "require_tag": true, "weight": 7, "gnews": true },
+  { "name": "GNews: Equities",  "url": "https://news.google.com/rss/search?q=%22S%26P+500%22+OR+Nasdaq+record+index&hl=en-US&gl=US&ceid=US:en", "require_tag": true, "weight": 7, "gnews": true },
+  { "name": "GNews: ETF",       "url": "https://news.google.com/rss/search?q=bitcoin+ethereum+ETF+inflows+outflows&hl=en-US&gl=US&ceid=US:en",   "require_tag": true, "weight": 8, "gnews": true },
+  { "name": "GNews: Liquidat.", "url": "https://news.google.com/rss/search?q=crypto+liquidations+leverage+flush&hl=en-US&gl=US&ceid=US:en",      "require_tag": true, "weight": 7, "gnews": true },
+  { "name": "GNews: Hacks",     "url": "https://news.google.com/rss/search?q=crypto+hack+exploit+stolen+protocol&hl=en-US&gl=US&ceid=US:en",     "require_tag": true, "weight": 7, "gnews": true }
+]

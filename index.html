@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0A0A0A">
+<title>Narrative Labs — News Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --void:#0A0A0A; --panel:#121212; --line:#2D2D2D; --line-soft:#1C1C1C;
+  --dim:#6E6E6E; --mid:#9A9A9A; --paper:#F5F5F5; --hot:#FFFFFF;
+  --sans:'Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif;
+  --mono:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--void);color:var(--paper);font-family:var(--sans);
+  font-size:16px;line-height:1.4;-webkit-font-smoothing:antialiased;padding-bottom:64px}
+.wrap{max-width:960px;margin:0 auto}
+
+.masthead{border-bottom:1px solid var(--line);padding:14px 16px 12px;display:flex;
+  align-items:center;gap:12px;flex-wrap:wrap;position:sticky;top:0;z-index:20;
+  background:rgba(10,10,10,.94);backdrop-filter:blur(8px)}
+.mark{display:flex;gap:3px;flex:none}
+.mark i{display:block;width:9px;height:16px;background:var(--paper);transform:skewX(-18deg)}
+.mark i:last-child{opacity:.55}
+.brand{font-weight:600;font-size:14px;letter-spacing:-.01em;flex:none}
+.deskline{font-family:var(--mono);font-size:10px;letter-spacing:.16em;color:var(--dim);
+  text-transform:uppercase;margin-left:auto;display:flex;gap:14px;align-items:center;flex:none}
+.pulse{width:5px;height:5px;background:var(--paper);border-radius:50%;display:inline-block;
+  vertical-align:middle;animation:blip 2.4s ease-in-out infinite}
+@keyframes blip{0%,100%{opacity:1}50%{opacity:.18}}
+.stale{color:#C9A227}
+
+.controls{padding:14px 16px 0}
+.rowlabel{font-family:var(--mono);font-size:9px;letter-spacing:.2em;color:var(--dim);
+  text-transform:uppercase;margin-bottom:7px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+.chip{font-family:var(--mono);font-size:10px;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--mid);background:transparent;border:1px solid var(--line);padding:6px 9px;
+  cursor:pointer;transition:color .12s,border-color .12s,background .12s}
+.chip:hover{color:var(--paper);border-color:var(--mid)}
+.chip[aria-pressed="true"]{background:var(--paper);color:var(--void);
+  border-color:var(--paper);font-weight:700}
+.chip .n{opacity:.5;margin-left:5px}
+.chip[aria-pressed="true"] .n{opacity:.55}
+.searchrow{display:flex;gap:8px;margin-bottom:14px}
+.searchrow input{flex:1;background:var(--panel);border:1px solid var(--line);color:var(--paper);
+  font-family:var(--mono);font-size:12px;padding:9px 11px;outline:none;min-width:0}
+.searchrow input::placeholder{color:var(--dim)}
+.searchrow input:focus{border-color:var(--mid)}
+
+.readout{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--line);
+  border-bottom:1px solid var(--line);margin:0 16px 4px}
+.cell{padding:11px 12px;border-right:1px solid var(--line-soft)}
+.cell:last-child{border-right:0}
+.cell .k{font-family:var(--mono);font-size:9px;letter-spacing:.18em;color:var(--dim);
+  text-transform:uppercase}
+.cell .v{font-family:var(--mono);font-size:19px;font-weight:500;margin-top:3px;letter-spacing:-.02em}
+
+.feed{padding:0 16px}
+.item{border-bottom:1px solid var(--line-soft);padding:15px 0 14px;cursor:pointer;
+  opacity:0;transform:translateY(6px);animation:print .38s ease forwards}
+@keyframes print{to{opacity:1;transform:none}}
+.item.used{opacity:.3}
+.item:hover .head{color:var(--hot)}
+.meta{display:flex;align-items:center;gap:10px;margin-bottom:7px;flex-wrap:wrap}
+.heat{display:flex;gap:2px;flex:none}
+.heat b{display:block;width:4px;height:11px;background:var(--line)}
+.heat b.on{background:var(--paper)}
+.count{font-family:var(--mono);font-size:10px;color:var(--mid);flex:none;min-width:14px}
+.tags{display:flex;gap:5px;flex-wrap:wrap}
+.tag{font-family:var(--mono);font-size:9px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--dim);border:1px solid var(--line);padding:2px 5px}
+.stamp{font-family:var(--mono);font-size:10px;color:var(--dim);margin-left:auto;flex:none}
+.head{font-size:16px;font-weight:500;letter-spacing:-.015em;line-height:1.32;
+  color:var(--paper);transition:color .12s}
+.src{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--dim);margin-top:7px}
+
+.detail{display:none;margin-top:13px;border-left:1px solid var(--line);padding-left:13px}
+.item.open .detail{display:block}
+.detail .angle{font-family:var(--mono);font-size:9px;letter-spacing:.18em;color:var(--dim);
+  text-transform:uppercase;margin-bottom:9px}
+.variant{padding:7px 0;border-bottom:1px solid var(--line-soft);font-size:13px;
+  color:var(--mid);line-height:1.4}
+.variant:last-of-type{border-bottom:0}
+.variant a{color:var(--mid);text-decoration:none}
+.variant a:hover{color:var(--paper);text-decoration:underline}
+.variant span{font-family:var(--mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--dim);display:block;margin-bottom:2px}
+.acts{display:flex;gap:6px;margin-top:12px;flex-wrap:wrap}
+.act{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;
+  background:transparent;border:1px solid var(--line);color:var(--mid);padding:7px 10px;
+  cursor:pointer;text-decoration:none;display:inline-block;
+  transition:color .12s,border-color .12s}
+.act:hover{color:var(--paper);border-color:var(--mid)}
+.act.solid{background:var(--paper);color:var(--void);border-color:var(--paper);font-weight:700}
+
+.note{padding:56px 16px;text-align:center;font-family:var(--mono);font-size:11px;
+  letter-spacing:.16em;color:var(--dim);text-transform:uppercase;line-height:2}
+.note b{display:block;color:var(--paper);font-weight:500;letter-spacing:.1em}
+
+.toast{position:fixed;left:50%;bottom:22px;transform:translate(-50%,16px);background:var(--paper);
+  color:var(--void);font-family:var(--mono);font-size:10px;letter-spacing:.16em;
+  text-transform:uppercase;padding:9px 15px;opacity:0;pointer-events:none;
+  transition:opacity .18s,transform .18s;z-index:40}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+
+:focus-visible{outline:2px solid var(--paper);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}
+  .item{opacity:1;transform:none}}
+@media(max-width:520px){
+  .head{font-size:15px}.cell{padding:9px 8px}.cell .v{font-size:16px}
+  .deskline{margin-left:0;width:100%;gap:10px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <div class="mark" aria-hidden="true"><i></i><i></i></div>
+    <div class="brand">Narrative Labs</div>
+    <div class="deskline">
+      <span id="feedstat">—</span>
+      <span><span class="pulse"></span> <span id="clock">—</span> WIB</span>
+    </div>
+  </header>
+
+  <section class="controls">
+    <div class="rowlabel">Filter by tag</div>
+    <div class="chips" id="chips"></div>
+    <div class="rowlabel">Window</div>
+    <div class="chips" id="windows"></div>
+    <div class="searchrow">
+      <input id="q" type="search" placeholder="Search headlines, tickers, sources…" aria-label="Search headlines">
+    </div>
+  </section>
+
+  <section class="readout">
+    <div class="cell"><div class="k">Showing</div><div class="v" id="mShow">—</div></div>
+    <div class="cell"><div class="k">Clustered ≥3</div><div class="v" id="mHot">—</div></div>
+    <div class="cell"><div class="k">Unread</div><div class="v" id="mNew">—</div></div>
+  </section>
+
+  <main class="feed" id="feed">
+    <div class="note"><b>Loading the wire…</b></div>
+  </main>
+</div>
+<div class="toast" id="toast">Copied</div>
+
+<script>
+const WINDOWS=[["4H",240],["12H",720],["24H",1440],["72H",4320]];
+const STORE="nl_desk_used";
+let DATA={items:[],updated:null};
+const state={tags:new Set(),win:1440,q:"",open:null,used:loadUsed()};
+
+function loadUsed(){
+  try{return new Set(JSON.parse(localStorage.getItem(STORE)||"[]"));}
+  catch(e){return new Set();}
+}
+function saveUsed(){
+  try{localStorage.setItem(STORE,JSON.stringify([...state.used].slice(-600)));}catch(e){}
+}
+
+const el=(t,c)=>{const e=document.createElement(t);if(c)e.className=c;return e;};
+const minsAgo=iso=>Math.max(0,Math.round((Date.now()-new Date(iso).getTime())/60000));
+const ago=m=>m<60?m+"m":Math.floor(m/60)+"h"+(m%60?" "+(m%60)+"m":"");
+
+function tagCounts(){
+  const c={};
+  DATA.items.forEach(i=>i.tags.forEach(t=>c[t]=(c[t]||0)+1));
+  return Object.entries(c).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));
+}
+
+function buildChips(){
+  const box=document.getElementById("chips");box.innerHTML="";
+  tagCounts().forEach(([t,n])=>{
+    const b=el("button","chip");b.type="button";
+    b.setAttribute("aria-pressed",state.tags.has(t));
+    b.innerHTML=t+'<span class="n">'+n+'</span>';
+    b.onclick=()=>{state.tags.has(t)?state.tags.delete(t):state.tags.add(t);buildChips();render();};
+    box.appendChild(b);
+  });
+  const w=document.getElementById("windows");w.innerHTML="";
+  WINDOWS.forEach(([lab,mins])=>{
+    const b=el("button","chip");b.type="button";
+    b.setAttribute("aria-pressed",state.win===mins);
+    b.textContent=lab;
+    b.onclick=()=>{state.win=mins;buildChips();render();};
+    w.appendChild(b);
+  });
+}
+
+function match(i){
+  if(i._m>state.win) return false;
+  if(state.tags.size && !i.tags.some(t=>state.tags.has(t))) return false;
+  if(state.q){
+    const s=(i.h+" "+i.tags.join(" ")+" "+i.srcs.join(" ")).toLowerCase();
+    if(!s.includes(state.q.toLowerCase())) return false;
+  }
+  return true;
+}
+
+function render(){
+  const feed=document.getElementById("feed");feed.innerHTML="";
+  DATA.items.forEach(i=>i._m=minsAgo(i.ts));
+  const list=DATA.items.filter(match);
+
+  const pad=n=>String(n).padStart(2,"0");
+  document.getElementById("mShow").textContent=pad(list.length);
+  document.getElementById("mHot").textContent=pad(list.filter(i=>i.srcs.length>=3).length);
+  document.getElementById("mNew").textContent=pad(list.filter(i=>!state.used.has(i.url)).length);
+
+  if(!list.length){
+    const e=el("div","note");
+    e.innerHTML="<b>Nothing matches</b>Widen the window or clear a tag";
+    feed.appendChild(e);return;
+  }
+
+  list.forEach((i,idx)=>{
+    const row=el("div","item");
+    row.style.animationDelay=Math.min(idx,20)*24+"ms";
+    if(state.used.has(i.url)) row.classList.add("used");
+    if(state.open===i.url) row.classList.add("open");
+    row.tabIndex=0;
+
+    const meta=el("div","meta");
+    const heat=el("div","heat");
+    const lvl=Math.min(5,i.srcs.length);
+    for(let k=0;k<5;k++){const b=el("b");if(k<lvl)b.className="on";heat.appendChild(b);}
+    meta.appendChild(heat);
+    const cnt=el("span","count");cnt.textContent=i.srcs.length;meta.appendChild(cnt);
+    const tg=el("div","tags");
+    i.tags.forEach(t=>{const s=el("span","tag");s.textContent=t;tg.appendChild(s);});
+    meta.appendChild(tg);
+    const st=el("span","stamp");st.textContent=ago(i._m)+" ago";meta.appendChild(st);
+    row.appendChild(meta);
+
+    const h=el("div","head");h.textContent=i.h;row.appendChild(h);
+    const sr=el("div","src");
+    sr.textContent=i.srcs[0]+(i.srcs.length>1?"  +"+(i.srcs.length-1)+" more":"");
+    row.appendChild(sr);
+
+    const d=el("div","detail");
+    if(i.alt&&i.alt.length){
+      const a=el("div","angle");a.textContent="How each outlet framed it";d.appendChild(a);
+      i.alt.forEach(([s,t,u])=>{
+        const v=el("div","variant");
+        const lab=el("span");lab.textContent=s;
+        const link=el("a");link.href=u||"#";link.target="_blank";
+        link.rel="noopener";link.textContent=t;
+        link.onclick=e=>e.stopPropagation();
+        v.append(lab,link);d.appendChild(v);
+      });
+    }
+    const acts=el("div","acts");
+    const open=el("a","act solid");open.href=i.url;open.target="_blank";
+    open.rel="noopener";open.textContent="Open";
+    open.onclick=e=>{e.stopPropagation();if(!state.used.has(i.url)){state.used.add(i.url);saveUsed();}};
+
+    const c1=el("button","act");c1.type="button";c1.textContent="Copy headline + link";
+    c1.onclick=e=>{e.stopPropagation();copy(i.h+"\n"+i.url);};
+
+    const c2=el("button","act");c2.type="button";c2.textContent="Copy all angles";
+    c2.onclick=e=>{e.stopPropagation();
+      copy([i.srcs[0]+": "+i.h,...(i.alt||[]).map(a=>a[0]+": "+a[1])].join("\n"));};
+
+    const c3=el("button","act");c3.type="button";
+    c3.textContent=state.used.has(i.url)?"Mark unused":"Mark used";
+    c3.onclick=e=>{e.stopPropagation();
+      state.used.has(i.url)?state.used.delete(i.url):state.used.add(i.url);
+      saveUsed();render();};
+
+    acts.append(open,c1,c2,c3);d.appendChild(acts);row.appendChild(d);
+
+    const toggle=()=>{state.open=state.open===i.url?null:i.url;render();};
+    row.onclick=toggle;
+    row.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();toggle();}};
+    feed.appendChild(row);
+  });
+}
+
+function copy(txt){
+  const done=()=>{const t=document.getElementById("toast");
+    t.classList.add("show");setTimeout(()=>t.classList.remove("show"),1100);};
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(txt).then(done).catch(done);
+  }else{
+    const ta=document.createElement("textarea");ta.value=txt;document.body.appendChild(ta);
+    ta.select();try{document.execCommand("copy");}catch(e){}
+    document.body.removeChild(ta);done();
+  }
+}
+
+function clock(){
+  const d=new Date(Date.now()+(7*60+new Date().getTimezoneOffset())*60000);
+  document.getElementById("clock").textContent=
+    String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0");
+}
+
+async function load(){
+  try{
+    const r=await fetch("feed.json?t="+Date.now(),{cache:"no-store"});
+    if(!r.ok) throw new Error("HTTP "+r.status);
+    DATA=await r.json();
+  }catch(e){
+    document.getElementById("feed").innerHTML=
+      '<div class="note"><b>No feed yet</b>Run the Refresh workflow once,<br>then reload this page</div>';
+    document.getElementById("feedstat").textContent="offline";
+    return;
+  }
+  const age=minsAgo(DATA.updated);
+  const s=document.getElementById("feedstat");
+  s.textContent="Updated "+ago(age)+" ago · "+DATA.sources_ok+"/"+DATA.sources_total+" feeds";
+  if(age>90) s.className="stale";
+  buildChips();render();
+}
+
+document.getElementById("q").addEventListener("input",e=>{state.q=e.target.value;render();});
+clock();setInterval(clock,20000);
+setInterval(load,5*60*1000);   // re-pull feed.json every 5 min
+load();
+</script>
+</body>
+</html>
