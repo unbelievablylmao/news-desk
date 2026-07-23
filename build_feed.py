@@ -10,6 +10,7 @@ Run locally:   python3 build_feed.py
 On a schedule: see .github/workflows/refresh.yml
 """
 
+import html as htmllib
 import json
 import os
 import re
@@ -111,6 +112,49 @@ def similarity(sig_a, sig_b):
     return shared / min(sum(sig_a.values()), sum(sig_b.values()))
 
 
+# feeds pad their descriptions with boilerplate — strip it
+JUNK = [
+    r"the post\b.*?appeared first on.*$",
+    r"appeared first on\s+.*$",
+    r"(continue|keep)\s+reading.*$",
+    r"read (more|the full story).*$",
+    r"this article (originally )?appeared.*$",
+    r"\[[.…]+\]\s*$",
+    r"^(by\s+[A-Z][a-z]+\s+[A-Z][a-z]+[\s,|-]*)",
+    r"^\s*(share this|published)\b.*?[:—-]\s*",
+]
+
+
+def clean_summary(raw, title, max_chars=320):
+    """
+    Turn a feed's <description> into a couple of readable sentences.
+    Returns "" when the feed gives nothing useful — better blank than junk.
+    """
+    t = htmllib.unescape(re.sub(r"<[^>]+>", " ", raw or ""))
+    t = re.sub(r"\s+", " ", t).strip()
+    for pat in JUNK:
+        t = re.sub(pat, "", t, flags=re.I).strip()
+
+    # some feeds just repeat the headline as the description
+    if not t or len(t) < 60:
+        return ""
+    if t.lower().startswith(title.lower()[:50]):
+        t = t[len(title):].strip(" -–—:|")
+        if len(t) < 60:
+            return ""
+
+    # sweep up dangling fragments left behind by the patterns above
+    t = re.sub(r"\s*\b(the|this) post\s*$", "", t, flags=re.I)
+    t = re.sub(r"\s{2,}", " ", t).strip(" -–—|,;")
+
+    if len(t) > max_chars:
+        cut = t[:max_chars]
+        end = max(cut.rfind(". "), cut.rfind("! "), cut.rfind("? "))
+        t = cut[:end + 1] if end > max_chars * 0.45 else cut.rsplit(" ", 1)[0] + "…"
+
+    return t.strip()
+
+
 def build_matchers(tagmap):
     """Precompile one regex per tag so matching is fast and word-boundary aware."""
     out = {}
@@ -170,7 +214,8 @@ def fetch(src):
             else:
                 source = "Google News"
 
-        summary = re.sub(r"<[^>]+>", " ", e.get("summary", ""))[:400]
+        raw_sum = e.get("summary") or e.get("description") or ""
+        summary = re.sub(r"<[^>]+>", " ", raw_sum)[:600]
 
         items.append({
             "title": title,
@@ -181,6 +226,7 @@ def fetch(src):
             "dt": to_dt(e),
             "blob": title + " " + summary,
             "sig": signature(title),
+            "summary": clean_summary(raw_sum, title),
         })
     return items, None
 
@@ -227,8 +273,15 @@ def shape(c):
         used.add(m["url"])
         alt.append([m["source"], m["title"], m["url"]])
 
+    # prefer the lead outlet's summary; fall back to the fullest one available
+    summary = lead.get("summary") or ""
+    if not summary:
+        cands = [m.get("summary", "") for m in members if m.get("summary")]
+        summary = max(cands, key=len) if cands else ""
+
     return {
         "h": lead["title"],
+        "s": summary,
         "url": lead["url"],
         "ts": min(m["dt"] for m in members).isoformat().replace("+00:00", "Z"),
         "tags": tags,
@@ -279,6 +332,17 @@ def main():
         "sources_total": len(report),
         "items": records,
     }
+
+    # If nothing actually changed, leave the file alone. An unchanged file means
+    # no commit, which means no Pages rebuild — and Pages only allows about ten
+    # of those an hour.
+    try:
+        with open(OUT, "r", encoding="utf-8") as f:
+            if json.load(f).get("items") == records:
+                print("\nno change since last run — feed.json left as is")
+                return 0
+    except Exception:
+        pass
 
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)

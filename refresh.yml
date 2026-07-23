@@ -1,0 +1,34 @@
+name: Refresh news desk
+
+on:
+  schedule:
+    # Every 10 minutes, deliberately offset from :00 — GitHub's runner queue is
+    # busiest at the top of the hour, and jobs scheduled there get delayed most.
+    - cron: "3,13,23,33,43,53 * * * *"
+  workflow_dispatch:        # lets you hit "Run workflow" by hand to test
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install --quiet feedparser requests
+
+      - name: Build feed.json
+        run: python build_feed.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "news-desk-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.json
+          git diff --staged --quiet || git commit -m "feed: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

@@ -34,6 +34,12 @@ body{background:var(--void);color:var(--paper);font-family:var(--sans);
   vertical-align:middle;animation:blip 2.4s ease-in-out infinite}
 @keyframes blip{0%,100%{opacity:1}50%{opacity:.18}}
 .stale{color:#C9A227}
+.reload{background:none;border:1px solid var(--line);color:var(--mid);font-size:12px;
+  line-height:1;padding:4px 7px;cursor:pointer;font-family:var(--mono);
+  transition:color .12s,border-color .12s}
+.reload:hover{color:var(--paper);border-color:var(--mid)}
+.reload.spin{animation:turn .7s linear infinite}
+@keyframes turn{to{transform:rotate(360deg)}}
 
 .controls{padding:14px 16px 0}
 .rowlabel{font-family:var(--mono);font-size:9px;letter-spacing:.2em;color:var(--dim);
@@ -83,6 +89,7 @@ body{background:var(--void);color:var(--paper);font-family:var(--sans);
 
 .detail{display:none;margin-top:13px;border-left:1px solid var(--line);padding-left:13px}
 .item.open .detail{display:block}
+.summary{font-size:14px;line-height:1.62;color:var(--mid);margin-bottom:15px;max-width:64ch}
 .detail .angle{font-family:var(--mono);font-size:9px;letter-spacing:.18em;color:var(--dim);
   text-transform:uppercase;margin-bottom:9px}
 .variant{padding:7px 0;border-bottom:1px solid var(--line-soft);font-size:13px;
@@ -125,6 +132,7 @@ body{background:var(--void);color:var(--paper);font-family:var(--sans);
     <div class="mark" aria-hidden="true"><i></i><i></i></div>
     <div class="brand">Narrative Labs</div>
     <div class="deskline">
+      <button id="refresh" class="reload" type="button" title="Check for new stories">↻</button>
       <span id="feedstat">—</span>
       <span><span class="pulse"></span> <span id="clock">—</span> WIB</span>
     </div>
@@ -246,6 +254,7 @@ function render(){
     row.appendChild(sr);
 
     const d=el("div","detail");
+    if(i.s){const p=el("p","summary");p.textContent=i.s;d.appendChild(p);}
     if(i.alt&&i.alt.length){
       const a=el("div","angle");a.textContent="How each outlet framed it";d.appendChild(a);
       i.alt.forEach(([s,t,u])=>{
@@ -302,11 +311,34 @@ function clock(){
     String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0");
 }
 
+/* GitHub Pages has to rebuild the whole site before it serves a new feed.json,
+   which adds several minutes. Reading the file straight out of the repo skips
+   that entirely — the data is there the moment the robot commits it. */
+function feedSources(){
+  const host=location.hostname, seg=location.pathname.split("/").filter(Boolean);
+  const out=[];
+  if(host.endsWith("github.io")){
+    const user=host.split(".")[0];
+    const repo=seg.length?seg[0]:host;
+    out.push("https://raw.githubusercontent.com/"+user+"/"+repo+"/main/feed.json");
+  }
+  out.push("feed.json");          // fallback: the Pages copy, or a local file
+  return out;
+}
+
 async function load(){
+  let got=null;
+  for(const src of feedSources()){
+    try{
+      const r=await fetch(src+"?t="+Date.now(),{cache:"no-store"});
+      if(!r.ok) continue;
+      got=await r.json();
+      if(got&&got.items) break;
+    }catch(e){ /* try the next one */ }
+  }
   try{
-    const r=await fetch("feed.json?t="+Date.now(),{cache:"no-store"});
-    if(!r.ok) throw new Error("HTTP "+r.status);
-    DATA=await r.json();
+    if(!got||!got.items) throw new Error("no feed");
+    DATA=got;
   }catch(e){
     document.getElementById("feed").innerHTML=
       '<div class="note"><b>No feed yet</b>Run the Refresh workflow once,<br>then reload this page</div>';
@@ -322,7 +354,14 @@ async function load(){
 
 document.getElementById("q").addEventListener("input",e=>{state.q=e.target.value;render();});
 clock();setInterval(clock,20000);
-setInterval(load,5*60*1000);   // re-pull feed.json every 5 min
+
+document.getElementById("refresh").onclick=async e=>{
+  const b=e.currentTarget;
+  b.classList.add("spin");
+  await load();
+  setTimeout(()=>b.classList.remove("spin"),400);
+};
+setInterval(load,90*1000);   // check for new stories every 90 seconds
 load();
 </script>
 </body>
