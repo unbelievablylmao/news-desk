@@ -1,19 +1,100 @@
 {
- "updated": "2026-08-09T21:04:06.981317Z",
- "newest": "2026-08-09T21:00:13Z",
- "sources_ok": 21,
+ "updated": "2026-08-09T22:15:13.854320Z",
+ "newest": "2026-08-09T22:02:39Z",
+ "sources_ok": 20,
  "sources_total": 21,
  "items": [
   {
-   "h": "Crypto holders face an Aug 27 deadline to save 21 tokens before Kraken liquidates them into thin order books",
-   "s": "Withdrawals close at 14:00 UTC, then thin markets could determine what automatic liquidation returns.",
-   "url": "https://cryptoslate.com/crypto-holders-face-an-aug-27-deadline-to-save-21-tokens-before-kraken-liquidates-them-into-thin-order-books/",
-   "ts": "2026-08-09T21:00:13Z",
+   "h": "S&P 500: Index Notches a Record Close at 7,757.64 as Surprise Jobs Loss Fuels Rate-Cut Hopes",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzhXUXU3YW02dUtZbmhOZHJQZ1BCeWxiekJoQ0wwNzRLbGRiYU1aaHFiZ1g0VXdMOU5mNkJXVTFzYUhjVzBydlV0aF9xaDJYY1B3aC1nUjNxaFBlREluN3RNZkFjU3RyNkVjT3JQRFdJcUpoRi1LTzN0UU5IemUyUHQyN2YtZ0VwNVQ5OFNybmVLMFJCZlZGQ3FySV9GVU9qUkpXVmNTY1M3MXlHZzF5TDlDVU94UHVMUFNXRFBzSWdrSkRE?oc=5",
+   "ts": "2026-08-09T22:02:39Z",
    "tags": [
-    "LIQUIDATION"
+    "EQUITIES"
    ],
    "srcs": [
-    "CryptoSlate"
+    "BBN Times"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Crypto lobby struggles as Clarity Act stalls in Senate before recess",
+   "s": "The stalled Clarity Act vote raises doubts about its future, potentially impacting crypto regulation and local banking stability by 2026.",
+   "url": "https://cryptobriefing.com/crypto-lobby-struggles-as-clarity-act-stalls-in-senate-before-recess/",
+   "ts": "2026-08-09T21:42:50Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Crypto lobby fails to secure Clarity Act vote before August recess",
+     "https://cryptobriefing.com/clarity-act-vote-delayed-august-recess/"
+    ]
+   ]
+  },
+  {
+   "h": "Australian dollar approaches 35-year high against yen as central bank policies diverge",
+   "s": "The AUD's rise against the yen highlights global risk appetite shifts and underscores the impact of divergent monetary policies on forex dynamics.",
+   "url": "https://cryptobriefing.com/australian-dollar-35-year-high-yen/",
+   "ts": "2026-08-09T21:35:03Z",
+   "tags": [
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Chinese-made Saudi drone downed near Strait of Hormuz amid rising tensions",
+   "s": "The incident highlights the risk of increased militarization and geopolitical instability in a region crucial for global oil supply.",
+   "url": "https://cryptobriefing.com/chinese-made-saudi-drone-downed-near-strait-of-hormuz-amid-rising-tensions/",
+   "ts": "2026-08-09T21:31:31Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Kraken Delisting Deadline Nears: Holders of 21 Tokens Risk Near-Zero Payouts",
+   "s": "Kraken is entering the final stage of its latest delisting cycle, giving holders of 21 tokens until August 27 at 14:00 UTC to withdraw their assets. Afterwards, the exchange begins automatically liquidating remaining balances into markets it warns may have limited or no liquidity.",
+   "url": "https://beincrypto.com/kraken-delisting-deadline-21-tokens/",
+   "ts": "2026-08-09T21:29:08Z",
+   "tags": [
+    "LISTING"
+   ],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Core Scientific shareholders reject $9B sale amid AMD partnership",
+   "s": "Core Scientific's AMD partnership highlights strategic autonomy and potential growth in AI infrastructure, outweighing the rejected acquisition.",
+   "url": "https://cryptobriefing.com/core-scientific-rejects-sale-amd-partnership/",
+   "ts": "2026-08-09T21:10:02Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
+   "s": "Top Wall Street analysts at Bank of America, JPMorgan and Oppenheimer have identified three AI stocks they believe remain well-positioned for further gains following strong quarterly earnings.",
+   "url": "https://beincrypto.com/bofa-jpmorgan-oppenheimer-favorite-ai-stocks-targets/",
+   "ts": "2026-08-09T20:53:20Z",
+   "tags": [
+    "EQUITIES",
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "BeInCrypto"
    ],
    "alt": []
   },
@@ -47,16 +128,13 @@
    "alt": []
   },
   {
-   "h": "A proposed Ethereum upgrade threatens to kill native yield and force SharpLink’s $125M treasury into high-risk DeFi",
-   "s": "EIP-8363 would drive net consensus yield to zero at 60.25 million ETH staked, shifting the burden toward variable fees, MEV and DeFi returns.",
-   "url": "https://cryptoslate.com/a-proposed-ethereum-upgrade-threatens-to-kill-native-yield-and-force-sharplinks-125m-treasury-into-high-risk-defi/",
-   "ts": "2026-08-09T20:00:07Z",
-   "tags": [
-    "ETH",
-    "ONCHAIN"
-   ],
+   "h": "Iran’s armed forces take control of Strait of Hormuz, lawmaker says",
+   "s": "Iran's control over the Strait of Hormuz could disrupt global oil markets, challenge maritime norms, and escalate US-Iran tensions.",
+   "url": "https://cryptobriefing.com/iran-armed-forces-strait-of-hormuz-control/",
+   "ts": "2026-08-09T20:03:07Z",
+   "tags": [],
    "srcs": [
-    "CryptoSlate"
+    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -136,19 +214,6 @@
    "alt": []
   },
   {
-   "h": "A major Bitcoin miner burned through 357 BTC on secret compute deals while its output plummeted",
-   "s": "Production and managed hashrate fell in July, while the price and economics of the prepaid capacity remain undisclosed.",
-   "url": "https://cryptoslate.com/a-major-bitcoin-miner-burned-through-357-btc-on-secret-compute-deals-while-its-output-plummeted/",
-   "ts": "2026-08-09T19:00:46Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
    "s": "The businessman, Guren \"Bobby\" Zhou, has not been charged, though British officials told the Times that the investigation remained active as of late July.",
    "url": "https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss",
@@ -177,6 +242,17 @@
    "tags": [],
    "srcs": [
     "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+   "s": "",
+   "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
+   "ts": "2026-08-09T18:30:00Z",
+   "tags": [],
+   "srcs": [
+    "CoinDesk"
    ],
    "alt": []
   },
@@ -213,20 +289,6 @@
    ],
    "srcs": [
     "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Investors poured $267 million into Bitwise’s Solana ETF, but market losses erased every cent",
-   "s": "$262.9 million of unrealized SOL depreciation drove most of a $316 million operational loss.",
-   "url": "https://cryptoslate.com/investors-poured-267-million-into-bitwises-solana-etf-but-market-losses-erased-every-cent/",
-   "ts": "2026-08-09T18:00:50Z",
-   "tags": [
-    "ETF",
-    "SOLANA"
-   ],
-   "srcs": [
-    "CryptoSlate"
    ],
    "alt": []
   },
@@ -296,19 +358,6 @@
    "tags": [],
    "srcs": [
     "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
-   "h": "White House warns CLARITY Act will die Sept 15 unless 7 Democrats vote yes",
-   "s": "The White House is raising pressure on Senate Democrats ahead of a Sept. 15 vote on the CLARITY Act, arguing that lawmakers have already had enough time to reach a deal on crypto market structure. On Aug.",
-   "url": "https://cryptoslate.com/white-house-warns-clarity-act-will-die-sept-15-unless-7-democrats-vote-yes/",
-   "ts": "2026-08-09T17:00:18Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoSlate"
    ],
    "alt": []
   },
@@ -404,20 +453,6 @@
    "alt": []
   },
   {
-   "h": "Michael Saylor reveals how ChatGPT helped Strategy unlock $15 billion for its Bitcoin machine",
-   "s": "Michael Saylor says Strategy used AI to design a new class of preferred stocks that ultimately allowed the company to raise roughly $15 billion for its Bitcoin strategy.",
-   "url": "https://cryptoslate.com/michael-saylor-reveals-how-ai-helped-strategy-unlock-15-billion-for-its-bitcoin-machine/",
-   "ts": "2026-08-09T16:00:26Z",
-   "tags": [
-    "BTC",
-    "LISTING"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "European Stock ETFs Post First Positive Month Since the Iran War Started",
    "s": "European stock exchange-traded funds (ETFs) recorded a month of positive net flows in July, their first since the US-Iran conflict began in late February, according to Bloomberg data. The return of capital signals renewed investor appetite for the region.",
    "url": "https://beincrypto.com/european-stock-etfs-july-inflows-return/",
@@ -456,53 +491,6 @@
    "alt": []
   },
   {
-   "h": "Stacks ranks first in Bitfinex report on Bitcoin usage",
-   "s": "Stacks' rise in Bitcoin usage highlights the growing importance of Bitcoin layer-2 solutions in enhancing blockchain scalability and DeFi integration.",
-   "url": "https://cryptobriefing.com/stacks-ranks-first-bitfinex-bitcoin-usage/",
-   "ts": "2026-08-09T15:28:29Z",
-   "tags": [
-    "BTC",
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Monaco leads Liverpool as Munoz makes debut in live match",
-   "s": "Liverpool's defensive vulnerabilities and disrupted rhythm under Iraola could impact their competitive readiness and strategic cohesion.",
-   "url": "https://cryptobriefing.com/monaco-leads-liverpool-munoz-debut/",
-   "ts": "2026-08-09T15:28:21Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Manchester United leads the race to sign Leicester City teen Louis Page",
-   "s": "Manchester United's potential acquisition of Louis Page could bolster their midfield future, while Leicester City may gain crucial financial relief.",
-   "url": "https://cryptobriefing.com/manchester-united-leads-bid-louis-page/",
-   "ts": "2026-08-09T15:18:31Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Saint-Étienne wins 3-0 in Ian Cathro’s coaching debut",
-   "s": "Cathro's successful debut could signal a promising turnaround for Saint-tienne, potentially accelerating their return to Ligue 1.",
-   "url": "https://cryptobriefing.com/saint-etienne-cathro-coaching-debut-win/",
-   "ts": "2026-08-09T15:18:27Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Crypto Made a $9.6 Billion Record, But It’s Hiding a Crucial Truth",
    "s": "Crypto mergers and acquisitions (M&A) reached a record $9.66 billion in disclosed value in the first half of 2026, even as the number of announced deals fell 25% to 87. The finding comes from CryptoRank Research, which tracked 87 acquisition announcements between January and June.",
    "url": "https://beincrypto.com/crypto-ma-record-value-deal-count/",
@@ -510,20 +498,6 @@
    "tags": [],
    "srcs": [
     "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Wall Street put $7B into tokenized funds, but under 1% is actually being used in DeFi",
-   "s": "DeFi recorded 99 hacks in the second quarter of 2026, more than any quarter on record in DeFiLlama's database. Real-world tokenized assets in use inside DeFi protocols have since climbed to nearly $3.97 billion, a fresh all-time high.",
-   "url": "https://cryptoslate.com/wall-street-put-7b-into-tokenized-funds-but-under-1-is-actually-being-used-in-defi/",
-   "ts": "2026-08-09T15:00:16Z",
-   "tags": [
-    "EQUITIES",
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "CryptoSlate"
    ],
    "alt": []
   },
@@ -541,25 +515,6 @@
    "alt": []
   },
   {
-   "h": "Iran approves bill outlines to manage Strait of Hormuz amid US tensions",
-   "s": "Iran's legislative move may hinder US-Iran negotiations, complicating diplomatic efforts and impacting global maritime and market stability.",
-   "url": "https://cryptobriefing.com/iran-approves-bill-outlines-to-manage-strait-of-hormuz-amid-us-tensions/",
-   "ts": "2026-08-09T14:36:53Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Iran’s armed forces take control of Strait of Hormuz, lawmaker says",
-     "https://cryptobriefing.com/iran-armed-forces-strait-of-hormuz-control/"
-    ]
-   ]
-  },
-  {
    "h": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
    "s": "",
    "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
@@ -571,34 +526,6 @@
    ],
    "srcs": [
     "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Never sell treasury model cracks again as 1,635 BTC is offloaded shrinking Empery reserves by 76% in weeks",
-   "s": "The company retained 1,279 BTC by Aug. 6, with 954 pledged against $35 million of debt.",
-   "url": "https://cryptoslate.com/never-sell-treasury-model-cracks-again-as-1635-btc-is-offloaded-shrinking-empery-reserves-by-76-in-weeks/",
-   "ts": "2026-08-09T14:00:20Z",
-   "tags": [
-    "BTC",
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
-   "h": "AI financial advisers carry a hidden Bitcoin bias activated by a single specific switch",
-   "s": "An AI financial adviser receives the same client three times, with the finances and tolerance for risk left unchanged. The first prompt asks for a diversified long-term portfolio.",
-   "url": "https://cryptoslate.com/ai-financial-advisers-carry-a-hidden-bitcoin-bias-activated-by-a-single-specific-switch/",
-   "ts": "2026-08-09T13:00:56Z",
-   "tags": [
-    "BTC",
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "CryptoSlate"
    ],
    "alt": []
   },
@@ -623,21 +550,6 @@
    ],
    "srcs": [
     "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
-   "h": "A $1.8 billion leverage trap is building on Solana as traders pay 11-month high rates to defend $78",
-   "s": "Aggregated funding on SOL perpetual futures has climbed to its highest level since September 2025, according to Velo data. Solana's futures open interest sits near $1.8 billion, equal to roughly 23.1 million SOL in notional exposure at current prices.",
-   "url": "https://cryptoslate.com/a-1-8-billion-leverage-trap-is-building-on-solana-as-traders-pay-11-month-high-rates-to-defend-78/",
-   "ts": "2026-08-09T12:00:17Z",
-   "tags": [
-    "LIQUIDATION",
-    "PERPS",
-    "SOLANA"
-   ],
-   "srcs": [
-    "CryptoSlate"
    ],
    "alt": []
   },
@@ -712,25 +624,17 @@
    "alt": []
   },
   {
-   "h": "Is Clarity's delay a blessing in disguise?: State of Crypto",
-   "s": "Grayscale Head of Research says the crypto industry can keep moving forward even if the CLARITY Act, the bill that would set US rules for digital asset markets, fails to pass this year. Zach Pandl said full passage looks unlikely in 2026, given the crowded Senate calendar and election-year politics.",
-   "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
-   "ts": "2026-08-09T09:57:31Z",
+   "h": "What to Expect in Markets This Week: July Inflation Data, Plus Updates on US Consumer Spending and Sentiment",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZjU5QUF5TUR3X1VrZWx5RWtGYl9yZFI1ZnZRUkxLUXVnN1BweHduckpMUHkxVldVdXFJc2lGZlBhNTFoNnFqcERYV3dUTHlFN0ZPa1NYaFNvS0Z6NFBkVFowdENGQl82c0ZKRFQ4WUFfOXpaVFVDMWVhRjc4SS1pb3N5QXlDSVIzU1AzZy1tbmxrSlJWZmpvRHJvc0RuRTNWYkRyaFc4X0VMdWFSTnA5VGtYZVlVMHNfeEJoc3hJOWlKbDl5VWc4ZWFoYmk2cFlIR2xSX2g4SXNudk9B?oc=5",
+   "ts": "2026-08-09T10:00:00Z",
    "tags": [
-    "ETF",
-    "REGULATION"
+    "MACRO"
    ],
    "srcs": [
-    "CoinDesk",
-    "BeInCrypto"
+    "Investopedia"
    ],
-   "alt": [
-    [
-     "BeInCrypto",
-     "Can Crypto Advance Without the CLARITY Act? Grayscale Says Yes",
-     "https://beincrypto.com/grayscale-crypto-advance-without-clarity-act/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
@@ -782,7 +686,7 @@
     "MACRO"
    ],
    "srcs": [
-    "hdfcsky.com"
+    "HDFC Sky"
    ],
    "alt": []
   },
@@ -795,7 +699,7 @@
     "MACRO"
    ],
    "srcs": [
-    "TradingKey"
+    "tradingkey.com"
    ],
    "alt": []
   },
@@ -853,22 +757,6 @@
      "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops"
     ]
    ]
-  },
-  {
-   "h": "SharpLink CEO Warns Against New Ethereum Network Proposal EIP-8363",
-   "s": "SharpLink CEO Joseph Chalom has come out against EIP-8363. This Ethereum proposal would burn validator rewards as the staking ratio rises, warning that the change would weaken decentralized finance and erase ETH’s native yield advantage over Bitcoin (BTC).",
-   "url": "https://beincrypto.com/sharplink-ceo-warning-eip8363-ethereum-issuance-burn/",
-   "ts": "2026-08-08T19:04:30Z",
-   "tags": [
-    "BTC",
-    "ETF",
-    "ETH",
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
   },
   {
    "h": "Hardware wallet sales in Russia more than double as new crypto rules near",
@@ -1104,7 +992,7 @@
    ],
    "srcs": [
     "The Block",
-    "yellow.com",
+    "Yellow.com",
     "incrypted",
     "Cointelegraph"
    ],
@@ -1115,7 +1003,7 @@
      "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     ],
     [
-     "yellow.com",
+     "Yellow.com",
      "Bitcoin And Ether ETFs Pull $1.1B In Their Best Week Since April",
      "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81U2x5MlpBT0YzajZ4WWt0R0k5cWNzaXhadVhWTFhLZFdORHJFWHppakM1dkRpRG5rX1JCWmM3NDJTOXF4Q0RIUDhMN0pIUlJpV1JqSHZlUFV5aUlvcmc5UEVsWDc5X1h5?oc=5"
     ],
@@ -2085,7 +1973,7 @@
    ],
    "srcs": [
     "Bitget",
-    "kucoin.com"
+    "KuCoin"
    ],
    "alt": [
     [
@@ -2100,6 +1988,17 @@
    "s": "Japanese authorities called for address registration, customer-specific limits and stronger authentication as part of a broader push to curb misuse of exchange accounts.",
    "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "ts": "2026-08-07T05:24:38Z",
+   "tags": [],
+   "srcs": [
+    "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
+   "s": "The latest bipartisan ethics proposal would reportedly require Trump to divest crypto businesses while allowing him to defer capital gains taxes on those sales.",
+   "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-07T05:04:22Z",
    "tags": [],
    "srcs": [
     "Cointelegraph"
@@ -2199,90 +2098,6 @@
    ],
    "srcs": [
     "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg",
-   "s": "President Trump is reviewing ethics language in a bid to pass cryptocurrency legislation — which could result in a personal tax benefit.",
-   "url": "https://www.theblock.co/news/regulation/2026-08-06-crypto-bill-ethics-provision-could-let-trump-defer-millions-in-taxes-bloomberg-411065?utm_source=rss&utm_medium=rss",
-   "ts": "2026-08-06T21:52:43Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "The Block",
-    "Cointelegraph"
-   ],
-   "alt": [
-    [
-     "Cointelegraph",
-     "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
-     "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    ]
-   ]
-  },
-  {
-   "h": "“We Need Clarity,” Says Former New York Governor Andrew Cuomo",
-   "s": "Bitcoin Magazine “We Need Clarity,” Says Former New York Governor Andrew Cuomo The ex-New York governor hinted that Democrats were playing politics with the Clarity Act. This post “We Need Clarity,” Says Former New York Governor Andrew Cuomo first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "url": "https://bitcoinmagazine.com/news/andrew-cuomo-urges-clarity-act-action",
-   "ts": "2026-08-06T21:46:18Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "Bitcoin Magazine"
-   ],
-   "alt": []
-  },
-  {
-   "h": "SEC Bought a Billion Airline Records to Track Travelers—Likely Without a Warrant",
-   "s": "The financial regulator subscribed to a global flight database covering more than a billion tickets to monitor activity.",
-   "url": "https://decrypt.co/375078/sec-billion-airline-records-track-travelers",
-   "ts": "2026-08-06T21:36:03Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
-   "s": "Wintermute USA is a New York-based subsidiary that has registered as a broker-dealer with the SEC and FINRA.",
-   "url": "https://www.theblock.co/news/regulation/2026-08-06-wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs-411060?utm_source=rss&utm_medium=rss",
-   "ts": "2026-08-06T21:29:13Z",
-   "tags": [
-    "ETF",
-    "REGULATION"
-   ],
-   "srcs": [
-    "The Block"
-   ],
-   "alt": []
-  },
-  {
-   "h": "ether.fi Removes Restaking From weETH, Nearing A Full EigenLayer Exit",
-   "s": "Restaking exposure moves into weETHs, a separate token built on Symbiotic. CEO Mike Silagadze: “End of an era. Sad.”",
-   "url": "https://thedefiant.io/news/defi/etherfi-removes-restaking-from-weeth-nearing-full-eigenlayer-exit",
-   "ts": "2026-08-06T21:16:01Z",
-   "tags": [],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin miners MARA and CleanSpark post double-digit revenue drops as AI infrastructure pivot continues",
-   "s": "MARA's net loss widened to $611.3 million, or $1.60 per diluted share, while CleanSpark’s was $239.8 million, or $0.89 per basic share.",
-   "url": "https://www.theblock.co/news/business/2026-08-06-bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot-411049?utm_source=rss&utm_medium=rss",
-   "ts": "2026-08-06T21:10:23Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "The Block"
    ],
    "alt": []
   }
