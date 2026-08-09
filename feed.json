@@ -1,9 +1,99 @@
 {
- "updated": "2026-08-09T19:19:14.763895Z",
- "newest": "2026-08-09T19:14:35Z",
+ "updated": "2026-08-09T21:04:06.981317Z",
+ "newest": "2026-08-09T21:00:13Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Crypto holders face an Aug 27 deadline to save 21 tokens before Kraken liquidates them into thin order books",
+   "s": "Withdrawals close at 14:00 UTC, then thin markets could determine what automatic liquidation returns.",
+   "url": "https://cryptoslate.com/crypto-holders-face-an-aug-27-deadline-to-save-21-tokens-before-kraken-liquidates-them-into-thin-order-books/",
+   "ts": "2026-08-09T21:00:13Z",
+   "tags": [
+    "LIQUIDATION"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Pump.fun surpasses Hyperliquid in 30-day revenue as $PUMP rises 12%",
+   "s": "Pump.fun's revenue surge highlights the potential for innovative economic models to disrupt established crypto platforms, impacting investment strategies.",
+   "url": "https://cryptobriefing.com/pump-fun-surpasses-hyperliquid-revenue/",
+   "ts": "2026-08-09T20:51:54Z",
+   "tags": [
+    "PERPS",
+    "SOLANA"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Hyperliquid reaches 263,419 active perpetual traders, commanding nearly 70% of on-chain perp activity",
+   "s": "Hyperliquid's dominance in on-chain perpetual trading highlights a shift towards decentralized platforms amid regulatory pressures on centralized exchanges.",
+   "url": "https://cryptobriefing.com/hyperliquid-263k-active-perp-traders/",
+   "ts": "2026-08-09T20:35:37Z",
+   "tags": [
+    "ONCHAIN",
+    "PERPS",
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "A proposed Ethereum upgrade threatens to kill native yield and force SharpLink’s $125M treasury into high-risk DeFi",
+   "s": "EIP-8363 would drive net consensus yield to zero at 60.25 million ETH staked, shifting the burden toward variable fees, MEV and DeFi returns.",
+   "url": "https://cryptoslate.com/a-proposed-ethereum-upgrade-threatens-to-kill-native-yield-and-force-sharplinks-125m-treasury-into-high-risk-defi/",
+   "ts": "2026-08-09T20:00:07Z",
+   "tags": [
+    "ETH",
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "USDC and USDT Now Own 84% of Crypto Card Spend as the Euro Retreats",
+   "s": "Dollar-backed stablecoins have taken over crypto payment cards. USDC (USDC) and Tether (USDT) together account for roughly 84% of card spending. The split reverses a market that was dominated by euro tokens less than two years ago. The shift coincided with a wave of new card programs and settlement chains.",
+   "url": "https://beincrypto.com/usdc-usdt-crypto-card-spend/",
+   "ts": "2026-08-09T19:38:14Z",
+   "tags": [
+    "REGULATION",
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
+   "s": "The breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.",
+   "url": "https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
+   "ts": "2026-08-09T19:33:09Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "Decrypt",
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Bitcoin ‘anti-spam’ fork halts after mining two blocks",
+     "https://cryptobriefing.com/bitcoin-anti-spam-fork-halts-two-blocks/"
+    ]
+   ]
+  },
   {
    "h": "Senate advances CLARITY Act, Bitcoin price outlook slightly optimistic",
    "s": "The Senate's progress on the CLARITY Act could enhance regulatory certainty, potentially boosting Bitcoin's long-term market confidence.",
@@ -95,6 +185,17 @@
    "s": "The reallocation underscores Israel's prioritization of defense over tech investment, potentially impacting its semiconductor industry growth.",
    "url": "https://cryptobriefing.com/israel-redirects-intel-funds-munitions/",
    "ts": "2026-08-09T18:22:38Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Iran demands US concessions for Hormuz shipping lane deal",
+   "s": "Iran's demands complicate U.S. negotiations, impacting global energy security and increasing uncertainty in nuclear deal prospects.",
+   "url": "https://cryptobriefing.com/iran-demands-us-concessions-for-hormuz-shipping-lane-deal/",
+   "ts": "2026-08-09T18:12:20Z",
    "tags": [],
    "srcs": [
     "CryptoBriefing"
@@ -259,6 +360,17 @@
     "BTC",
     "REGULATION"
    ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Israel rejects Trump’s Gaza peace plan, demands Hamas disarmament",
+   "s": "Israel's stance complicates U.S.-Iran diplomacy, potentially delaying peace efforts and impacting regional geopolitical dynamics.",
+   "url": "https://cryptobriefing.com/israel-rejects-trumps-gaza-peace-plan-demands-hamas-disarmament/",
+   "ts": "2026-08-09T16:32:29Z",
+   "tags": [],
    "srcs": [
     "CryptoBriefing"
    ],
@@ -442,49 +554,8 @@
    "alt": [
     [
      "CryptoBriefing",
-     "Iran demands US concessions for Hormuz shipping lane deal",
-     "https://cryptobriefing.com/iran-demands-us-concessions-for-hormuz-shipping-lane-deal/"
-    ]
-   ]
-  },
-  {
-   "h": "Ether.fi CEO warns EIP-8363 could harm small LSTs and consolidate power toward Lido",
-   "s": "EIP-8363 risks centralizing Ethereum staking, potentially undermining decentralization by favoring large operators like Lido over smaller ones.",
-   "url": "https://cryptobriefing.com/eip-8363-small-lst-lido-centralization/",
-   "ts": "2026-08-09T14:25:36Z",
-   "tags": [
-    "ETH"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Khamenei banner burned in Iran amid calls for protests, regime dissent escalates",
-   "s": "Escalating dissent in Iran could destabilize the regime, influencing leadership dynamics and increasing political uncertainty.",
-   "url": "https://cryptobriefing.com/khamenei-banner-burned-in-iran-amid-calls-for-protests-regime-dissent-escalates/",
-   "ts": "2026-08-09T14:21:33Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Netanyahu rejects US-backed proposal for Hamas disarmament",
-   "s": "Netanyahu's rejection complicates US diplomacy, potentially stalling peace efforts and exacerbating regional tensions and territorial disputes.",
-   "url": "https://cryptobriefing.com/netanyahu-rejects-us-hamas-disarmament-proposal/",
-   "ts": "2026-08-09T14:20:23Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Israel rejects Trump’s Gaza peace plan, demands Hamas disarmament",
-     "https://cryptobriefing.com/israel-rejects-trumps-gaza-peace-plan-demands-hamas-disarmament/"
+     "Iran’s armed forces take control of Strait of Hormuz, lawmaker says",
+     "https://cryptobriefing.com/iran-armed-forces-strait-of-hormuz-control/"
     ]
    ]
   },
@@ -500,30 +571,6 @@
    ],
    "srcs": [
     "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Liverpool leads Monaco 2-0 at halftime in Anfield pre-season friendly",
-   "s": "Liverpool's promising pre-season performance under new coach Iraola suggests a potential resurgence in competitive play this season.",
-   "url": "https://cryptobriefing.com/liverpool-monaco-preseason-isak-wirtz-iraola/",
-   "ts": "2026-08-09T14:10:59Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "S&P 500 sales growth hits nearly 5-year high, driven by energy firms",
-   "s": "The S&P 500's robust sales growth highlights the dual impact of geopolitical tensions on energy and sustained tech demand, signaling market volatility.",
-   "url": "https://cryptobriefing.com/sp500-sales-growth-five-year-high-energy/",
-   "ts": "2026-08-09T14:07:43Z",
-   "tags": [
-    "EQUITIES"
-   ],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -665,21 +712,6 @@
    "alt": []
   },
   {
-   "h": "Why crypto ‘audited’ badges are giving investors a dangerous false sense of security",
-   "s": "At 1:30 p.m. UTC on Feb. 21, 2025, Bybit began moving funds from an Ethereum cold wallet to a warm wallet, the sort of routine transfer designed to make custody look boring. Authorized signers reviewed the destination on their screens and approved it, unaware that their screens were actually lying.",
-   "url": "https://cryptoslate.com/why-crypto-audited-badges-are-giving-investors-a-dangerous-false-sense-of-security/",
-   "ts": "2026-08-09T09:59:56Z",
-   "tags": [
-    "ETH",
-    "INSTITUTIONAL",
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "Is Clarity's delay a blessing in disguise?: State of Crypto",
    "s": "Grayscale Head of Research says the crypto industry can keep moving forward even if the CLARITY Act, the bill that would set US rules for digital asset markets, fails to pass this year. Zach Pandl said full passage looks unlikely in 2026, given the crowded Senate calendar and election-year politics.",
    "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
@@ -711,9 +743,15 @@
    ],
    "srcs": [
     "The Block",
-    "Cointelegraph"
+    "Cointelegraph",
+    "CryptoBriefing"
    ],
    "alt": [
+    [
+     "CryptoBriefing",
+     "Brazil mandates 24-hour delay on crypto transfers over $10K starting 2027",
+     "https://cryptobriefing.com/brazil-crypto-transfer-delay-2027/"
+    ],
     [
      "Cointelegraph",
      "Brazil targets crypto fraud with up to 24-hour transfer hold",
@@ -744,7 +782,7 @@
     "MACRO"
    ],
    "srcs": [
-    "HDFC Sky"
+    "hdfcsky.com"
    ],
    "alt": []
   },
@@ -772,6 +810,7 @@
     "FLOWS"
    ],
    "srcs": [
+    "Bitget",
     "CryptoRank"
    ],
    "alt": []
@@ -786,15 +825,9 @@
    ],
    "srcs": [
     "The Block",
-    "Cointelegraph",
-    "CryptoSlate"
+    "Cointelegraph"
    ],
    "alt": [
-    [
-     "CryptoSlate",
-     "Bitcoin split into two chains overnight, but a silent miner boycott just halted the enforcing BIP-110 chain",
-     "https://cryptoslate.com/bitcoin-split-into-two-chains-overnight-but-a-silent-miner-boycott-just-halted-the-enforcing-chain/"
-    ],
     [
      "Cointelegraph",
      "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
@@ -879,13 +912,11 @@
   },
   {
    "h": "Hyperliquid ETFs Turn Green After Bleeding $30 Million in Three Weeks",
-   "s": "Hyperliquid (HYPE) spot exchange-traded funds (ETFs) returned to net inflows in the week ending August 7, adding $2.84 million after three straight weeks of redemptions. The reversal followed a cautious stretch flagged by JPMorgan. Cumulative net inflows now stand at $280.8 million.",
+   "s": "",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lMTZpeTBlVnc3azliQzlLLWwzeDhHcjVIRFY5QzNQNERIeFdXVnBpeDhsVnJQN0ctc0ZnWmR3dTdKZFFWXzNva1hFRmxybUVhclBuRUwzb2ltd0pUTGdlM3ZHZEhVTmZVZURpMWZleVNwcFNqeWRkaQ?oc=5",
    "ts": "2026-08-08T16:38:00Z",
    "tags": [
     "ETF",
-    "FLOWS",
-    "INSTITUTIONAL",
     "PERPS"
    ],
    "srcs": [
@@ -1073,7 +1104,7 @@
    ],
    "srcs": [
     "The Block",
-    "Yellow.com",
+    "yellow.com",
     "incrypted",
     "Cointelegraph"
    ],
@@ -1084,7 +1115,7 @@
      "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     ],
     [
-     "Yellow.com",
+     "yellow.com",
      "Bitcoin And Ether ETFs Pull $1.1B In Their Best Week Since April",
      "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81U2x5MlpBT0YzajZ4WWt0R0k5cWNzaXhadVhWTFhLZFdORHJFWHppakM1dkRpRG5rX1JCWmM3NDJTOXF4Q0RIUDhMN0pIUlJpV1JqSHZlUFV5aUlvcmc5UEVsWDc5X1h5?oc=5"
     ],
@@ -2054,7 +2085,7 @@
    ],
    "srcs": [
     "Bitget",
-    "KuCoin"
+    "kucoin.com"
    ],
    "alt": [
     [
@@ -2098,6 +2129,26 @@
     "Cointelegraph"
    ],
    "alt": []
+  },
+  {
+   "h": "Senate delays Clarity Act vote until after August recess, Thune confirms",
+   "s": "Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting that queued up first thing when we come back.'",
+   "url": "https://www.theblock.co/news/regulation/2026-08-06-senate-delays-clarity-act-vote-411083?utm_source=rss&utm_medium=rss",
+   "ts": "2026-08-07T02:49:53Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "The Block",
+    "Cointelegraph"
+   ],
+   "alt": [
+    [
+     "Cointelegraph",
+     "US Senate pushes CLARITY Act vote to September",
+     "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    ]
+   ]
   },
   {
    "h": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
@@ -2232,137 +2283,6 @@
    ],
    "srcs": [
     "The Block"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Tokyo Tells Trump to Stop Meme-ing Mario",
-   "s": "Tokyo has asked Washington to stop meme-posting Mario, Pokémon, and Naruto without permission in a clash between meme-heavy statecraft and strict IP norms.",
-   "url": "https://decrypt.co/375069/tokyo-trump-mario-naruto-pokemon-memes",
-   "ts": "2026-08-06T21:01:03Z",
-   "tags": [],
-   "srcs": [
-    "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Breaking Down Ethereum's New Issuance Debate",
-   "s": "EIP-8363 would cap Ethereum's staking ratio by burning issuance past 50% staked. Here's where the debate around this proposal stands today.",
-   "url": "https://www.bankless.com/read/breaking-down-ethereums-new-issuance-debate",
-   "ts": "2026-08-06T20:40:09Z",
-   "tags": [
-    "ETH"
-   ],
-   "srcs": [
-    "Bankless"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-   "s": "The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
-   "url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
-   "ts": "2026-08-06T20:31:03Z",
-   "tags": [
-    "HACK"
-   ],
-   "srcs": [
-    "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Uniswap's New Launchpad Out-Launched Pons On Its First Day On Robinhood Chain",
-   "s": "Pools.trade opened on Aug. 5 charging no launchpad fee and created 10,506 tokens that day against Pons' 7,210. Uniswap says the product does not change its support for the launchpads already built on its protocol. Some traders disagree. PONS is down 49% on the week.",
-   "url": "https://thedefiant.io/news/defi/uniswaps-new-launchpad-out-launched-pons-on-its-first-day-on-robinhood-chain",
-   "ts": "2026-08-06T20:22:19Z",
-   "tags": [
-    "MEMECOIN"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Breez Announces Glow, an Open Source Bitcoin to Stablecoins Progressive Web App",
-   "s": "Bitcoin Magazine Breez Announces Glow, an Open Source Bitcoin to Stablecoins Progressive Web App Breez’s new open-source Glow PWA turns Bitcoin into everyday money. Users send stablecoins from their BTC balance via Spark, log in with Passkeys, and keep full self-custody.",
-   "url": "https://bitcoinmagazine.com/business/breez-announces-glow-an-open-source-bitcoin-to-stablecoins-progressive-web-app",
-   "ts": "2026-08-06T20:07:16Z",
-   "tags": [
-    "BTC",
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "Bitcoin Magazine"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Robinhood Chain's DEX Volume Fell 72% While Transactions And Deposits Set Records",
-   "s": "Daily volume dropped from $878 million on Jul. 11 to $241 million on Aug. 1 as transactions, deposits and stablecoin supply climbed to all-time highs. Volume per transaction fell 74%. More than 90% of the chain's incentive spending pays depositors.",
-   "url": "https://thedefiant.io/news/blockchains/robinhood-chains-dex-volume-fell-72-while-transactions-and-deposits-set-records",
-   "ts": "2026-08-06T19:57:34Z",
-   "tags": [
-    "ONCHAIN",
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets",
-   "s": "Democratic lawmakers say wildfire event contracts create risks of arson, insider trading, and disaster profiteering as they urge federal regulators to step in.",
-   "url": "https://decrypt.co/375066/senators-push-cftc-ban-wildfire-bets-prediction-markets",
-   "ts": "2026-08-06T19:51:09Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Senate delays Clarity Act vote until after August recess, Thune confirms",
-   "s": "Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting that queued up first thing when we come back.'",
-   "url": "https://www.theblock.co/news/regulation/2026-08-06-senate-delays-clarity-act-vote-411083?utm_source=rss&utm_medium=rss",
-   "ts": "2026-08-06T19:43:15Z",
-   "tags": [
-    "BTC",
-    "REGULATION"
-   ],
-   "srcs": [
-    "The Block",
-    "Cointelegraph",
-    "Bitcoin Magazine"
-   ],
-   "alt": [
-    [
-     "Cointelegraph",
-     "US Senate pushes CLARITY Act vote to September",
-     "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    ],
-    [
-     "Bitcoin Magazine",
-     "Senate Whip Barrasso Becomes Latest Lawmaker to Support Crypto Clarity Act, But Time May Be Running Out",
-     "https://bitcoinmagazine.com/news/barrasso-supports-clarity-act"
-    ]
-   ]
-  },
-  {
-   "h": "MetaMask Launches Agent Wallets",
-   "s": "MetaMask launched Agent Wallet, giving AI agents self-custodial access to onchain trading within user-defined limits and security controls.",
-   "url": "https://www.bankless.com/read/news/metamask-launches-agent-wallets",
-   "ts": "2026-08-06T19:36:06Z",
-   "tags": [
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "Bankless"
    ],
    "alt": []
   }
