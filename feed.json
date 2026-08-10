@@ -1,17 +1,608 @@
 {
- "updated": "2026-08-10T18:36:35.023056Z",
- "newest": "2026-08-10T18:31:40Z",
+ "updated": "2026-08-10T21:12:40.871877Z",
+ "newest": "2026-08-10T21:12:07Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
   {
-   "h": "Baillie Gifford’s McPadden highlights TSMC, SK Hynix’s near-monopoly in advanced chip manufacturing",
-   "s": "The dominance of TSMC and SK Hynix in chip manufacturing underscores geopolitical risks and barriers to entry, impacting global tech dynamics.",
-   "url": "https://cryptobriefing.com/baillie-gifford-tsmc-sk-hynix-chip-dominance/",
-   "ts": "2026-08-10T18:31:40Z",
+   "h": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+   "s": "",
+   "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
+   "ts": "2026-08-10T21:12:07Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CoinDesk"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Nasdaq puts $675 million Avalanche Treasury on the clock over two listing failures",
+   "s": "The AVAX treasury company must hold a $1 closing bid and $35 million listed-securities value threshold for at least 10 consecutive business days.",
+   "url": "https://cryptoslate.com/nasdaq-puts-675-million-avalanche-treasury-on-the-clock-over-two-listing-failures/",
+   "ts": "2026-08-10T21:10:22Z",
+   "tags": [
+    "EQUITIES",
+    "INSTITUTIONAL",
+    "LISTING"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
+   "s": "AUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.",
+   "url": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
+   "ts": "2026-08-10T21:02:43Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Spark CEO Sam Macpherson makes the case for sub-DAOs as a governance fix",
+   "s": "Sub-DAOs could enhance DAO efficiency by fostering competition and innovation, potentially transforming decentralized governance dynamics.",
+   "url": "https://cryptobriefing.com/spark-sub-dao-governance-model/",
+   "ts": "2026-08-10T21:02:15Z",
    "tags": [],
    "srcs": [
     "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin traders assess macroeconomic factors for future outlook",
+   "s": "Bitcoin's integration into traditional finance highlights its evolving role as a macro-sensitive asset, influenced by economic indicators.",
+   "url": "https://cryptobriefing.com/bitcoin-traders-macro-factors-outlook/",
+   "ts": "2026-08-10T21:01:11Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Judge stays CFTC’s case against US soldier over prediction market bets",
+   "s": "A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.",
+   "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-10T20:50:59Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Kraken holds the instant liquidation switch on a crypto firm’s 479 Bitcoin if price drops to $45,094",
+   "s": "The Aug. 7 filing ties 479 pledged Bitcoin to the higher balance, making the dated, principal-only threshold calculable.",
+   "url": "https://cryptoslate.com/kraken-holds-the-instant-liquidation-switch-on-a-crypto-firms-479-bitcoin-if-price-drops-to-45094/",
+   "ts": "2026-08-10T20:45:54Z",
+   "tags": [
+    "BTC",
+    "LIQUIDATION"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Strategy CEO Phong Le says selling thousands of Bitcoin is ‘irrelevant’ to market pricing",
+   "s": "Strategy's Bitcoin sales highlight a shift towards active capital management, potentially influencing corporate strategies in crypto asset handling.",
+   "url": "https://cryptobriefing.com/strategy-ceo-bitcoin-sales-market-impact/",
+   "ts": "2026-08-10T20:45:22Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Spark Protocol’s rate limits turned a $294M exploit into a growth story",
+   "s": "Spark Protocol's proactive risk management through rate limits highlights the importance of structural safeguards in DeFi, fostering trust and growth.",
+   "url": "https://cryptobriefing.com/spark-protocol-rate-limits-kelpdao-hack/",
+   "ts": "2026-08-10T20:36:51Z",
+   "tags": [
+    "HACK",
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Fireplace shuts down: users have until September 30 to withdraw funds and migrate positions",
+   "s": "The closure of Fireplace highlights the ongoing consolidation trend in prediction markets, urging users to adapt swiftly to platform changes.",
+   "url": "https://cryptobriefing.com/fireplace-shuts-down-september-30-withdrawal-deadline/",
+   "ts": "2026-08-10T20:29:05Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "BlackRock updates Geopolitical Risk Dashboard to flag AI leadership race as a top global threat",
+   "s": "AI leadership race intensifies geopolitical fragmentation, reshaping global power dynamics and investment strategies amid rising systemic risks.",
+   "url": "https://cryptobriefing.com/blackrock-geopolitical-risk-dashboard-ai-leadership/",
+   "ts": "2026-08-10T20:29:00Z",
+   "tags": [
+    "ETF",
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin's Ordinals War Reaches Its Verdict",
+   "s": "A weekend soft fork aimed at restricting NFTs on Bitcoin collapsed after two blocks.",
+   "url": "https://www.bankless.com/read/bitcoins-ordinals-war-reaches-its-verdict",
+   "ts": "2026-08-10T20:28:49Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "Bankless"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Why Did a $330 Million Gold Token Suddenly Jump 110% on CoinGecko?",
+   "s": "Kinesis Gold (KAU), a token backed by physical gold, appeared to surge more than 110% on CoinGecko on Monday. The move looked dramatic. KAU briefly showed a 24-hour low near $66 before returning to around $140. Yet gold itself had not moved anywhere close to that amount. The most likely explanation is a market data",
+   "url": "https://beincrypto.com/kinesis-gold-kau-110-percent-coingecko-price-glitch/",
+   "ts": "2026-08-10T20:28:02Z",
+   "tags": [],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit",
+   "s": "BTCPay said AI may have been used to exploit vulnerability, and credited Craig Raw and the Bitcoin Red Team fund for reporting the issue.",
+   "url": "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353?utm_source=rss&utm_medium=rss",
+   "ts": "2026-08-10T20:26:55Z",
+   "tags": [
+    "BTC",
+    "HACK",
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "The Block",
+    "Bitcoin Magazine"
+   ],
+   "alt": [
+    [
+     "Bitcoin Magazine",
+     "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit",
+     "https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty"
+    ]
+   ]
+  },
+  {
+   "h": "GOP Rep. Max Miller’s reelection race shifts to toss-up amid abuse allegations",
+   "s": "The allegations and investigation could significantly impact GOP dynamics and voter confidence, potentially altering the district's political landscape.",
+   "url": "https://cryptobriefing.com/gop-rep-max-millers-reelection-race-shifts-to-toss-up-amid-abuse-allegations/",
+   "ts": "2026-08-10T20:24:08Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "AWS embeds security into OpenAI, Anthropic coding tools with new Continuum integrations",
+   "s": "AWS's integration of security into AI coding tools enhances real-time vulnerability management, reinforcing DevSecOps and platform flexibility.",
+   "url": "https://cryptobriefing.com/aws-continuum-security-openai-anthropic-coding/",
+   "ts": "2026-08-10T20:20:41Z",
+   "tags": [
+    "HACK"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
+   "s": "Circle's potential growth in the stablecoin market highlights the importance of diversified revenue streams and regulatory compliance for future success.",
+   "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
+   "ts": "2026-08-10T20:20:06Z",
+   "tags": [
+    "ETF",
+    "REGULATION",
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "CoinDesk",
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Bitwise’s Rasmussen says Circle is mispriced amid stablecoin growth",
+     "https://cryptobriefing.com/bitwise-circle-mispriced-stablecoin-growth/"
+    ]
+   ]
+  },
+  {
+   "h": "Cathie Wood predicts Federal Reserve will not tighten in 2026",
+   "s": "Wood's prediction suggests a potential shift in economic policy, emphasizing growth and innovation, which could reshape market dynamics.",
+   "url": "https://cryptobriefing.com/cathie-wood-fed-no-tightening-2026/",
+   "ts": "2026-08-10T20:18:07Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Microsoft adjusts capex outlook due to accounting change, not a spending slowdown",
+   "s": "Microsoft's accounting change highlights the importance of understanding financial metrics' nuances, impacting investor perceptions and market reactions.",
+   "url": "https://cryptobriefing.com/microsoft-capex-accounting-change-ai-spending/",
+   "ts": "2026-08-10T20:11:45Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "KICK files for AI and space-themed ETFs as thematic fund race heats up",
+   "s": "KICK's entry into AI and space ETFs highlights the intensifying competition and challenges of differentiation in thematic investing.",
+   "url": "https://cryptobriefing.com/kick-files-ai-space-etfs/",
+   "ts": "2026-08-10T20:11:11Z",
+   "tags": [
+    "ETF"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Intel’s $15 billion share sale reportedly oversubscribed multiple times",
+   "s": "Intel's oversubscribed share sale highlights strong investor confidence, potentially accelerating its growth and innovation in the semiconductor industry.",
+   "url": "https://cryptobriefing.com/intel-share-sale-oversubscribed/",
+   "ts": "2026-08-10T20:03:36Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
+   "s": "",
+   "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
+   "ts": "2026-08-10T20:03:24Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CoinDesk"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Micron poised for growth as Nvidia expands memory supplier list for Vera Rubin platform",
+   "s": "Micron's inclusion in Nvidia's supplier list enhances its market position, potentially boosting profitability and supply chain resilience.",
+   "url": "https://cryptobriefing.com/micron-nvidia-hbm4-vera-rubin-supplier/",
+   "ts": "2026-08-10T20:01:48Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Barcelona’s pursuit of Rodri takes unexpected turn as midfielder agrees personal terms",
+   "s": "Barcelona's pursuit of Rodri highlights the club's urgent need for midfield reinforcement amid financial challenges, impacting La Liga dynamics.",
+   "url": "https://cryptobriefing.com/barcelona-rodri-transfer-unexpected-turn/",
+   "ts": "2026-08-10T19:58:42Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Hidden Text in PDFs Is Hijacking This AI Assistant",
+   "s": "A security firm says Atlassian's AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you'd swear was empty.",
+   "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
+   "ts": "2026-08-10T19:56:50Z",
+   "tags": [
+    "HACK"
+   ],
+   "srcs": [
+    "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Hyperliquid expands markets, boosting demand for HYPE token",
+   "s": "Hyperliquid's market expansion and fee mechanisms could enhance HYPE's value, influencing investor sentiment and long-term price forecasts.",
+   "url": "https://cryptobriefing.com/hyperliquid-expands-markets-boosting-demand-for-hype-token/",
+   "ts": "2026-08-10T19:55:51Z",
+   "tags": [
+    "PERPS"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Value Aligned Research Advisors falls 44% amid AI stock declines",
+   "s": "The VARA fund's decline highlights the risks of concentrated AI investments, prompting reevaluation of strategy and diversification in the sector.",
+   "url": "https://cryptobriefing.com/vara-ai-fund-falls-44-percent/",
+   "ts": "2026-08-10T19:55:02Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Robinhood Chain tops Ethereum L2 revenue with $3.6M in first month",
+   "s": "Robinhood Chain's success highlights the potential for traditional finance platforms to disrupt and dominate the crypto-native Layer-2 ecosystem.",
+   "url": "https://cryptobriefing.com/robinhood-chain-tops-l2-revenue-july/",
+   "ts": "2026-08-10T19:52:27Z",
+   "tags": [
+    "ETH"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+   "s": "Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.",
+   "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-10T19:47:01Z",
+   "tags": [
+    "ONCHAIN",
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Robinhood's Head of Product Reveals How Robinhood Chain Hit 200M Transactions in 30 Days",
+   "s": "Robinhood just launched its own blockchain — and the numbers are wild. Seong Lee, Head of Product for Robinhood Crypto, joins Chris Storaker to explain how Robinhood Chain went from zero to 200 million transactions in a month, why permissionless stock tokens can now be redeemed even if Robinhood",
+   "url": "https://thedefiant.io/converge/podcast/robinhood-s-head-of-product-reveals-how-robinhood-chain-hit-200m-transactions-in-30-days",
+   "ts": "2026-08-10T19:42:20Z",
+   "tags": [
+    "ETH",
+    "REGULATION"
+   ],
+   "srcs": [
+    "The Defiant",
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Robinhood Chain reaches 200M transactions in 30 days, outpacing Base at its peak",
+     "https://cryptobriefing.com/robinhood-chain-200m-transactions-30-days/"
+    ]
+   ]
+  },
+  {
+   "h": "US judge dismisses criminal case against Gautam Adani",
+   "s": "The dismissal highlights a shift in US legal strategy, potentially affecting future foreign corruption cases and investor confidence in global markets.",
+   "url": "https://cryptobriefing.com/us-judge-dismisses-adani-criminal-case/",
+   "ts": "2026-08-10T19:38:57Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "US judge dismisses criminal case against Indian billionaire Gautam Adani",
+     "https://cryptobriefing.com/us-judge-dismisses-criminal-case-adani/"
+    ]
+   ]
+  },
+  {
+   "h": "IAEA to remove nuclear material from secret Syrian site after US brokers deal with Israel",
+   "s": "The IAEA's actions could set a precedent for international nuclear oversight, influencing future diplomatic and nonproliferation efforts globally.",
+   "url": "https://cryptobriefing.com/iaea-remove-nuclear-material-syria-us-deal/",
+   "ts": "2026-08-10T19:35:47Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin Exchange-Traded Funds See Spike In Inflows Following Huge Hack",
+   "s": "Bitcoin Magazine Bitcoin Exchange-Traded Funds See Spike In Inflows Following Huge Hack The Bitcoin ETFs are experiencing massive inflows, despite the negative news from last month's Coldcard hack.",
+   "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-see-biggest-flows-since-april",
+   "ts": "2026-08-10T19:35:34Z",
+   "tags": [
+    "BTC",
+    "ETF",
+    "FLOWS",
+    "HACK"
+   ],
+   "srcs": [
+    "Bitcoin Magazine"
+   ],
+   "alt": []
+  },
+  {
+   "h": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
+   "s": "An individual behind the Aqua 1 entity that purchased $100 million worth of World Liberty Financial tokens in 2025 is reportedly a businessman with ties to the UK and UAE.",
+   "url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-10T19:35:19Z",
+   "tags": [
+    "SECURITY",
+    "WHALE"
+   ],
+   "srcs": [
+    "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
+   "h": "One of Worldcoin’s largest corporate holders now sits on a $207M loss after losing its primary source of cash",
+   "s": "The June 30 loss was unrealized, but a $7.8 million credit-loss allowance and 109% share-count increase sharpen the capital-allocation test.",
+   "url": "https://cryptoslate.com/one-of-worldcoins-largest-corporate-holders-sits-on-a-207-million-paper-loss-after-losing-its-primary-source-of-cash/",
+   "ts": "2026-08-10T19:30:56Z",
+   "tags": [],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Trump asserts US can escalate actions in 2026 Iran conflict",
+   "s": "Trump's stance may hinder diplomatic solutions, increasing tensions and affecting market confidence in a U.S.-Iran deal for 2026.",
+   "url": "https://cryptobriefing.com/trump-asserts-us-can-escalate-actions-in-2026-iran-conflict/",
+   "ts": "2026-08-10T19:27:06Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "BlackRock says bitcoin sentiment is turning as decoupling from stocks takes hold",
+   "s": "\"That decoupling is healthy because it’s part of the thesis for a lot of people around bitcoin as a diversifier,\" says BlackRock.",
+   "url": "https://www.theblock.co/news/markets/2026-08-10-blackrock-says-bitcoin-sentiment-turning-decoupling-stocks-takes-hold-411333?utm_source=rss&utm_medium=rss",
+   "ts": "2026-08-10T19:22:26Z",
+   "tags": [
+    "BTC",
+    "EQUITIES",
+    "ETF",
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "The Block",
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "BlackRock’s Mitchnick notes improving Bitcoin sentiment as it decouples from equities",
+     "https://cryptobriefing.com/blackrock-mitchnick-bitcoin-decouples-equities/"
+    ]
+   ]
+  },
+  {
+   "h": "Drone strike hits Zawiya oil refinery fuel tank as Libya conflict escalates",
+   "s": "The escalating conflict in Libya heightens geopolitical risks, potentially impacting global oil markets and increasing volatility in energy prices.",
+   "url": "https://cryptobriefing.com/drone-strike-zawiya-oil-refinery-libya/",
+   "ts": "2026-08-10T19:21:11Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
+   "s": "A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.",
+   "url": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years",
+   "ts": "2026-08-10T19:13:12Z",
+   "tags": [
+    "BTC",
+    "ONCHAIN",
+    "WHALE"
+   ],
+   "srcs": [
+    "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Dow, S&P 500, and Nasdaq slide as Treasury yields and oil prices climb",
+   "s": "Rising yields and oil prices strain equities, highlighting the critical role of geopolitical stability in shaping market dynamics and investor sentiment.",
+   "url": "https://cryptobriefing.com/dow-sp500-nasdaq-decline-treasury-yields-oil/",
+   "ts": "2026-08-10T19:13:02Z",
+   "tags": [
+    "EQUITIES"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "CT3 Begins Preparing Its Ecosystem for the Launch of the CT3GB Economy",
+   "s": "CT3 has announced the start of comprehensive preparations for the future listing of the CT3GB token. The company has begun scaling its data storage infrastructure, building financial and infrastructure reserves, and preparing its own tokenized economy, in which CT3GB will become the platform’s primary settlement…",
+   "url": "https://beincrypto.com/ct3-begins-preparing-its-ecosystem-for-the-launch/",
+   "ts": "2026-08-10T19:05:17Z",
+   "tags": [
+    "LISTING",
+    "REGULATION",
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "3 Altcoins to Watch for the Second Week of August 2026",
+   "s": "A packed week of catalysts is about to test three altcoins. Between now and Aug 16, one faces a large token unlock, another must prove its earnings can hold, and a third races toward a mandatory network upgrade. That makes this a ‘three altcoins to watch’ list, each pulling a different way. Token Outlook Main",
+   "url": "https://beincrypto.com/altcoins-to-watch-august-second-week-2026/",
+   "ts": "2026-08-10T18:48:00Z",
+   "tags": [
+    "EQUITIES",
+    "LISTING"
+   ],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "TaoWeave promised to hoard TAO forever, but paying the bills just forced another crypto treasury sell-off of 3,959 TAO",
+   "s": "The company expects further sales as needed, with no committed liquidity source independent of its digital assets.",
+   "url": "https://cryptoslate.com/taoweave-promised-to-hoard-tao-forever-but-paying-the-bills-just-forced-another-crypto-treasury-sell-off-of-3959-tao/",
+   "ts": "2026-08-10T18:45:06Z",
+   "tags": [],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Coinsbuy offers $100K reward after Sunday security breach",
+   "s": "Coinsbuy said it covered all affected client funds after unauthorized withdrawals, while an onchain investigator estimated more than $7.9 million was stolen.",
+   "url": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-10T18:43:26Z",
+   "tags": [
+    "HACK",
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "Cointelegraph"
    ],
    "alt": []
   },
@@ -29,95 +620,6 @@
    "alt": []
   },
   {
-   "h": "BlackRock partners with NABTU to align construction workers for data centers",
-   "s": "This partnership could reshape labor dynamics in AI infrastructure, emphasizing skilled workforce development and enhancing project efficiency.",
-   "url": "https://cryptobriefing.com/blackrock-nabtu-data-center-construction-workers/",
-   "ts": "2026-08-10T18:30:49Z",
-   "tags": [
-    "ETF",
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Nomura strategist flags gamma clustering risk after market surge",
-   "s": "Gamma clustering risk could amplify market volatility, leading to larger-than-expected price swings and potential destabilization.",
-   "url": "https://cryptobriefing.com/nomura-gamma-clustering-risk-market-surge/",
-   "ts": "2026-08-10T18:26:58Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Coinbase Prime facilitates $450M crypto-collateralized loan for Marathon Digital",
-   "s": "The deal highlights growing institutional confidence in crypto-backed lending, but also underscores the risks tied to Bitcoin's volatility.",
-   "url": "https://cryptobriefing.com/coinbase-prime-marathon-digital-bitcoin-loan/",
-   "ts": "2026-08-10T18:26:15Z",
-   "tags": [
-    "BTC",
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Hyperscaler capex expectations surge to $789B for 2026",
-   "s": "The surge in hyperscaler capex highlights Big Tech's aggressive AI investment, potentially straining cash flow and increasing debt reliance.",
-   "url": "https://cryptobriefing.com/hyperscaler-capex-789-billion-2026/",
-   "ts": "2026-08-10T18:23:11Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Meta and Google lose appeal over landmark $6 million social media addiction verdict",
-   "s": "This verdict sets a precedent for holding tech giants accountable for platform design, potentially reshaping industry standards and regulations.",
-   "url": "https://cryptobriefing.com/meta-google-addiction-lawsuit-appeal-denied/",
-   "ts": "2026-08-10T18:15:11Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "BlackRock Bitcoin ETF reduces in-kind transfer minimum to $1M",
-   "s": "Lowering the in-kind transfer minimum to $1M democratizes access, potentially increasing market participation and liquidity in Bitcoin ETFs.",
-   "url": "https://cryptobriefing.com/blackrock-bitcoin-etf-in-kind-transfer-minimum/",
-   "ts": "2026-08-10T18:11:35Z",
-   "tags": [
-    "BTC",
-    "ETF",
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "SPX skew collapses as implied volatilities decline amid Fed hold expectations",
-   "s": "Market optimism grows as traders shift from downside protection to bullish bets, but cautious hedging persists amid Fed's steady rate stance.",
-   "url": "https://cryptobriefing.com/spx-skew-collapses-implied-volatility-fed-hold/",
-   "ts": "2026-08-10T18:04:40Z",
-   "tags": [
-    "ETH"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Decentralization was the beginning. Call it onchain finance",
    "s": "The following is a guest post and opinion piece by Andre Cronje, Founder and CEO of Flying Tulip. Decentralization was the starting point for DeFi. But it is no longer the complete operating model for most protocols, and our language should evolve with the industry. This is not an argument against decentralization.",
    "url": "https://cryptoslate.com/decentralization-was-the-beginning-call-it-onchain-finance/",
@@ -131,60 +633,35 @@
    "alt": []
   },
   {
-   "h": "Fomo and Pump.fun battle for trader flow in Solana’s memecoin arms race",
-   "s": "The intense rivalry between Fomo and Pump.fun in Solana's memecoin market could reshape trading dynamics and influence platform loyalty.",
-   "url": "https://cryptobriefing.com/fomo-pumpfun-solana-memecoin-competition/",
-   "ts": "2026-08-10T17:58:09Z",
+   "h": "SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud",
+   "s": "The Securities and Exchange Commission today charged New York-based investment adviser Adit Ventures Management LLC, its CEO Eric Munson, and three affiliated general partners, Adit Ventures LLC; Adit Ventures II LLC; and Adit Ventures III LLC (the…",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners",
+   "ts": "2026-08-10T18:00:00Z",
    "tags": [
-    "MEMECOIN",
-    "SOLANA"
+    "REGULATION"
    ],
    "srcs": [
+    "SEC",
     "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "SEC charges Adit Ventures Management and CEO Eric Munson for fraud",
+     "https://cryptobriefing.com/sec-charges-adit-ventures-eric-munson-fraud/"
+    ]
+   ]
   },
   {
-   "h": "OpenAI unveils Daybreak Blue and Daybreak Red cybersecurity models",
-   "s": "OpenAI's Daybreak models could transform cybersecurity by embedding proactive threat detection and remediation into software development.",
-   "url": "https://cryptobriefing.com/openai-daybreak-cybersecurity-models/",
-   "ts": "2026-08-10T17:57:06Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
+   "h": "Dollar Rises, Yen Falls as Markets Await Key US CPI Data",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmktbmVTNGttamJOQ3AwNkJJNWFwRjh5cVo2QkJLVklMczhtOGNzcTMwSVAtUi1NcTFweVpXYXJlWElmZ3kwRE1OcEduLWQxXzBOSnlwaVExTTJYTDV6QmpfZVUtSzVDUHF1LVAzZGtLcHdFcUNiMmh0dm1UTGx3MzVTcDVxeFg1RmhEQWpwNGJYRW5RTFJHbWhNWQ?oc=5",
+   "ts": "2026-08-10T17:54:56Z",
+   "tags": [
+    "MACRO"
    ],
-   "alt": []
-  },
-  {
-   "h": "Trump rejects Iran’s war compensation demands, complicating Strait of Hormuz negotiations",
-   "s": "Trump's stance heightens geopolitical tensions, risking prolonged disruption in global oil supply and economic instability in the region.",
-   "url": "https://cryptobriefing.com/trump-rejects-iran-war-compensation-strait-hormuz/",
-   "ts": "2026-08-10T17:55:16Z",
-   "tags": [],
    "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Oman oil spill from Russian tanker threatens coastal ecosystems",
-   "s": "The spill threatens ecological balance and could disrupt maritime trade, highlighting vulnerabilities in regional environmental and economic stability.",
-   "url": "https://cryptobriefing.com/oman-oil-spill-from-russian-tanker-threatens-coastal-ecosystems/",
-   "ts": "2026-08-10T17:53:13Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "UEFA, Concacaf, and AFC demand FIFA president Gianni Infantino resign over botched commercial rights sale",
-   "s": "The demand for Infantino's resignation highlights growing tensions between FIFA's commercial ambitions and its governance structures.",
-   "url": "https://cryptobriefing.com/uefa-concacaf-afc-demand-infantino-resign/",
-   "ts": "2026-08-10T17:51:45Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
+    "Global Banking & Finance Review"
    ],
    "alt": []
   },
@@ -193,104 +670,9 @@
    "s": "A new report maps Brazil's push to bring its vast crypto market under formal supervision by October 30.",
    "url": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
    "ts": "2026-08-10T17:51:04Z",
-   "tags": [
-    "INSTITUTIONAL",
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "Decrypt",
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Brazil’s $319B crypto market faces October licensing deadline as central bank tightens grip",
-     "https://cryptobriefing.com/brazil-crypto-licensing-deadline-october/"
-    ]
-   ]
-  },
-  {
-   "h": "AS Roma signs Nahuel Molina from Atletico Madrid until June 2030",
-   "s": "Molina's signing strengthens Roma's defense, potentially boosting their Serie A competitiveness and enhancing their European ambitions.",
-   "url": "https://cryptobriefing.com/roma-signs-molina-atletico-madrid/",
-   "ts": "2026-08-10T17:50:35Z",
    "tags": [],
    "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "AI drives corporate earnings surge in Q2, boosts major tech firms",
-   "s": "AI's integration into corporate strategies signals a transformative shift in market dynamics, enhancing growth prospects and valuation outlooks.",
-   "url": "https://cryptobriefing.com/ai-drives-corporate-earnings-surge-in-q2-boosts-major-tech-firms/",
-   "ts": "2026-08-10T17:46:25Z",
-   "tags": [
-    "EQUITIES"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Hyperliquid integrates xStocks tokens via Chainlink CCIP, bringing tokenized US equities to its DEX",
-   "s": "Hyperliquid's integration of tokenized US equities via Chainlink CCIP could significantly enhance DeFi's appeal by bridging traditional finance and crypto.",
-   "url": "https://cryptobriefing.com/hyperliquid-xstocks-chainlink-ccip-integration/",
-   "ts": "2026-08-10T17:42:27Z",
-   "tags": [
-    "EQUITIES",
-    "ONCHAIN",
-    "PERPS"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Barcelona considers Lautaro Martínez as backup option if Julián Álvarez deal falls through",
-   "s": "Barcelona's pursuit of Martnez highlights their strategic planning for a post-Lewandowski era, emphasizing adaptability in transfer markets.",
-   "url": "https://cryptobriefing.com/barcelona-lautaro-martinez-backup-alvarez/",
-   "ts": "2026-08-10T17:40:17Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Claude advances lower bound for Riemann zeta function to 67%",
-   "s": "Claude's advancement in the Riemann zeta function's lower bound highlights AI's growing role in tackling complex mathematical challenges.",
-   "url": "https://cryptobriefing.com/claude-riemann-zeta-lower-bound-67-percent/",
-   "ts": "2026-08-10T17:35:23Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Google invests in 7,000 km submarine cable linking US and Europe",
-   "s": "Google's fully-owned transatlantic cable enhances its global data infrastructure, intensifying competition and addressing geopolitical concerns.",
-   "url": "https://cryptobriefing.com/google-nuvem-submarine-cable-us-europe/",
-   "ts": "2026-08-10T17:34:18Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "US Strategic Petroleum Reserve hits lowest level since 1983 at 298.7M barrels",
-   "s": "The reduced SPR capacity heightens vulnerability to supply disruptions, potentially driving oil price volatility amid global market uncertainties.",
-   "url": "https://cryptobriefing.com/us-strategic-petroleum-reserve-hits-lowest-level-since-1983-at-2987m-barrels/",
-   "ts": "2026-08-10T17:33:58Z",
-   "tags": [
-    "HACK"
-   ],
-   "srcs": [
-    "CryptoBriefing"
+    "Decrypt"
    ],
    "alt": []
   },
@@ -325,41 +707,6 @@
    "alt": []
   },
   {
-   "h": "Trump extends and narrows US Jones Act shipping waiver",
-   "s": "The narrowed Jones Act waiver highlights the tension between reducing fuel costs and protecting domestic maritime jobs, impacting economic policies.",
-   "url": "https://cryptobriefing.com/trump-jones-act-shipping-waiver-extended/",
-   "ts": "2026-08-10T17:27:08Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Mysten unveils Tessera, a confidential B2B settlement network built on Sui",
-   "s": "Tessera's launch could redefine enterprise payment privacy, challenging traditional systems by merging blockchain efficiency with compliance.",
-   "url": "https://cryptobriefing.com/mysten-tessera-confidential-b2b-settlement/",
-   "ts": "2026-08-10T17:26:06Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Skild AI tops robotics funding with $2.2B raised, valued at over $14B",
-   "s": "Skild AI's rapid growth and massive funding highlight the increasing investor confidence in versatile, hardware-agnostic AI solutions.",
-   "url": "https://cryptobriefing.com/skild-ai-tops-robotics-funding-2b/",
-   "ts": "2026-08-10T17:23:58Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "'Weak US jobs numbers make interest rate hike unlikely'",
    "s": "",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoc3p1UUZWOEV4a2I5M0p3UWZlNzZkSmFFeTEwRmtLWEZhMlg1bTZhdmRHdUp5QlhiTzc5YnZ3Vld2VHVhcmRERy1oOHhZUHdTTElESlBzdkc?oc=5",
@@ -386,17 +733,6 @@
    "alt": []
   },
   {
-   "h": "NuScale aims to meet urgent power needs for AI data centers with small modular reactors",
-   "s": "NuScale's SMR deployment could revolutionize energy solutions for AI data centers, potentially reshaping the nuclear power industry landscape.",
-   "url": "https://cryptobriefing.com/nuscale-smr-ai-data-center-power/",
-   "ts": "2026-08-10T17:12:55Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
    "s": "Following a procedural delay in the US Senate, lawmakers are expected to address a major crypto market structure bill after they return from a month-long recess, which met with industry criticism.",
    "url": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -419,19 +755,6 @@
    ],
    "srcs": [
     "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Centrifuge develops integrated vault offering for onchain finance",
-   "s": "Centrifuge's integrated vaults could revolutionize asset management by bridging traditional finance with blockchain, enhancing efficiency and accessibility.",
-   "url": "https://cryptobriefing.com/centrifuge-vault-onchain-finance/",
-   "ts": "2026-08-10T17:07:45Z",
-   "tags": [
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -475,6 +798,19 @@
    "alt": []
   },
   {
+   "h": "Wednesday’s crucial CPI report will show tamer inflation, according to prediction markets",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1pPUW5fQkt0Y01lb09uY3FHR3dkeXVjUjJaSEhkUXg3eWc0MGVrMEtKTFR6aTNuSmFhM25WV0dGN1M5U3BJVnFvQ3VLT2Z0Qk1DLWlQUVRFUjlKdVZ1cDROZUZHVWN0RjVQWDlsb3hWYmsyenF6NEQ2MEc5Ymh6UGhFWkZtcXMyWEd2VnNPeTRKbE80dHRyUTlQWWlmMm12NjZ1c3RkMNIBrAFBVV95cUxNdXBzWHI5a0NtZE5QQ3dBdFNaWTBwVm02VF9jejNlblRlTVB3VUJBS3NzeC1oRWRqcVZFaG1ndUtnU19ram42clNldGU1Y0hIRkZNODV1UFpqLW0xcktVcXpOZjBaemRTcldTN0wxSWVaSk5RVXp6MEdoVmZxNnNwRG9KVDVDMDVoRzEzZGlLS1VWeGhKRDBMeWlJZVZtVUNWamtwTk5DWjNrdk9W?oc=5",
+   "ts": "2026-08-10T16:40:00Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "CNBC"
+   ],
+   "alt": []
+  },
+  {
    "h": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
    "s": "When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
    "url": "https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
@@ -494,9 +830,16 @@
     "ETH"
    ],
    "srcs": [
-    "The Block"
+    "The Block",
+    "The Defiant"
    ],
-   "alt": []
+   "alt": [
+    [
+     "The Defiant",
+     "Vitalik Buterin's Ethereum Roadmap Prioritizes Quantum Readiness and Privacy",
+     "https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy"
+    ]
+   ]
   },
   {
    "h": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
@@ -509,9 +852,16 @@
     "INSTITUTIONAL"
    ],
    "srcs": [
-    "Cointelegraph"
+    "Cointelegraph",
+    "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Oil surges 5% as Hormuz reopening hopes fade",
+     "https://cryptobriefing.com/oil-surges-5-as-hormuz-reopening-hopes-fade/"
+    ]
+   ]
   },
   {
    "h": "XRP Price Weakens as Crypto Market Awaits Clarity",
@@ -669,6 +1019,22 @@
    "alt": []
   },
   {
+   "h": "Bitcoin, Ethereum, XRP Show Signs of Short-Term Recovery as ETF Inflows Return",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLU1qcHcxUXo0dWNEbGlWZ0gwTG5KTVF6eE9zOTZZTUlmekFCTEd0aUdydHVNMUxoTFR0SzJrc3pyNDVHeDA4R0pNRVZSbG51SmNBeEppRFRELWxSYmRKNzNoQkUxd0dxbVA0TTg3RXlEaTBWVDc0RHY4UHlQZk1iaDVn?oc=5",
+   "ts": "2026-08-10T13:55:36Z",
+   "tags": [
+    "BTC",
+    "ETF",
+    "ETH",
+    "FLOWS"
+   ],
+   "srcs": [
+    "CryptoRank"
+   ],
+   "alt": []
+  },
+  {
    "h": "Bitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH",
    "s": "Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.81 million ETH, worth roughly $11 billion.",
    "url": "https://www.theblock.co/news/business/2026-08-10-bitmine-adds-7391-eth-411265?utm_source=rss&utm_medium=rss",
@@ -743,25 +1109,7 @@
     "BTC"
    ],
    "srcs": [
-    "Cointelegraph",
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Bitfarms’ Bitcoin cost basis nearly doubles to $205,946 as company dumps mining for AI",
-     "https://cryptobriefing.com/bitfarms-bitcoin-cost-basis-rises-ai-pivot/"
-    ]
-   ]
-  },
-  {
-   "h": "Bakkt promised a $44 trillion payment revolution, but its key acquisition made just €5,315",
-   "s": "The 2025 statements recorded €5,315 in other income and €373,857 in cash before the April acquisition.",
-   "url": "https://cryptoslate.com/bakkt-promised-a-44-trillion-payment-revolution-but-its-key-acquisition-made-just-e5315/",
-   "ts": "2026-08-10T12:45:32Z",
-   "tags": [],
-   "srcs": [
-    "CryptoSlate"
+    "Cointelegraph"
    ],
    "alt": []
   },
@@ -786,16 +1134,9 @@
    "ts": "2026-08-10T12:28:57Z",
    "tags": [],
    "srcs": [
-    "CryptoBriefing",
     "BeInCrypto"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Jeff Bezos nears deal to acquire stake in Liverpool Football Club",
-     "https://cryptobriefing.com/bezos-liverpool-stake-deal/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Strategy Sells $109M in Bitcoin as Dollar Reserve Tops $4.6B",
@@ -832,7 +1173,7 @@
   },
   {
    "h": "Spot Bitcoin ETFs See $853.5M Five-Day Inflow Streak",
-   "s": "The delayed repricing in prediction markets challenges their perceived efficiency, impacting strategies reliant on rapid market responses.",
+   "s": "And the ETH inflows were even bigger, when factoring in market cap.",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWRmcVRPMDRaX0pfYTRTWXNiVG5KTGQyQUVwczBkZ1BFTThaUmg1enNvZWpjSy1hYlk1dE5wQzkzR2VGMzZxN2ZFOFVnNXVwVWdLeUZ1amdnSk9iSWszb2dSY3A2M3ppSWJrY19COTY1ZDhIdjdzRXJuYk5UeXllM1hkRlN1YzQ?oc=5",
    "ts": "2026-08-10T12:19:55Z",
    "tags": [
@@ -843,15 +1184,9 @@
    ],
    "srcs": [
     "99Bitcoins",
-    "Decrypt",
-    "CryptoBriefing"
+    "Decrypt"
    ],
    "alt": [
-    [
-     "CryptoBriefing",
-     "The Minutes Myth",
-     "https://cryptobriefing.com/research-minutes-myth/"
-    ],
     [
      "Decrypt",
      "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
@@ -935,17 +1270,6 @@
    "alt": []
   },
   {
-   "h": "US sanctions exposed a $6.3 billion crypto pipeline linking Iran and Russia",
-   "s": "U.S. persons must block and report covered property while foreign institutions risk sanctions for significant continued dealings.",
-   "url": "https://cryptoslate.com/us-sanctions-exposed-a-6-3-billion-crypto-pipeline-linking-iran-and-russia/",
-   "ts": "2026-08-10T11:45:03Z",
-   "tags": [],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
    "s": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
    "url": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
@@ -1007,54 +1331,24 @@
    "alt": []
   },
   {
-   "h": "The 65% XRP Price Warning on Polymarket Now Has the Charts Agreeing",
-   "s": "A prediction market now gives the XRP price a 65% chance of falling below $1 before the end of August. The technical picture is leaning the same way. The call comes from Polymarket, a platform where traders bet real money on outcomes. Its odds line up with a weakening chart, softening demand, and traders who",
-   "url": "https://beincrypto.com/xrp-price-polymarket-breakdown-alarm-analysis/",
-   "ts": "2026-08-10T10:48:11Z",
-   "tags": [],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
-   "s": "",
+   "s": "Geopolitical tensions in the Middle East could lead to sustained oil market volatility, impacting global economic stability and energy policies.",
    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
    "ts": "2026-08-10T10:45:43Z",
    "tags": [
     "BTC"
    ],
    "srcs": [
-    "CoinDesk"
+    "CoinDesk",
+    "CryptoBriefing"
    ],
-   "alt": []
-  },
-  {
-   "h": "Investors are about to drain a $217 million trust fund while voting to keep its Bitcoin SPAC alive",
-   "s": "SilverBox can win four more months, but redemptions may drain the trust needed to close.",
-   "url": "https://cryptoslate.com/investors-are-about-to-drain-a-217-million-trust-fund-while-voting-to-keep-a-bitcoin-spac-alive/",
-   "ts": "2026-08-10T10:30:35Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
-   "h": "North Korean Hackers Test AI to Advance Their Cyberattacks",
-   "s": "North Korea’s Kimsuky hacking group has established and tested local artificial intelligence (AI) tools as it researches ways to integrate the technology into malware development and attack techniques, South Korean cybersecurity firm Genians said Monday.",
-   "url": "https://beincrypto.com/north-korea-ai-cyberattacks/",
-   "ts": "2026-08-10T10:24:44Z",
-   "tags": [
-    "SECURITY"
-   ],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Oil prices surge amid Iran-Oman Strait of Hormuz talks",
+     "https://cryptobriefing.com/oil-prices-surge-amid-iran-oman-strait-of-hormuz-talks/"
+    ]
+   ]
   },
   {
    "h": "‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom",
@@ -1110,17 +1404,6 @@
    "alt": []
   },
   {
-   "h": "Chainlink Trades at Just $8.22, but Standard Chartered Sees a 24x Rally",
-   "s": "Standard Chartered forecasts Chainlink (LINK) at $200 by 2030, a 24x jump, driven by a $4 trillion tokenization call.",
-   "url": "https://beincrypto.com/standard-chartered-chainlink-200-forecast/",
-   "ts": "2026-08-10T10:10:35Z",
-   "tags": [],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
    "h": "Investors' eyes are on inflation this week after July's dismal jobs report",
    "s": "",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGVTcVlHNE9RYkFXNmdpeXpKM0tTU3paamRaaVdPRzc4QVlyallyeEQyTDNzVmlwNkhJY1drWUJ6Xy1qaUc1WXdySlZ2UEs2QU0telEzN1YtYVUyRF94UVdqTGVMVl9JV1h4anFaNjdaZ3RqNFd4NWhnd0RrMEJvMDVINzUyUnd5RmNISUpRV1o0NVBxRC1tQ3JSMDhVTXM?oc=5",
@@ -1130,30 +1413,6 @@
    ],
    "srcs": [
     "Business Insider"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Crypto holders face an August 23 deadline to figure out who controls HTX or risk violating EU sanctions",
-   "s": "The law names “HTX (HUOBI GLOBAL SA),” while HTX previously said in a UK case that the company is separate from its online platform.",
-   "url": "https://cryptoslate.com/european-crypto-holders-face-an-august-23-deadline-to-figure-out-who-controls-htx-or-risk-violating-eu-sanctions/",
-   "ts": "2026-08-10T09:30:13Z",
-   "tags": [],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
-   "h": "How Kevin Warsh is rewiring the Fed",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
-   "ts": "2026-08-10T09:29:38Z",
-   "tags": [
-    "MACRO"
-   ],
-   "srcs": [
-    "Axios"
    ],
    "alt": []
   },
@@ -1171,6 +1430,26 @@
    "alt": []
   },
   {
+   "h": "How Kevin Warsh is rewiring the Fed",
+   "s": "Warsh's inflation target commitment may face hurdles due to rising debt, potentially impacting Fed policy and economic stability.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
+   "ts": "2026-08-10T09:06:13Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "Axios",
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Fed Chair Warsh vows 2% inflation despite soaring US debt challenges",
+     "https://cryptobriefing.com/fed-chair-warsh-vows-2-inflation-despite-soaring-us-debt-challenges/"
+    ]
+   ]
+  },
+  {
    "h": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
    "s": "The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.",
    "url": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
@@ -1186,7 +1465,7 @@
   },
   {
    "h": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
-   "s": "Kalshi's prediction of subdued inflation suggests potential easing of economic pressures, influencing market sentiment and monetary policy outlook.",
+   "s": "",
    "url": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
    "ts": "2026-08-10T08:57:04Z",
    "tags": [
@@ -1194,22 +1473,9 @@
     "MACRO"
    ],
    "srcs": [
-    "CoinDesk",
-    "CNBC",
-    "CryptoBriefing"
+    "CoinDesk"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Kalshi predicts tamer inflation ahead of Wednesday’s CPI report",
-     "https://cryptobriefing.com/kalshi-predicts-tamer-inflation-cpi-report/"
-    ],
-    [
-     "CNBC",
-     "Wednesday’s crucial CPI report will show tamer inflation, according to prediction markets",
-     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1pPUW5fQkt0Y01lb09uY3FHR3dkeXVjUjJaSEhkUXg3eWc0MGVrMEtKTFR6aTNuSmFhM25WV0dGN1M5U3BJVnFvQ3VLT2Z0Qk1DLWlQUVRFUjlKdVZ1cDROZUZHVWN0RjVQWDlsb3hWYmsyenF6NEQ2MEc5Ymh6UGhFWkZtcXMyWEd2VnNPeTRKbE80dHRyUTlQWWlmMm12NjZ1c3RkMNIBrAFBVV95cUxNdXBzWHI5a0NtZE5QQ3dBdFNaWTBwVm02VF9jejNlblRlTVB3VUJBS3NzeC1oRWRqcVZFaG1ndUtnU19ram42clNldGU1Y0hIRkZNODV1UFpqLW0xcktVcXpOZjBaemRTcldTN0wxSWVaSk5RVXp6MEdoVmZxNnNwRG9KVDVDMDVoRzEzZGlLS1VWeGhKRDBMeWlJZVZtVUNWamtwTk5DWjNrdk9W?oc=5"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "North Korea’s Kimsuky integrates AI into cyberattacks targeting crypto and finance",
@@ -1447,7 +1713,7 @@
     "MACRO"
    ],
    "srcs": [
-    "reuters.com"
+    "Reuters"
    ],
    "alt": []
   },
@@ -1719,38 +1985,6 @@
    ]
   },
   {
-   "h": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-   "s": "",
-   "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
-   "ts": "2026-08-08T20:06:47Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "CoinDesk"
-   ],
-   "alt": [
-    [
-     "CoinDesk",
-     "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
-     "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops"
-    ]
-   ]
-  },
-  {
-   "h": "Hardware wallet sales in Russia more than double as new crypto rules near",
-   "s": "",
-   "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
-   "ts": "2026-08-08T17:48:02Z",
-   "tags": [
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
    "s": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
    "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
@@ -1774,7 +2008,7 @@
    ],
    "srcs": [
     "CryptoRank",
-    "BeInCrypto"
+    "beincrypto.com"
    ],
    "alt": []
   },
@@ -1947,7 +2181,7 @@
     "FLOWS"
    ],
    "srcs": [
-    "bloomingbit"
+    "en.bloomingbit.io"
    ],
    "alt": []
   },
@@ -2020,7 +2254,7 @@
     "MACRO"
    ],
    "srcs": [
-    "pilotonline.com"
+    "The Virginian-Pilot"
    ],
    "alt": []
   },
@@ -2039,192 +2273,24 @@
    "alt": []
   },
   {
-   "h": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
-   "s": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
-   "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
-   "ts": "2026-08-07T21:05:59Z",
-   "tags": [],
-   "srcs": [
-    "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Trump Media and Crypto.com end partnerships as companies shift priorities",
-   "s": "This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.",
-   "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss",
-   "ts": "2026-08-07T21:01:36Z",
+   "h": "President Trump’s media company to terminate Crypto.com deal",
+   "s": "The company will unwind an agreement with Crypto.com to create a multibillion-dollar CRO treasury and reportedly not integrate prediction markets onto Truth Social.",
+   "url": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-07T21:15:05Z",
    "tags": [
-    "BTC",
-    "INSTITUTIONAL"
+    "BTC"
    ],
    "srcs": [
-    "The Block",
     "Cointelegraph",
     "Bitcoin Magazine"
    ],
    "alt": [
-    [
-     "Cointelegraph",
-     "President Trump’s media company to terminate Crypto.com deal",
-     "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    ],
     [
      "Bitcoin Magazine",
      "Trump Media Pulls Back From Crypto Deals: Report",
      "https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals"
     ]
    ]
-  },
-  {
-   "h": "CFTC Reminds Markets to Display Clear Pricing Information",
-   "s": "",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9278-26",
-   "ts": "2026-08-07T21:00:57Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CFTC"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
-   "s": "Bitcoin Magazine Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays The long-awaited crypto Clarity Act bill has been stalled. Still, lawmakers from both parties say the fight isn't over.",
-   "url": "https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act",
-   "ts": "2026-08-07T20:42:33Z",
-   "tags": [
-    "BTC",
-    "REGULATION"
-   ],
-   "srcs": [
-    "Bitcoin Magazine"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Lightning Nodes Drained As BTCPay Server Users Race To Patch",
-   "s": "Hardware wallet maker Foundation and the Bitcoin zine Citadel21 both said their nodes were swept, in some cases hours before the project's public alert. BTCPay says the flaw under attack is not the one disclosed in its changelog.",
-   "url": "https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw",
-   "ts": "2026-08-07T20:20:36Z",
-   "tags": [
-    "BTC",
-    "HACK",
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
-   "s": "The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran.",
-   "url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-08-07T20:02:20Z",
-   "tags": [
-    "SECURITY"
-   ],
-   "srcs": [
-    "Cointelegraph",
-    "Decrypt"
-   ],
-   "alt": [
-    [
-     "Decrypt",
-     "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
-     "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran"
-    ]
-   ]
-  },
-  {
-   "h": "Solana Perp DEX Flash Trade to Wind Down Unless It Finds a Buyer",
-   "s": "Any proceeds from a sale of the exchange's tech stack, brand and IP go to FAF holders pro rata, with team tokens excluded from the distribution.",
-   "url": "https://thedefiant.io/news/defi/solana-perp-dex-flash-trade-to-wind-down-unless-it-finds-a-buyer",
-   "ts": "2026-08-07T20:01:50Z",
-   "tags": [
-    "SOLANA"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
-   "s": "Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.",
-   "url": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
-   "ts": "2026-08-07T20:00:34Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Evolving Lighter's Technical Architecture, Together",
-   "s": "Inside the crowdsourced AI challenge that’s made Lighter’s ZK prover over 5x faster in three days.",
-   "url": "https://www.bankless.com/read/evolving-lighters-technical-architecture-together",
-   "ts": "2026-08-07T19:55:02Z",
-   "tags": [],
-   "srcs": [
-    "Bankless"
-   ],
-   "alt": []
-  },
-  {
-   "h": "US sanctions two more Iranian crypto exchanges under ‘Economic Fury’ campaign",
-   "s": "The U.S. Treasury Department traced more than $3 million in transfers between Shelbit and IRGC-linked wallets.",
-   "url": "https://www.theblock.co/news/regulation/2026-08-07-us-sanctions-two-more-iranian-crypto-exchanges-under-economic-fury-campaign-411184?utm_source=rss&utm_medium=rss",
-   "ts": "2026-08-07T19:49:33Z",
-   "tags": [
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "The Block"
-   ],
-   "alt": []
-  },
-  {
-   "h": "SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin",
-   "s": "The \"Tapered Issuance Burn\" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.",
-   "url": "https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186?utm_source=rss&utm_medium=rss",
-   "ts": "2026-08-07T19:37:14Z",
-   "tags": [
-    "BTC",
-    "ETH"
-   ],
-   "srcs": [
-    "The Block"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
-   "s": "A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.",
-   "url": "https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
-   "ts": "2026-08-07T19:18:41Z",
-   "tags": [],
-   "srcs": [
-    "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "CFTC cautions prediction markets over using American-style ‘moneyline’ betting odds: Bloomberg",
-   "s": "Some prediction market platforms received a warning from the CFTC to refrain using American-style gambling odds, according to Bloomberg.",
-   "url": "https://www.theblock.co/news/regulation/2026-08-07-cftc-cautions-prediction-markets-american-style-moneyline-betting-odds-bloomberg-411178?utm_source=rss&utm_medium=rss",
-   "ts": "2026-08-07T18:39:26Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "The Block"
-   ],
-   "alt": []
   }
  ]
 }
