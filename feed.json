@@ -1,9 +1,55 @@
 {
- "updated": "2026-08-15T10:48:56.665133Z",
- "newest": "2026-08-15T10:45:36Z",
+ "updated": "2026-08-15T11:39:23.823755Z",
+ "newest": "2026-08-15T11:31:01Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Cosmostation to shut down wallet services starting September 1",
+   "s": "The shutdown highlights challenges in monetizing wallet infrastructure, potentially leading to consolidation and reduced options in the Cosmos ecosystem.",
+   "url": "https://cryptobriefing.com/cosmostation-wallet-shutdown-september/",
+   "ts": "2026-08-15T11:31:01Z",
+   "tags": [
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "GIANTX coach Guilhoto bets on risk-taking over comfort in pursuit of Worlds qualification",
+   "s": "Guilhoto's risk-embracing strategy could redefine competitive dynamics, emphasizing bold innovation over stability in esports team management.",
+   "url": "https://cryptobriefing.com/giantx-guilhoto-roster-strategy-worlds/",
+   "ts": "2026-08-15T11:28:00Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "$600B of Biden’s clean energy funding survives Trump’s cuts",
+   "s": "Despite cuts, the preservation of substantial clean energy funding ensures continued support for renewable projects, impacting future policy debates.",
+   "url": "https://cryptobriefing.com/600-billion-biden-clean-energy-funding-survives-trump-cuts/",
+   "ts": "2026-08-15T11:10:56Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Disney Stock Extends Rally as New Avengers Doomsday Trailer Drops",
+   "s": "Disney stock rose 1.96% on Friday as Marvel Studios unveiled a new Avengers Doomsday trailer for December.",
+   "url": "https://beincrypto.com/disney-stock-avengers-doomsday-trailer/",
+   "ts": "2026-08-15T10:52:02Z",
+   "tags": [],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
   {
    "h": "US government warns countries to choose sides in AI race",
    "s": "The US ultimatum in the AI race could deepen global tech divides, forcing nations to navigate complex geopolitical and economic alliances.",
@@ -12,6 +58,17 @@
    "tags": [],
    "srcs": [
     "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Kalshi ordered to stop broad range of prediction markets in Washington",
+   "s": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
+   "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-15T10:44:52Z",
+   "tags": [],
+   "srcs": [
+    "Cointelegraph"
    ],
    "alt": []
   },
@@ -113,9 +170,16 @@
     "STABLECOIN"
    ],
    "srcs": [
-    "Cointelegraph"
+    "Cointelegraph",
+    "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Odds of CLARITY Act passing this year drop to 10%, Galaxy Research warns",
+     "https://cryptobriefing.com/clarity-act-passing-odds-drop-galaxy-research/"
+    ]
+   ]
   },
   {
    "h": "Benfica submits €20M offer for Taylor Harwood-Bellis, rejected by Southampton so far",
@@ -419,48 +483,15 @@
    "alt": []
   },
   {
-   "h": "Fermi receives subpoena from US District Court for Project Matador documents",
-   "s": "Fermi's legal and governance challenges could undermine investor confidence and jeopardize the ambitious Project Matador's future viability.",
-   "url": "https://cryptobriefing.com/fermi-subpoena-project-matador-documents/",
-   "ts": "2026-08-15T00:06:48Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Anthropic reports 14-fold revenue increase in Q2, signals first profitable quarter ahead of potential IPO",
-   "s": "Anthropic's rapid growth and profitability highlight AI's transformative potential, challenging tech giants and reshaping market dynamics.",
-   "url": "https://cryptobriefing.com/anthropic-14-fold-revenue-increase-q2/",
-   "ts": "2026-08-14T23:55:08Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-   "s": "The meeting could influence regulatory frameworks, potentially boosting innovation and growth in the digital asset and prediction market sectors.",
+   "s": "",
    "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
    "ts": "2026-08-14T23:41:49Z",
-   "tags": [
-    "REGULATION"
-   ],
+   "tags": [],
    "srcs": [
-    "CoinDesk",
-    "CryptoBriefing"
+    "CoinDesk"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Donald Trump expected to meet with crypto executives at White House next week",
-     "https://cryptobriefing.com/trump-crypto-executives-white-house-meeting/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff",
@@ -472,19 +503,6 @@
    ],
    "srcs": [
     "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
-   "h": "US SEC extends hands-off policy on shareholder proposals, raising governance concerns",
-   "s": "The SEC's policy shift may weaken shareholder influence, potentially leading to increased corporate self-regulation and legal disputes.",
-   "url": "https://cryptobriefing.com/sec-shareholder-proposals-policy-concerns/",
-   "ts": "2026-08-14T23:39:26Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -1148,17 +1166,6 @@
    "alt": []
   },
   {
-   "h": "Bitrue Launches AI Copilot That Explains the ‘Why’ for XRP and Crypto Trades",
-   "s": "Bitrue has officially launched Bitrue AI, a new trading copilot designed to solve a major limitation in automated crypto trading by explaining not just what a strategy does, but why.",
-   "url": "https://beincrypto.com/bitrue-launches-ai-copilot-xrp-crypto-trading/",
-   "ts": "2026-08-14T14:03:51Z",
-   "tags": [],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
    "h": "S&P 500 falls from record high as investors weigh data, Middle East tensions",
    "s": "",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT04wTk9wbGE5eTZKX1gyUUwwUlFYd1pEOUUtZ0l0eXRfU3V1UGNjQ3RzWmZuQU9jNUhNd21ValdELTZSbXlDLUNrcm41NG9mWlFfMG9WNWltMHNPaThLdDN5N3FpSnduVDd5RW1WZUU3aXdKaTZ0MW9Kcmh6Ync5ZUJGVVRfZnVWZUlHRXBYLXZpanMyM0g4YjFWbkZoMm9fdkw0SVpvS2w4c1hyVGUtLWNfYlo?oc=5",
@@ -1700,7 +1707,7 @@
    ],
    "srcs": [
     "Longbridge",
-    "finance.yahoo.com"
+    "Yahoo Finance"
    ],
    "alt": [
     [
@@ -2076,19 +2083,6 @@
    "tags": [
     "MACRO",
     "REGULATION"
-   ],
-   "srcs": [
-    "Cointelegraph"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
-   "s": "Standard Chartered said Robinhood’s Uniswap integration could solve a key challenge for new blockchains while accelerating UNI token burns.",
-   "url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-08-13T17:28:54Z",
-   "tags": [
-    "ONCHAIN"
    ],
    "srcs": [
     "Cointelegraph"
@@ -2738,7 +2732,7 @@
     "MACRO"
    ],
    "srcs": [
-    "cfodive.com"
+    "CFO Dive"
    ],
    "alt": []
   },
@@ -2894,7 +2888,7 @@
     "MACRO"
    ],
    "srcs": [
-    "reuters.com"
+    "Reuters"
    ],
    "alt": []
   },
@@ -2921,7 +2915,7 @@
     "MACRO"
    ],
    "srcs": [
-    "reuters.com"
+    "Reuters"
    ],
    "alt": []
   },
@@ -2951,7 +2945,7 @@
     "INSTITUTIONAL"
    ],
    "srcs": [
-    "kucoin.com"
+    "KuCoin"
    ],
    "alt": []
   },
@@ -3033,7 +3027,7 @@
     "PERPS"
    ],
    "srcs": [
-    "cbsnews.com",
+    "CBS News",
     "Stocktwits",
     "CNBC",
     "FXStreet"
@@ -3090,19 +3084,6 @@
      "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmxQdFlwUnZVcjNfSktSblNtci1ZZVprMHFlOW1vTW5aaFg2U3A5bmhaRDdCaUl5SUtnNHNqMk1DeHZRTUhma1dfZDFFYWQyVzBveEhIc0hia0tnTzlMOUxFdG9CMTNiRl9EbkFQSmdrYXBSR0NUVDVIV2hmQUQ4ZDNDQ1RuaERQSlFKejhRNW03Vm5lWlFSYXctUjNxa2lLY09IM0ZfcmlpX1loT19VZ1ZnZTRUUFN3QXc0bl9jWTFsYlhnRVE?oc=5"
     ]
    ]
-  },
-  {
-   "h": "Barça Mobile Plans Stellar Wallet With Wirex and Crossmint",
-   "s": "Wirex will provide payment and card infrastructure, Crossmint will handle wallet onboarding, and Stellar will supply the blockchain layer for the planned feature.",
-   "url": "https://thedefiant.io/news/tradfi-and-fintech/bar-a-mobile-plans-stellar-wallet-with-wirex-and-crossmint",
-   "ts": "2026-08-12T11:26:30Z",
-   "tags": [
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
   }
  ]
 }
