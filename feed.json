@@ -1,9 +1,148 @@
 {
- "updated": "2026-08-19T19:57:44.241406Z",
- "newest": "2026-08-19T19:52:28Z",
- "sources_ok": 20,
+ "updated": "2026-08-19T20:58:41.938978Z",
+ "newest": "2026-08-19T20:50:27Z",
+ "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Solana is slashing per-block compute limits so its new 350ms speed boost doesn’t overload the network",
+   "s": "The draft cuts per-slot limits as slots shorten, squeezing leader handoffs and off-chain timing without raising the theoretical CU-per-second ceiling.",
+   "url": "https://cryptoslate.com/solana-is-slashing-per-block-compute-limits-so-its-new-350ms-speed-boost-doesnt-overload-the-network/",
+   "ts": "2026-08-19T20:50:27Z",
+   "tags": [
+    "SOLANA"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Trump announces planned meeting with Kim Jong Un, publicly cites 57 nuclear weapons",
+   "s": "Trump's disclosure of North Korea's nuclear arsenal could complicate diplomatic efforts, highlighting the challenges of achieving denuclearization.",
+   "url": "https://cryptobriefing.com/trump-kim-jong-un-meeting-nuclear-weapons/",
+   "ts": "2026-08-19T20:49:48Z",
+   "tags": [
+    "SECURITY"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Strive’s Bitcoin holdings increase by $69M as Bitcoin rises $3,400",
+   "s": "Strive's strategic Bitcoin accumulation highlights a growing trend of firms leveraging crypto as a primary reserve, impacting market dynamics.",
+   "url": "https://cryptobriefing.com/strive-bitcoin-holdings-increase-69m/",
+   "ts": "2026-08-19T20:42:31Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Webull reports record Q2 earnings of $199M, up 51% year over year",
+   "s": "Webull's impressive earnings growth signals robust business model efficiency, potentially reshaping competitive dynamics in digital brokerage.",
+   "url": "https://cryptobriefing.com/webull-record-q2-earnings-revenue-growth/",
+   "ts": "2026-08-19T20:38:13Z",
+   "tags": [
+    "EQUITIES"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Ethereum exchange balances drop 10% as Bitcoin sees inflow",
+   "s": "The shift in crypto exchange balances highlights evolving investor strategies, emphasizing self-custody and staking over traditional trading.",
+   "url": "https://cryptobriefing.com/ethereum-exchange-balances-drop-bitcoin-inflow/",
+   "ts": "2026-08-19T20:37:38Z",
+   "tags": [
+    "BTC",
+    "ETH",
+    "FLOWS",
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+   "s": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
+   "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-19T20:33:51Z",
+   "tags": [
+    "BTC",
+    "INSTITUTIONAL",
+    "ONCHAIN",
+    "REGULATION",
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "Cointelegraph",
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Bitcoin.com integrates USDU, the UAE’s first central bank-registered dollar stablecoin, into its wallet",
+     "https://cryptobriefing.com/bitcoin-com-integrates-usdu-uae-stablecoin/"
+    ]
+   ]
+  },
+  {
+   "h": "South Bow Corp. shares surge after Trump suggests Keystone XL revival",
+   "s": "South Bow Corp.'s stock surge highlights the significant impact of political decisions on energy infrastructure investments and market dynamics.",
+   "url": "https://cryptobriefing.com/south-bow-shares-surge-keystone-xl-revival/",
+   "ts": "2026-08-19T20:25:17Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "US codifies GENIUS Act, establishes Bitcoin reserve under Trump",
+   "s": "The GENIUS Act's enactment and Bitcoin reserve establishment may boost regulatory clarity, potentially influencing crypto market dynamics.",
+   "url": "https://cryptobriefing.com/us-codifies-genius-act-establishes-bitcoin-reserve-under-trump/",
+   "ts": "2026-08-19T20:18:37Z",
+   "tags": [
+    "BTC",
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Google AI Studio adds GitHub import and bi-directional sync features",
+   "s": "Google AI Studio's new features streamline code management, enhancing collaboration and modernization, potentially boosting developer productivity.",
+   "url": "https://cryptobriefing.com/google-ai-studio-github-import-sync/",
+   "ts": "2026-08-19T20:02:02Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Core Scientific reports 440 megawatts of AI capacity ahead of schedule",
+   "s": "Core Scientific's rapid AI capacity expansion highlights the growing demand for AI infrastructure, posing challenges in power supply and market competition.",
+   "url": "https://cryptobriefing.com/core-scientific-440mw-ai-capacity-ahead-schedule/",
+   "ts": "2026-08-19T19:59:52Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "US and Canada negotiate trade deal to lower steel and aluminum tariffs to 25%",
    "s": "The trade deal could ease tensions, boost economic cooperation, and influence future USMCA negotiations, impacting North American industries.",
@@ -31,6 +170,47 @@
    "alt": []
   },
   {
+   "h": "Here’s what happened in crypto today",
+   "s": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-19T19:50:07Z",
+   "tags": [
+    "BTC",
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
+   "h": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
+   "s": "Hyperliquid's potential onshoring could redefine US crypto regulations, influencing decentralized exchanges and challenging centralized incumbents.",
+   "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
+   "ts": "2026-08-19T19:49:51Z",
+   "tags": [
+    "PERPS",
+    "REGULATION"
+   ],
+   "srcs": [
+    "The Block",
+    "CoinDesk",
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "The Block",
+     "HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in ‘fully compliant fashion’",
+     "https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262"
+    ],
+    [
+     "CryptoBriefing",
+     "Hyperliquid surges 19% as Trump confirms CFTC works to onshore exchange",
+     "https://cryptobriefing.com/hyperliquid-surges-trump-cftc-onshore/"
+    ]
+   ]
+  },
+  {
    "h": "Trump: Strait of Hormuz open despite US naval blockade",
    "s": "The situation underscores the complexity of U.S.-Iran relations, affecting global markets and strategic maritime dynamics in the region.",
    "url": "https://cryptobriefing.com/trump-strait-of-hormuz-open-despite-us-naval-blockade/",
@@ -40,6 +220,23 @@
     "CryptoBriefing"
    ],
    "alt": []
+  },
+  {
+   "h": "Celtic takes commanding 2-0 lead after LASK’s early opener ruled out in Champions League play-off",
+   "s": "Celtic's strong response to early setbacks highlights their resilience and sets them on a promising path toward the Champions League group stage.",
+   "url": "https://cryptobriefing.com/celtic-lask-champions-league-playoff-2/",
+   "ts": "2026-08-19T19:46:09Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Celtic takes two-goal lead against LASK in UEFA Champions League play-off",
+     "https://cryptobriefing.com/celtic-lask-champions-league-playoff-3/"
+    ]
+   ]
   },
   {
    "h": "Bitcoin holders face potential exchange freezes as new chain rollout tests replay safety and market stability",
@@ -116,6 +313,19 @@
    "alt": []
   },
   {
+   "h": "The Debasement Trade Returns",
+   "s": "Bitcoin’s breakout revives the debasement trade as Treasury buybacks, AI spending and Japan fuel bets on looser policy ahead.",
+   "url": "https://www.bankless.com/read/the-debasement-trade-returns",
+   "ts": "2026-08-19T19:32:37Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "Bankless"
+   ],
+   "alt": []
+  },
+  {
    "h": "Atlético Madrid players pose with World Cup trophy at stadium",
    "s": "Atltico Madrid's engagement with the Club World Cup trophy highlights the growing global appeal and competitive stakes of the expanded tournament.",
    "url": "https://cryptobriefing.com/atletico-madrid-club-world-cup-trophy/",
@@ -156,40 +366,56 @@
    "url": "https://thedefiant.io/converge/podcast/how-maple-finance-became-the-2-crypto-lender-behind-tether-sid-powell-explains",
    "ts": "2026-08-19T19:25:14Z",
    "tags": [
+    "INSTITUTIONAL",
     "MACRO",
+    "ONCHAIN",
     "STABLECOIN"
    ],
    "srcs": [
-    "The Defiant"
+    "The Defiant",
+    "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Maple Finance ranks as second-largest crypto lender behind Tether",
+     "https://cryptobriefing.com/maple-finance-second-largest-crypto-lender/"
+    ]
+   ]
   },
   {
-   "h": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
+   "h": "Trump mention boosts Hyperliquid, HYPE price surges past $68",
    "s": "Trump's mention of Hyperliquid highlights the influence of high-profile endorsements on cryptocurrency markets, potentially affecting future regulations.",
-   "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
+   "url": "https://cryptobriefing.com/trump-mention-boosts-hyperliquid-hype-price-surges-past-68/",
    "ts": "2026-08-19T19:19:07Z",
    "tags": [
     "PERPS",
     "REGULATION"
    ],
    "srcs": [
-    "CoinDesk",
     "BeInCrypto",
     "CryptoBriefing"
    ],
    "alt": [
     [
      "BeInCrypto",
-     "Trump Says CFTC Working to Bring Hyperliquid to US. How Will HYPE Price React?",
+     "Trump Name-Drops Hyperliquid at the White House, How Will HYPE Price React?",
      "https://beincrypto.com/trump-cftc-hyperliquid-us-hype-price/"
-    ],
-    [
-     "CryptoBriefing",
-     "Trump mention boosts Hyperliquid, HYPE price surges past $68",
-     "https://cryptobriefing.com/trump-mention-boosts-hyperliquid-hype-price-surges-past-68/"
     ]
    ]
+  },
+  {
+   "h": "Many US Fed policymakers back interest rate hikes if inflation stays high",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGw2OVNJRW1JR2ZrZ3BpV2lxNXAwNVo5QVYzMTExSmRZUmxaQUhnb256Mkt3bWI1QlRzdDBpbVJjbjRmVVNyV2NEVjcydm14TWtxMVhFd2dCTVNOSk91OTVyNjVzQzUtSTVDejVLeUJuYXppZUNuaVY3VGxpa1Jhdzd3NVJ0ZnN6Ny10NEh3OWkwWnA0ZDVPUjBvTTVwTVd1VDgyVXlhVldGb3JKWVRnbWlwWW1KQ3U4aktOVw?oc=5",
+   "ts": "2026-08-19T19:17:13Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "France 24"
+   ],
+   "alt": []
   },
   {
    "h": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
@@ -231,17 +457,6 @@
    "alt": []
   },
   {
-   "h": "IBM introduces BenchDrift to quantify wording effects in LLM benchmarks",
-   "s": "IBM Research releases BenchDrift, an open-source tool measuring how rephrased benchmark questions cause significant score swings in large",
-   "url": "https://cryptobriefing.com/ibm-benchdrift-llm-benchmark-wording/",
-   "ts": "2026-08-19T19:10:50Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally",
    "s": "The move triggered nearly $2 billion in crypto liquidations and lifted crypto-linked stocks, with Strategy and Bitmine gaining around 10%.",
    "url": "https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248",
@@ -253,63 +468,6 @@
    ],
    "srcs": [
     "The Block"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Leeds United confirms Joe Rodon signs contract extension until 2030",
-   "s": "Leeds United's strategic move to secure Rodon until 2030 strengthens their defensive stability and supports long-term Premier League ambitions.",
-   "url": "https://cryptobriefing.com/leeds-united-joe-rodon-contract-extension-2030/",
-   "ts": "2026-08-19T19:05:00Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "OpenAI revokes researcher access to cyber program, raising operational concerns",
-   "s": "The revocation of researcher access may signal operational instability at OpenAI, potentially affecting its market valuation and growth strategy.",
-   "url": "https://cryptobriefing.com/openai-revokes-researcher-access-to-cyber-program-raising-operational-concerns/",
-   "ts": "2026-08-19T19:00:39Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Nvidia explores investment in AI data supplier Mercor valued at $20B",
-   "s": "Nvidia's potential investment in Mercor could accelerate AI advancements and reshape data supply chains, impacting industry dynamics significantly.",
-   "url": "https://cryptobriefing.com/nvidia-mercor-ai-data-investment/",
-   "ts": "2026-08-19T18:50:01Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Jyske Bank CEO says AI reduces pressure for bank consolidation",
-   "s": "AI's role in banking may shift focus from consolidation to innovation, enabling smaller banks to compete effectively without merging.",
-   "url": "https://cryptobriefing.com/jyske-bank-ceo-ai-reduces-bank-consolidation/",
-   "ts": "2026-08-19T18:48:16Z",
-   "tags": [
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Jefferies Credit Partners seeks €1B from private credit investors for new secondaries fund",
-   "s": "Jefferies' new fund could enhance liquidity in private credit markets, potentially stabilizing investor confidence amid rising redemption demands.",
-   "url": "https://cryptobriefing.com/jefferies-credit-partners-1b-private-credit-secondaries/",
-   "ts": "2026-08-19T18:48:03Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -355,45 +513,6 @@
    "alt": []
   },
   {
-   "h": "Prosus invests $100M in Indian fintech company Navi at $1.3B valuation",
-   "s": "Prosus's investment in Navi signals growing confidence in India's fintech sector, potentially accelerating its IPO and market influence.",
-   "url": "https://cryptobriefing.com/prosus-invests-100m-navi-india-fintech/",
-   "ts": "2026-08-19T18:15:34Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Celtic hosts LASK in Champions League play-off as both domestic champions chase group stage berth",
-   "s": "The outcome could significantly impact the financial and competitive landscape for the winning club, enhancing their European stature.",
-   "url": "https://cryptobriefing.com/celtic-lask-champions-league-playoff/",
-   "ts": "2026-08-19T18:13:05Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Celtic takes commanding 2-0 lead after LASK’s early opener ruled out in Champions League play-off",
-     "https://cryptobriefing.com/celtic-lask-champions-league-playoff-2/"
-    ]
-   ]
-  },
-  {
-   "h": "US and Canadian funds hedge FX risks at highest levels in three years",
-   "s": "Increased FX hedging by North American funds highlights growing market volatility concerns, potentially squeezing returns due to higher costs.",
-   "url": "https://cryptobriefing.com/us-canadian-funds-hedge-fx-risks/",
-   "ts": "2026-08-19T18:12:51Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Fed Minutes Pressure Bitcoin as Hawkish Rate Risks Return",
    "s": "The Federal Reserve may soon meet less often, minutes released Wednesday reveal, as Chairman Kevin Warsh floated fewer Fed meetings at just six a year. Three officials wanted a rate hike, leaving Bitcoin (BTC) facing a quieter, tougher central bank. The Fed held interest rates at 3.50% to 3.75% on July 29, but the 9-3",
    "url": "https://beincrypto.com/fed-minutes-bitcoin-hawkish-risks/",
@@ -418,19 +537,13 @@
    ],
    "srcs": [
     "CoinDesk",
-    "Cointelegraph",
-    "CryptoBriefing"
+    "Cointelegraph"
    ],
    "alt": [
     [
      "Cointelegraph",
      "Crypto PAC notches primary wins, but loses $2M Florida race",
      "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    ],
-    [
-     "CryptoBriefing",
-     "Fairshake spends over $2 million opposing Oliver Gilbert but fails to stop Florida primary win",
-     "https://cryptobriefing.com/fairshake-2m-setback-florida-primaries/"
     ]
    ]
   },
@@ -449,29 +562,16 @@
   },
   {
    "h": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-   "s": "Potential rate hikes could slow economic growth, impact borrowing costs, and influence market stability if inflation persists.",
+   "s": "",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3djZ2FKOHhfMkVRRHEzdFlsQ0t2Tmt5OE1sM1lrX1V3WFZ3RXlYdTlZcFVSWmx0YWFYaDZRSjYyYkRwVXQzZm5Sdldobk5xc0pXdVotLUt2S251cnVfdHV3MmRObmd1aW5zcGZkVGVxdkgzbURqbU9qV093Wmt2aWFFWkpxaWNGYVRQanh6NWRqeXJfZHA3bDB4Nmp2LXlrbUh0MlR1WWdDWEM5QUpaV2gycjItYmvSAbwBQVVfeXFMTjhBbUlQSGRVY3hPZXpNT3A1NFlLQ1ViNUZ0WjBzaC1LdTlFZ3J1UHI4Q1FGT2tUZ3JWeDBOWTIxRGJWRnNRUW9VcHdfQkhKZk5IaGhBdmdiSXFYX3RySnhUOVNpeUN2TjBvMUVKcEUyRXlQUjZkRmYwQU5ud3VIczJwLTZxVW90NlVZYjM4a2J3RnpxbjV1RlZ5VXFYenNZcXFEVmhLM0pKUnQyOVZQRm5lMUlvdDNLWVRFOU0?oc=5",
    "ts": "2026-08-19T18:01:32Z",
    "tags": [
     "MACRO"
    ],
    "srcs": [
-    "France 24",
-    "CNBC",
-    "CryptoBriefing"
+    "CNBC"
    ],
-   "alt": [
-    [
-     "France 24",
-     "Many US Fed policymakers back interest rate hikes if inflation stays high",
-     "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGw2OVNJRW1JR2ZrZ3BpV2lxNXAwNVo5QVYzMTExSmRZUmxaQUhnb256Mkt3bWI1QlRzdDBpbVJjbjRmVVNyV2NEVjcydm14TWtxMVhFd2dCTVNOSk91OTVyNjVzQzUtSTVDejVLeUJuYXppZUNuaVY3VGxpa1Jhdzd3NVJ0ZnN6Ny10NEh3OWkwWnA0ZDVPUjBvTTVwTVd1VDgyVXlhVldGb3JKWVRnbWlwWW1KQ3U4aktOVw?oc=5"
-    ],
-    [
-     "CryptoBriefing",
-     "Fed officials warn rate hikes possible if inflation remains high",
-     "https://cryptobriefing.com/fed-officials-warn-rate-hikes-possible-if-inflation-remains-high/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
@@ -494,6 +594,19 @@
    ],
    "srcs": [
     "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "SEC Proposes \"Regulation Crypto Assets\" Framework",
+   "s": "The SEC just proposed rules that would let crypto startups raise up to $75M without full registration.",
+   "url": "https://www.bankless.com/read/news/sec-proposes-regulation-crypto-assets-framework",
+   "ts": "2026-08-19T17:30:35Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "Bankless"
    ],
    "alt": []
   },
@@ -651,9 +764,16 @@
     "ETH"
    ],
    "srcs": [
-    "The Block"
+    "The Block",
+    "Bankless"
    ],
-   "alt": []
+   "alt": [
+    [
+     "Bankless",
+     "Nethermind Drops LayerZero Verifier Role, Joins Chainlink",
+     "https://www.bankless.com/read/news/nethermind-drops-layerzero-verifier-role-joins-chainlink"
+    ]
+   ]
   },
   {
    "h": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
@@ -664,20 +784,27 @@
     "PERPS"
    ],
    "srcs": [
-    "Decrypt"
+    "Decrypt",
+    "Bankless"
    ],
-   "alt": []
+   "alt": [
+    [
+     "Bankless",
+     "Base App Unveils Hyperliquid-Powered Perps",
+     "https://www.bankless.com/read/news/base-app-unveils-hyperliquid-powered-perps"
+    ]
+   ]
   },
   {
-   "h": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
-   "s": "Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "h": "Bitcoin holds near $65,000 as traders await Fed minutes",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOR2RMckZTUU5BQUxpbHVGX0t4eUZQcml3YmVkR2VzeFhBZUNiZ2dxbndjZ3VJQkplSWR6SGZDWk81MW9jdWtpQjJIUlRLcC1lMnItS2ZDcEhMQ1pFOE9DamZudjJyZw?oc=5",
    "ts": "2026-08-19T16:00:03Z",
    "tags": [
     "BTC"
    ],
    "srcs": [
-    "Cointelegraph"
+    "eciks.org"
    ],
    "alt": []
   },
@@ -698,6 +825,26 @@
    "h": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
    "s": "Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.",
    "url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-19T15:44:09Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "Cointelegraph",
+    "Bitcoin Magazine"
+   ],
+   "alt": [
+    [
+     "Bitcoin Magazine",
+     "Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks",
+     "https://bitcoinmagazine.com/news/bitcoin-blasts-past-68000"
+    ]
+   ]
+  },
+  {
+   "h": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
+   "s": "Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "ts": "2026-08-19T15:37:42Z",
    "tags": [
     "BTC",
@@ -705,14 +852,14 @@
    ],
    "srcs": [
     "Cointelegraph",
-    "Bitcoin Magazine",
-    "CryptoSlate"
+    "CryptoSlate",
+    "CryptoBriefing"
    ],
    "alt": [
     [
-     "Bitcoin Magazine",
-     "Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks",
-     "https://bitcoinmagazine.com/news/bitcoin-blasts-past-68000"
+     "CryptoBriefing",
+     "US Treasury doubles down on buybacks to tame surging long-dated bond yields",
+     "https://cryptobriefing.com/us-treasury-buybacks-long-dated-bond-yields/"
     ],
     [
      "CryptoSlate",
@@ -847,16 +994,9 @@
     "BTC"
    ],
    "srcs": [
-    "CryptoBriefing",
     "BeInCrypto"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "The Ships and the Line",
-     "https://cryptobriefing.com/research-ships-and-the-line/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger",
@@ -1037,20 +1177,6 @@
    "alt": []
   },
   {
-   "h": "Here’s what happened in crypto today",
-   "s": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-08-19T13:10:52Z",
-   "tags": [
-    "BTC",
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "Cointelegraph"
-   ],
-   "alt": []
-  },
-  {
    "h": "Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global",
    "s": "Scott Shay said big banks could use blockchain payments to take market share from smaller rivals as N3XT expands globally.",
    "url": "https://www.theblock.co/news/business/2026-08-19-ex-signature-bank-chair-big-banks-blockchain-n3xt-412202",
@@ -1084,14 +1210,32 @@
    "ts": "2026-08-19T13:00:00Z",
    "tags": [
     "BTC",
+    "PERPS",
     "REGULATION"
    ],
    "srcs": [
     "CoinDesk",
+    "Cointelegraph",
+    "Decrypt",
     "Bitcoin Magazine",
     "CryptoBriefing"
    ],
    "alt": [
+    [
+     "Bitcoin Magazine",
+     "Trump Urges Senate to Pass Crypto’s CLARITY Act, Teases More Bitcoin Buys",
+     "https://bitcoinmagazine.com/news/trump-teases-bitcoin-buys"
+    ],
+    [
+     "Decrypt",
+     "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
+     "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting"
+    ],
+    [
+     "Cointelegraph",
+     "Trump pushes for CLARITY Act passage alongside crypto leaders",
+     "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    ],
     [
      "CoinDesk",
      "Trump pushes Congress to move on Clarity Act during White House crypto event",
@@ -1106,11 +1250,6 @@
      "CryptoBriefing",
      "Trump urges Congress to pass CLARITY Act to regulate digital assets",
      "https://cryptobriefing.com/trump-urges-congress-to-pass-clarity-act-to-regulate-digital-assets/"
-    ],
-    [
-     "Bitcoin Magazine",
-     "President Trump To Host Crypto Execs at White House",
-     "https://bitcoinmagazine.com/news/trump-to-host-crypto-execs"
     ]
    ]
   },
@@ -1310,22 +1449,6 @@
    "alt": []
   },
   {
-   "h": "Bitcoin’s Q2 selloff split Wall Street as banks bought, hedge funds cut and sovereigns held",
-   "s": "Bitcoin fell 14.2% in the second quarter, while institutional Bitcoin ETF holdings rose 7.5% over the same period, climbing from 498,389 to 535,723 BTC equivalent.",
-   "url": "https://cryptoslate.com/bitcoins-q2-selloff-split-wall-street-as-banks-bought-hedge-funds-cut-and-sovereigns-held/",
-   "ts": "2026-08-19T11:00:42Z",
-   "tags": [
-    "BTC",
-    "EQUITIES",
-    "ETF",
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "Scaramucci points to $100,000 bitcoin as ‘magic number’ for OG sellers, eyes AI-blockchain convergence",
    "s": "John Darsie, CEO of SALT and partner at SkyBridge, said bitcoin's changing holder base is part of a broader maturation process.",
    "url": "https://www.theblock.co/news/markets/2026-08-19-scaramucci-points-to-100000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence-412190",
@@ -1342,6 +1465,19 @@
    "h": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
    "s": "",
    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
+   "ts": "2026-08-19T10:29:57Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CoinDesk"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin holds above $64,000 as a global bond rout sends yields to multi-decade highs",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHlZY3dUdU1hdUtidXp1VUVZSlo3TDFXLW9JNzEyRUg5TmlrWnVtanM3TEcwUUJLZWVuaG9ueERWdGd4WlIyZG1YTENYcUxzLUdIRnV4NE1FSHQzTGNnNzd2SU5scWZDZFdoQ1VFM2xKa0VCS2QweVN1RVVHOUcxWW1rSUR3ZldBdEJXOHBHWWdtNEhGeGdISUExRFpzRlRycjhVbmVBMXZjMkl1Y3BlY3NpU1d6dTJBZ0QzM1c2RUtqRWtEQS12cEp3?oc=5",
    "ts": "2026-08-19T10:29:57Z",
    "tags": [
     "BTC"
@@ -1455,29 +1591,21 @@
    "alt": []
   },
   {
-   "h": "Maya Protocol exploit drains bitcoin and other assets as pool value drops by $11 million",
-   "s": "The exploit highlights vulnerabilities in cross-chain DeFi systems, potentially undermining trust and stability in decentralized finance networks.",
-   "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+   "h": "MAYAChain halts network after estimated $1.7M exploit",
+   "s": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
+   "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "ts": "2026-08-19T05:13:54Z",
    "tags": [
     "BTC",
-    "HACK",
-    "ONCHAIN"
+    "HACK"
    ],
    "srcs": [
-    "CoinDesk",
     "KuCoin",
     "Cointelegraph",
     "Decrypt",
-    "The Defiant",
-    "CryptoBriefing"
+    "The Defiant"
    ],
    "alt": [
-    [
-     "CryptoBriefing",
-     "Maya Protocol halts operations after $1.7M Bitcoin exploit",
-     "https://cryptobriefing.com/maya-protocol-halts-bitcoin-exploit/"
-    ],
     [
      "Decrypt",
      "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
@@ -1492,11 +1620,6 @@
      "KuCoin",
      "Maya Protocol Loses $1.7M in Six-Bug Exploit",
      "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3F6a1pJcWxsQXdRSzFxdExkMWFObGE5WFQ1aGZkSjhJdlY3cWJRVU5GTmVKXzh2c1VVY1FhWFpCVF9LSG50cVMzb3c0SW1makZ5ZFZoTTEzeUNtNFdmNVdxZ25xQnViTENvcTBSclQ1UVRaTHRPb0xlN3dsZHZhRllTUQ?oc=5"
-    ],
-    [
-     "Cointelegraph",
-     "MAYAChain halts network after estimated $1.7M exploit",
-     "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     ]
    ]
   },
@@ -1575,18 +1698,25 @@
    "alt": []
   },
   {
-   "h": "Maya Protocol Exploited For $1.7M In BTC And Other Assets",
+   "h": "Maya Protocol exploit drains bitcoin and other assets as pool value drops by $11 million",
    "s": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNVBTcFllT1dxdjNZOXlPU0JyZmJpZks3Z1JlM1ltMXU3WExjdThEYTZ2aGVlbXRCQThuZzd0SkVJTEVXNVoteHdYbWlnVzQ4LTFLLTFIQWp2M0NaTHphbWxRZWphdzY2UjdVeQ?oc=5",
+   "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
    "ts": "2026-08-19T01:25:11Z",
    "tags": [
     "BTC",
     "HACK"
    ],
    "srcs": [
+    "CoinDesk",
     "Bitcoin World"
    ],
-   "alt": []
+   "alt": [
+    [
+     "Bitcoin World",
+     "Maya Protocol Exploited For $1.7M In BTC And Other Assets",
+     "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNVBTcFllT1dxdjNZOXlPU0JyZmJpZks3Z1JlM1ltMXU3WExjdThEYTZ2aGVlbXRCQThuZzd0SkVJTEVXNVoteHdYbWlnVzQ4LTFLLTFIQWp2M0NaTHphbWxRZWphdzY2UjdVeQ?oc=5"
+    ]
+   ]
   },
   {
    "h": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
@@ -1701,19 +1831,6 @@
    "alt": []
   },
   {
-   "h": "SEC Proposes Token Offering Rules With $75 Million Exemption",
-   "s": "The proposal pairs two registration exemptions with a conditional safe harbor that would take the \"investment contract\" label off a token, and preempts state securities law. All three sitting commissioners backed it in a vote held outside a public meeting.",
-   "url": "https://thedefiant.io/news/regulation/sec-proposes-token-offering-rules-75-million-exemption",
-   "ts": "2026-08-18T20:25:05Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
    "h": "SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor",
    "s": "The Securities and Exchange Commission today charged Daniel Chu, Jerome Kollar, and Ameryn Seibold, the former CEO, CFO, and Senior Director of Finance, respectively, at Texas-based Tricolor Holdings, LLC, for their roles in an alleged multi-year scheme…",
    "url": "https://www.sec.gov/newsroom/press-releases/2026-77-sec-charges-former-executives-fraud-connection-19-billion-collapse-subprime-auto-lender-tricolor",
@@ -1734,6 +1851,17 @@
    "tags": [],
    "srcs": [
     "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
+   "h": "TCRs Will Rise Again",
+   "s": "Token curated registries might be crypto's most underrated primitive again. Why TCRs deserve a second look in 2026.",
+   "url": "https://www.bankless.com/read/tcrs-will-rise-again",
+   "ts": "2026-08-18T19:34:09Z",
+   "tags": [],
+   "srcs": [
+    "Bankless"
    ],
    "alt": []
   },
@@ -1799,6 +1927,26 @@
      "Bitcoin Magazine",
      "SEC Proposes Crypto Rulebook as Clarity Act Stalls",
      "https://bitcoinmagazine.com/news/sec-proposes-crypto-rules"
+    ]
+   ]
+  },
+  {
+   "h": "SEC Proposes Token Offering Rules With $75 Million Exemption",
+   "s": "The proposal pairs two registration exemptions with a conditional safe harbor that would take the \"investment contract\" label off a token, and preempts state securities law. All three sitting commissioners backed it in a vote held outside a public meeting.",
+   "url": "https://thedefiant.io/news/regulation/sec-proposes-token-offering-rules-75-million-exemption",
+   "ts": "2026-08-18T19:21:38Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "The Defiant",
+    "Bankless"
+   ],
+   "alt": [
+    [
+     "Bankless",
+     "Centrifuge Proposes Converting Token Into Equity",
+     "https://www.bankless.com/read/news/centrifuge-proposes-converting-token-into-equity"
     ]
    ]
   },
@@ -1901,6 +2049,17 @@
    "alt": []
   },
   {
+   "h": "Kaito Launches Pulse Social Layer for X",
+   "s": "Kaito launches Pulse and Aura, bringing verified reputation and activity to \"social trading\" via the X timeline.",
+   "url": "https://www.bankless.com/read/news/kaito-launches-pulse-social-layer-for-x",
+   "ts": "2026-08-18T17:33:14Z",
+   "tags": [],
+   "srcs": [
+    "Bankless"
+   ],
+   "alt": []
+  },
+  {
    "h": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
    "s": "The bankrupt airline’s internal communications and business records could soon be used to improve Google’s AI systems.",
    "url": "https://decrypt.co/375883/google-spirit-airlines-data-train-ai",
@@ -1908,6 +2067,17 @@
    "tags": [],
    "srcs": [
     "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "South Korea Blocks Polymarket Over Gambling Concerns",
+   "s": "South Korea blocked Polymarket over illegal gambling concerns, joining more than 30 jurisdictions restricting the prediction market.",
+   "url": "https://www.bankless.com/read/news/south-korea-blocks-polymarket-over-gambling-concerns",
+   "ts": "2026-08-18T17:18:28Z",
+   "tags": [],
+   "srcs": [
+    "Bankless"
    ],
    "alt": []
   },
@@ -1958,30 +2128,13 @@
    "alt": []
   },
   {
-   "h": "Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI",
-   "s": "Bitcoin Magazine Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI Clay Garrett’s investigation matched the 1,082.65 BTC sweeps to a major data provider’s internal logs with “extraordinary specificity.” The coins remain unmoved. This post Hunting Down the Coldcard Hacker.",
-   "url": "https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi",
-   "ts": "2026-08-18T16:02:05Z",
-   "tags": [
-    "BTC",
-    "HACK"
-   ],
+   "h": "Getting Started with Bankless MCP",
+   "s": "Bankless MCP wires AI workspaces like Claude, ChatGPT, and Cursor into the full Bankless content archive.",
+   "url": "https://www.bankless.com/read/getting-started-with-bankless-mcp",
+   "ts": "2026-08-18T16:22:35Z",
+   "tags": [],
    "srcs": [
-    "Bitcoin Magazine"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
-   "s": "Bitcoin returned to $65,000 for the first time in a week as fresh BTC price volatility accompanied US claims that the Strait of Hormuz was “open and operating.”",
-   "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-08-18T15:27:13Z",
-   "tags": [
-    "BTC",
-    "EQUITIES"
-   ],
-   "srcs": [
-    "Cointelegraph"
+    "Bankless"
    ],
    "alt": []
   },
@@ -2052,17 +2205,6 @@
    ],
    "srcs": [
     "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
-   "s": "Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment app.",
-   "url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-08-18T13:41:56Z",
-   "tags": [],
-   "srcs": [
-    "Cointelegraph"
    ],
    "alt": []
   },
@@ -2142,17 +2284,6 @@
    "alt": []
   },
   {
-   "h": "‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme",
-   "s": "Fiji deported Edward Zimbardi to the U.S. to face charges over an alleged $165 million crypto Ponzi scheme involving thousands of investors.",
-   "url": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083",
-   "ts": "2026-08-18T10:49:53Z",
-   "tags": [],
-   "srcs": [
-    "The Block"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
    "s": "Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto rulebook.",
    "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
@@ -2176,7 +2307,7 @@
     "FLOWS"
    ],
    "srcs": [
-    "hextrust.com"
+    "Hex Trust"
    ],
    "alt": []
   },
@@ -2282,17 +2413,6 @@
    "alt": []
   },
   {
-   "h": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-   "s": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
-   "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
-   "ts": "2026-08-17T20:31:04Z",
-   "tags": [],
-   "srcs": [
-    "Decrypt"
-   ],
-   "alt": []
-  },
-  {
    "h": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
    "s": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
    "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
@@ -2315,6 +2435,26 @@
     "The Defiant"
    ],
    "alt": []
+  },
+  {
+   "h": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+   "s": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
+   "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+   "ts": "2026-08-17T19:07:21Z",
+   "tags": [
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "Decrypt",
+    "Bankless"
+   ],
+   "alt": [
+    [
+     "Bankless",
+     "Treasury Proposes Rules for How GENIUS Act Stablecoin Licensing Works",
+     "https://www.bankless.com/read/news/treasury-proposes-rules-for-how-genius-act-stablecoin-licensing-works"
+    ]
+   ]
   },
   {
    "h": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
@@ -2380,16 +2520,17 @@
    "alt": []
   },
   {
-   "h": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
-   "s": "The securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act passes in September.",
-   "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
-   "ts": "2026-08-17T16:27:26Z",
+   "h": "Ansem Debuts Launchpad and the z500 Onchain Index",
+   "s": "A new Solana launchpad and onchain index from trader Ansem builds atop the $ANSEM token.",
+   "url": "https://www.bankless.com/read/news/ansem-debuts-launchpad-and-the-z500-onchain-index",
+   "ts": "2026-08-17T17:24:21Z",
    "tags": [
-    "EQUITIES",
-    "REGULATION"
+    "MEMECOIN",
+    "ONCHAIN",
+    "SOLANA"
    ],
    "srcs": [
-    "Decrypt"
+    "Bankless"
    ],
    "alt": []
   },
@@ -2402,9 +2543,21 @@
     "ONCHAIN"
    ],
    "srcs": [
-    "The Defiant"
+    "The Defiant",
+    "Bankless"
    ],
-   "alt": []
+   "alt": [
+    [
+     "Bankless",
+     "Why Stripe Wants OpenRouter",
+     "https://www.bankless.com/read/why-stripe-wants-openrouter-analysis"
+    ],
+    [
+     "Bankless",
+     "Stripe Is Acquiring AI Router OpenRouter for +$8B",
+     "https://www.bankless.com/read/news/stripe-acquiring-openrouter-8b"
+    ]
+   ]
   },
   {
    "h": "SafePal Breach Exposes 39,798 Buyers as Stolen Records Hit Cybercrime Forum",
