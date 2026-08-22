@@ -1,9 +1,57 @@
 {
- "updated": "2026-08-22T08:11:51.211083Z",
- "newest": "2026-08-22T07:48:56Z",
+ "updated": "2026-08-22T08:47:34.659555Z",
+ "newest": "2026-08-22T08:35:21Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Treasury just put a deadline on offshore stablecoins’ access to US customers",
+   "s": "By July 18, 2028, a stablecoin could still move freely across blockchains and yet disappear from the buy menu on an American exchange. Under the Treasury Department’s proposed GENIUS Act rules, a digital asset service provider wouldn't be able to offer or sell a payment stablecoin to someone in the United States from…",
+   "url": "https://cryptoslate.com/treasury-just-put-a-deadline-on-offshore-stablecoins-access-to-us-customers/",
+   "ts": "2026-08-22T08:35:21Z",
+   "tags": [
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "SumaiL hints at retirement, raising roster uncertainty for Nigma Galaxy at TI2026",
+   "s": "SumaiL's potential retirement could destabilize Nigma Galaxy's roster, impacting their competitive edge and market perception at TI2026.",
+   "url": "https://cryptobriefing.com/sumail-hints-at-retirement-raising-roster-uncertainty-for-nigma-galaxy-at-ti2026/",
+   "ts": "2026-08-22T08:31:18Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Vertiv’s David Cote transforms AC maker into AI powerhouse worth over $100B",
+   "s": "Vertiv's transformation highlights the critical role of infrastructure in AI's growth, underscoring the lucrative potential of supporting technologies.",
+   "url": "https://cryptobriefing.com/vertiv-cote-ai-data-center-powerhouse/",
+   "ts": "2026-08-22T08:28:36Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "S&P 500 index fund owners now hold more Nvidia than Apple",
+   "s": "The shift in S&P 500 fund holdings highlights increased concentration risk, urging investors to reconsider diversification strategies.",
+   "url": "https://cryptobriefing.com/sp500-nvidia-surpasses-apple-weighting/",
+   "ts": "2026-08-22T08:19:10Z",
+   "tags": [
+    "EQUITIES"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "Ormat Technologies pivots to AI-driven geothermal power with EGS projects",
    "s": "Ormat's AI-driven geothermal pivot could revolutionize energy reliability, offering scalable, 24/7 renewable power solutions for data centers.",
@@ -281,13 +329,21 @@
    "url": "https://cryptobriefing.com/sandbox-security-breach-500m-sand-minted/",
    "ts": "2026-08-22T03:54:33Z",
    "tags": [
+    "ETH",
     "HACK",
     "ONCHAIN"
    ],
    "srcs": [
+    "BeInCrypto",
     "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "BeInCrypto",
+     "The Sandbox Contains Bridge Exploit After Unbacked SAND Minted on Base and BSC",
+     "https://beincrypto.com/sandbox-sand-bridge-exploit-base-bsc/"
+    ]
+   ]
   },
   {
    "h": "USTR Greer says Canada has declined to complete trade agreement",
@@ -380,41 +436,6 @@
    "s": "Heightened tensions in the Strait of Hormuz could disrupt global oil logistics, elevate tanker rates, and strain international relations.",
    "url": "https://cryptobriefing.com/strait-of-hormuz-sees-single-ship-transit-amid-us-iran-tensions/",
    "ts": "2026-08-22T02:20:49Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Google introduces EnvHarness to enhance agent training environments",
-   "s": "EnvHarness enhances AI training by improving adaptability and efficiency, potentially accelerating AI deployment in dynamic real-world scenarios.",
-   "url": "https://cryptobriefing.com/google-envharness-agent-training-environments/",
-   "ts": "2026-08-22T02:17:33Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Mexico anticipates trade outcomes similar to US-Canada deal as USMCA splinters into bilateral tracks",
-   "s": "The shift to bilateral trade deals may increase regulatory complexity and weaken Mexico and Canada's negotiating power against the US.",
-   "url": "https://cryptobriefing.com/mexico-trade-outcomes-us-canada-deal/",
-   "ts": "2026-08-22T02:14:38Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Broadcom CDS surges to record 122 basis points amid massive off-balance-sheet AI chip debt deal",
-   "s": "Broadcom's massive AI chip debt gamble highlights the precarious balance between innovation-driven growth and financial risk exposure.",
-   "url": "https://cryptobriefing.com/broadcom-cds-record-debt-deal/",
-   "ts": "2026-08-22T01:58:26Z",
    "tags": [],
    "srcs": [
     "CryptoBriefing"
@@ -934,17 +955,6 @@
    "alt": []
   },
   {
-   "h": "Holders face permanent token destruction with no guarantee of value as deadline looms for Shade’s privacy protocol",
-   "s": "Burning SHD is irreversible and only preserves eligibility for a Feather allocation whose ratio, amount and timing remain unknown.",
-   "url": "https://cryptoslate.com/holders-face-permanent-token-destruction-with-no-guarantee-of-value-as-immediate-deadline-looms-for-shades-privacy-protocol/",
-   "ts": "2026-08-21T16:16:45Z",
-   "tags": [],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
    "s": "Bitcoin’s rally above $79,000 lifted miners and treasury companies, with Canaan, Strive and Metaplanet posting double-digit gains as crypto stocks surged.",
    "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -965,17 +975,6 @@
    "tags": [],
    "srcs": [
     "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Gold Price Hits 3-Month High Amid Bond Market Stress: Is $5,000 Next?",
-   "s": "Gold surged past $4,600 per ounce on Friday, touching its highest level in three months and putting the metal on track for a nearly 5% weekly gain. A weaker dollar and fresh debt concerns are driving investors toward safety. What is Driving the Gold Rally? Spot gold traded between $4,580 and $4,600 on Friday, while",
-   "url": "https://beincrypto.com/gold-hits-three-month-high-bond-market-stress/",
-   "ts": "2026-08-21T16:01:22Z",
-   "tags": [],
-   "srcs": [
-    "BeInCrypto"
    ],
    "alt": []
   },
@@ -2473,6 +2472,22 @@
    "tags": [],
    "srcs": [
     "Bankless"
+   ],
+   "alt": []
+  },
+  {
+   "h": "BlackRock Pulls In $343M As Bitcoin And Ethereum ETF Demand Rebounds",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hSDRiWGdGZG5paThMQlprN2xHMjIyal9pc3VUVm5JbHNLRDZvNmpIdVoxRV8ybmVzNjBuNnJvQk5fcGx0dzJGcUx5N3B2YjBKQV9DQmYtS1gxbWJFbndaNmhPdnBqWHFQU1lSdTFSODFNVEt5c0Fn?oc=5",
+   "ts": "2026-08-19T17:41:53Z",
+   "tags": [
+    "BTC",
+    "ETF",
+    "ETH",
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "Yellow.com"
    ],
    "alt": []
   },
