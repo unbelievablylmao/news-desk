@@ -1,9 +1,79 @@
 {
- "updated": "2026-08-22T04:57:04.531759Z",
- "newest": "2026-08-22T04:34:25Z",
+ "updated": "2026-08-22T05:58:49.552952Z",
+ "newest": "2026-08-22T05:52:36Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Bitcoin retraces to $77,000, triggering $547M in liquidations",
+   "s": "High leverage in crypto markets amplifies risks, turning minor price shifts into significant liquidation events, impacting market stability.",
+   "url": "https://cryptobriefing.com/bitcoin-retraces-77k-liquidations/",
+   "ts": "2026-08-22T05:52:36Z",
+   "tags": [
+    "BTC",
+    "LIQUIDATION",
+    "PERPS"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Ukraine sanctions five Rusal aluminum enterprises over military ties",
+   "s": "Ukraine's targeted sanctions on Rusal highlight the strategic importance of disrupting supply chains critical to Russia's military capabilities.",
+   "url": "https://cryptobriefing.com/ukraine-sanctions-rusal-aluminum-military-ties/",
+   "ts": "2026-08-22T05:52:01Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Iran seeks deal with US, but Trump says terms aren’t right yet",
+   "s": "The escalating sanctions and diplomatic stalemate could heighten global energy market volatility, impacting oil prices and geopolitical stability.",
+   "url": "https://cryptobriefing.com/iran-us-deal-stalls-trump-sanctions/",
+   "ts": "2026-08-22T05:49:20Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Europe condemns Israel’s E1 settlement tenders as “unacceptable”",
+   "s": "European condemnation of Israel's E1 settlement tenders may heighten diplomatic tensions, affecting prospects for a two-state solution.",
+   "url": "https://cryptobriefing.com/europe-condemns-israels-e1-settlement-tenders-as-unacceptable/",
+   "ts": "2026-08-22T05:18:45Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+   "s": "Bitcoin's surge highlights increased investor risk appetite and potential shifts in asset allocation amid changing bond market dynamics.",
+   "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+   "ts": "2026-08-22T05:05:13Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CoinDesk",
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Bitcoin surges nearly 25% after US Treasury doubles buyback operations",
+     "https://cryptobriefing.com/bitcoin-surges-treasury-buyback-change/"
+    ]
+   ]
+  },
   {
    "h": "After months of strikes failed to move Iran’s leadership, Trump shifts focus to North Korea",
    "s": "Trump's pivot to North Korea may delay U.S.-Iran diplomacy, impacting market expectations and shifting global diplomatic priorities.",
@@ -104,19 +174,27 @@
    "alt": []
   },
   {
-   "h": "Zcash surges over 42% to surpass $800 as Grayscale files for ZEC ETF",
+   "h": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
    "s": "Grayscale's ZEC ETF filing could legitimize privacy-focused crypto, potentially paving the way for institutional adoption and regulatory engagement.",
-   "url": "https://cryptobriefing.com/zcash-surges-42-percent-past-800-grayscale-etf/",
+   "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
    "ts": "2026-08-22T02:45:39Z",
    "tags": [
+    "BTC",
     "ETF",
     "INSTITUTIONAL",
     "REGULATION"
    ],
    "srcs": [
+    "CoinDesk",
     "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Zcash surges over 42% to surpass $800 as Grayscale files for ZEC ETF",
+     "https://cryptobriefing.com/zcash-surges-42-percent-past-800-grayscale-etf/"
+    ]
+   ]
   },
   {
    "h": "Fomo app surpasses Cash App in US iPhone finance rankings",
@@ -325,70 +403,6 @@
    "s": "The proposed meeting could ease trade tensions, potentially stabilizing economic relations and impacting political dynamics in both nations.",
    "url": "https://cryptobriefing.com/trump-lula-meeting-tariffs-brazil/",
    "ts": "2026-08-22T00:15:26Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "US stock indexes close higher Friday but post weekly losses amid bond yield volatility",
-   "s": "Volatile bond yields and geopolitical tensions highlight economic fragility, complicating Fed policy and impacting investor confidence and market stability.",
-   "url": "https://cryptobriefing.com/us-stocks-weekly-losses-bond-yield-volatility/",
-   "ts": "2026-08-22T00:12:59Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Dow surges 559 points as US business activity hits four-year high",
-   "s": "The surge in US business activity suggests a broadening economic momentum, indicating potential for sustainable growth amid easing inflation.",
-   "url": "https://cryptobriefing.com/dow-surges-559-points-business-activity-high/",
-   "ts": "2026-08-21T23:55:43Z",
-   "tags": [
-    "MACRO"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "US Treasury doubles bond buybacks, clashing with Fed Chair Warsh’s market-independence approach",
-   "s": "The Treasury's intervention risks undermining central bank independence, potentially leading to market instability and mispriced assets.",
-   "url": "https://cryptobriefing.com/treasury-undercuts-fed-warsh-bond-buybacks/",
-   "ts": "2026-08-21T23:46:00Z",
-   "tags": [
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitwise Solana staking ETF pulls in $20M this week as institutional appetite grows",
-   "s": "The growing institutional interest in staking ETFs like BSOL highlights a shift towards diversified crypto investment strategies, enhancing market resilience.",
-   "url": "https://cryptobriefing.com/bitwise-solana-staking-etf-20m-inflows/",
-   "ts": "2026-08-21T23:44:28Z",
-   "tags": [
-    "ETF",
-    "ETH",
-    "INSTITUTIONAL",
-    "SOLANA"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Linus Torvalds fixes Intel Xe GPU bug with AI assistance, calls it a useful but flawed debugging partner",
-   "s": "AI's role in debugging highlights its potential to assist developers, yet underscores the necessity of human oversight and expertise in problem-solving.",
-   "url": "https://cryptobriefing.com/linus-torvalds-ai-gpu-bug-fix/",
-   "ts": "2026-08-21T23:43:25Z",
    "tags": [],
    "srcs": [
     "CryptoBriefing"
@@ -2243,19 +2257,6 @@
    "alt": []
   },
   {
-   "h": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
-   "s": "",
-   "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
-   "ts": "2026-08-20T11:31:10Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
    "h": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
    "s": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
    "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
@@ -2278,19 +2279,6 @@
    ],
    "srcs": [
     "Cointelegraph"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
-   "s": "",
-   "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
-   "ts": "2026-08-20T10:47:35Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "CoinDesk"
    ],
    "alt": []
   },
@@ -2474,6 +2462,22 @@
    "tags": [],
    "srcs": [
     "Bankless"
+   ],
+   "alt": []
+  },
+  {
+   "h": "BlackRock Pulls In $343M As Bitcoin And Ethereum ETF Demand Rebounds",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hSDRiWGdGZG5paThMQlprN2xHMjIyal9pc3VUVm5JbHNLRDZvNmpIdVoxRV8ybmVzNjBuNnJvQk5fcGx0dzJGcUx5N3B2YjBKQV9DQmYtS1gxbWJFbndaNmhPdnBqWHFQU1lSdTFSODFNVEt5c0Fn?oc=5",
+   "ts": "2026-08-19T17:41:53Z",
+   "tags": [
+    "BTC",
+    "ETF",
+    "ETH",
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "Yellow.com"
    ],
    "alt": []
   },
@@ -2681,22 +2685,6 @@
    ],
    "srcs": [
     "CryptoRank"
-   ],
-   "alt": []
-  },
-  {
-   "h": "US Bitcoin, Ethereum Spot ETFs See Combined Net Inflows; BTC Draws $189 Million",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Db2hJNTZVaGFRa21GTFdaeENwQ1VTXy1vRG1ZWkFIU21LOWJjVzAzWmc1azZ1NTRfYzFOaG9rWlREQ3lia1Vmam9fNVJ2UUhNMF96NEo1VExTN1ktV245WWZId2pBdllnT2ZxWmNNRFRCWjhQdkE?oc=5",
-   "ts": "2026-08-19T05:06:00Z",
-   "tags": [
-    "BTC",
-    "ETF",
-    "ETH",
-    "FLOWS"
-   ],
-   "srcs": [
-    "finance.biggo.com"
    ],
    "alt": []
   }
