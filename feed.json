@@ -1,9 +1,72 @@
 {
- "updated": "2026-08-22T15:29:50.857127Z",
- "newest": "2026-08-22T15:16:41Z",
+ "updated": "2026-08-22T15:48:39.549934Z",
+ "newest": "2026-08-22T15:45:50Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Solana’s first governance vote nears with a live 60% quorum display error",
+   "s": "An unmerged frontend fix must replace live-stake math with the constitution’s one-third snapshot test before epoch 1021.",
+   "url": "https://cryptoslate.com/solanas-first-governance-vote-nears-with-a-live-60-quorum-display-error/",
+   "ts": "2026-08-22T15:45:50Z",
+   "tags": [
+    "SOLANA"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Canada’s PM Carney announces retaliatory measures against US effective September 8",
+   "s": "The escalating trade conflict may disrupt North American supply chains, impacting industries and increasing market volatility.",
+   "url": "https://cryptobriefing.com/canada-carney-measures-against-us-september/",
+   "ts": "2026-08-22T15:32:51Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+   "s": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
+   "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+   "ts": "2026-08-22T15:31:04Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Stacks enables Bitcoin staking in 19 days with PoX-5 hardfork",
+   "s": "The PoX-5 hardfork could redefine Bitcoin's utility, enhancing its appeal by enabling yield generation while maintaining self-custody.",
+   "url": "https://cryptobriefing.com/stacks-bitcoin-staking-pox5/",
+   "ts": "2026-08-22T15:30:26Z",
+   "tags": [
+    "BTC",
+    "ETH",
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "OpenAI integrates agent email feature into ChatGPT web app",
+   "s": "OpenAI's email integration in ChatGPT could redefine AI's role in communication, enhancing automation while raising privacy and security concerns.",
+   "url": "https://cryptobriefing.com/openai-chatgpt-agent-email-botmail/",
+   "ts": "2026-08-22T15:29:25Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
    "s": "",
@@ -123,11 +186,19 @@
    "s": "Anthropic's integration of Claude AI into collaborative workspaces could significantly enhance its market position and competitive edge.",
    "url": "https://cryptobriefing.com/anthropic-advances-claude-ai-with-collaborative-workspace-integration/",
    "ts": "2026-08-22T14:48:03Z",
-   "tags": [],
+   "tags": [
+    "SOLANA"
+   ],
    "srcs": [
     "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "A mysterious new AI model called “Ox Alpha” is reportedly beating Claude Fable 5 and GPT-5.6 Sol at coding, and nobody knows who built it",
+     "https://cryptobriefing.com/a-mysterious-new-ai-model-called-ox-alpha-is-reportedly-beating-claude-fable-5/"
+    ]
+   ]
   },
   {
    "h": "Pantera Capital notes Bitcoin positioning shifts from short to long after 10-month consolidation",
@@ -405,57 +476,6 @@
    "alt": []
   },
   {
-   "h": "Circle Internet Group’s tokenized stocks add $48M in market cap in a single week",
-   "s": "The rise in Circle's tokenized stocks highlights the growing appeal of blockchain-based equity trading, potentially reshaping global investment access.",
-   "url": "https://cryptobriefing.com/circle-tokenized-stocks-market-cap-growth/",
-   "ts": "2026-08-22T13:02:41Z",
-   "tags": [
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Rogers-AIPAC rift shakes up tight Michigan Senate race",
-   "s": "The rift may alter voter perceptions and campaign dynamics, potentially affecting fundraising and competitiveness in the Michigan Senate race.",
-   "url": "https://cryptobriefing.com/rogers-aipac-rift-shakes-up-tight-michigan-senate-race/",
-   "ts": "2026-08-22T12:57:17Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "JPMorgan’s tokenized T-bill products near $885M in market cap",
-   "s": "J.P. Morgan's success in tokenized T-bills highlights a shift towards blockchain in finance, potentially reshaping institutional investment strategies.",
-   "url": "https://cryptobriefing.com/jpmorgan-tokenized-treasury-885m-market-cap/",
-   "ts": "2026-08-22T12:56:44Z",
-   "tags": [
-    "INSTITUTIONAL",
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Putin claims Russian soldiers advancing in Ukraine amid ongoing conflict",
-   "s": "Increased military activity in Ukraine could heighten geopolitical tensions, impacting global markets and prompting international diplomatic responses.",
-   "url": "https://cryptobriefing.com/putin-claims-russian-soldiers-advancing-in-ukraine-amid-ongoing-conflict/",
-   "ts": "2026-08-22T12:53:28Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Just 1% of wallets control $133M in midterm odds on Polymarket, creating a dangerous illusion of mass public consensus",
    "s": "The Nov. 3 midterm election is less than 11 weeks away, and its betting market had already surpassed the full 2024 congressional cycle in the latest comparable data. Traders had placed at least $133 million across markets tied to House and Senate races by Aug. 10, compared with $92.4 million during all of 2024. The",
    "url": "https://cryptoslate.com/just-1-of-wallets-control-133m-in-midterm-odds-on-polymarket-creating-a-dangerous-illusion-of-mass-public-consensus/",
@@ -670,20 +690,6 @@
    "ts": "2026-08-22T00:20:14Z",
    "tags": [
     "ETH"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
-   "h": "MANTRA Chain stays offline after exploit as Aug. 21 restart hinges on patch test",
-   "s": "Transactions, transfers and staking remain unavailable after MANTRA said an attacker exploited an upstream dependency.",
-   "url": "https://cryptoslate.com/mantra-chain-stays-offline-after-exploit-as-aug-21-restart-hinges-on-patch-test/",
-   "ts": "2026-08-21T23:10:37Z",
-   "tags": [
-    "ETH",
-    "HACK"
    ],
    "srcs": [
     "CryptoSlate"
@@ -2475,19 +2481,6 @@
    ],
    "srcs": [
     "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Interest Rate Predictions for the Next 2 Years: 2026-2028",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlhMTEFheG1UWnI0c0J0RHJJZEZUR0lWMGtNQUdqbzg1X2c1Zng4b2x3Nkx3TC0wQWI4T1c5N3lwNUl5QzJ5T1lWemhLLTJ4V1JSTzdRX1BBVGMzVEtSLVFZWjdnS25aZ3p4WGRGTEhlRUFTY0VKZ3ktX1JFVHBWMlgxekpmSEJjR20zUw?oc=5",
-   "ts": "2026-08-19T18:17:31Z",
-   "tags": [
-    "MACRO"
-   ],
-   "srcs": [
-    "Norada Real Estate Investments"
    ],
    "alt": []
   },
