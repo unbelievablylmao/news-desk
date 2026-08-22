@@ -1,17 +1,103 @@
 {
- "updated": "2026-08-22T03:07:37.899166Z",
- "newest": "2026-08-22T02:54:45Z",
+ "updated": "2026-08-22T04:57:04.531759Z",
+ "newest": "2026-08-22T04:34:25Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
   {
-   "h": "Justin Sun accuses World Liberty Financial’s USD1 of having backdoor functions, files fraud lawsuit",
-   "s": "The lawsuit highlights the critical need for transparency and trust in crypto governance, potentially influencing future regulatory frameworks.",
-   "url": "https://cryptobriefing.com/justin-sun-accuses-wlfi-usd1-backdoor/",
-   "ts": "2026-08-22T02:54:45Z",
+   "h": "After months of strikes failed to move Iran’s leadership, Trump shifts focus to North Korea",
+   "s": "Trump's pivot to North Korea may delay U.S.-Iran diplomacy, impacting market expectations and shifting global diplomatic priorities.",
+   "url": "https://cryptobriefing.com/after-months-of-strikes-failed-to-move-irans-leadership-trump-shifts-focus-to/",
+   "ts": "2026-08-22T04:34:25Z",
    "tags": [
-    "REGULATION"
+    "SECURITY"
    ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Coinbase CEO Brian Armstrong Sees Crypto Bull Market Starting Soon",
+   "s": "Coinbase CEO Brian Armstrong says crypto spot trading is close to its next bull market, citing prior bear cycles that each ran roughly 370 to 380 days. He spoke on CNBC after President Donald Trump hosted crypto executives and regulators at the White House. Bitcoin (BTC) has since climbed above $78,000.",
+   "url": "https://beincrypto.com/coinbase-ceo-crypto-bull-market/",
+   "ts": "2026-08-22T04:10:36Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Illuvium says six months of cuts bought it another year as MMO becomes its main remaining bet",
+   "s": "Warwick says six months of cost reductions restored runway, but the studio has not published its current burn.",
+   "url": "https://cryptoslate.com/illuvium-says-six-months-of-cuts-bought-it-another-year-as-mmo-becomes-its-main-remaining-bet/",
+   "ts": "2026-08-22T04:00:09Z",
+   "tags": [],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Canada suspends trade talks with US, matches tariffs dollar for dollar",
+   "s": "The suspension of trade talks and reciprocal tariffs could destabilize key industries, strain US-Canada relations, and impact global markets.",
+   "url": "https://cryptobriefing.com/canada-suspends-us-trade-talks-tariffs/",
+   "ts": "2026-08-22T03:56:25Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Canada to match US tariffs as trade talks collapse, escalating tensions",
+     "https://cryptobriefing.com/canada-to-match-us-tariffs-as-trade-talks-collapse-escalating-tensions/"
+    ],
+    [
+     "CryptoBriefing",
+     "Donald Trump implements 50% tariffs after US-Canada trade talks collapse",
+     "https://cryptobriefing.com/trump-50-percent-tariffs-canada-trade/"
+    ]
+   ]
+  },
+  {
+   "h": "The Sandbox faces security breach as 500M SAND minted on Base network",
+   "s": "The breach undermines SAND's tokenomics, risking market instability and eroding trust in blockchain security and smart contract reliability.",
+   "url": "https://cryptobriefing.com/sandbox-security-breach-500m-sand-minted/",
+   "ts": "2026-08-22T03:54:33Z",
+   "tags": [
+    "HACK",
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "USTR Greer says Canada has declined to complete trade agreement",
+   "s": "The stalled trade agreement could lead to increased economic uncertainty and potential tariff escalations, affecting North American markets.",
+   "url": "https://cryptobriefing.com/ustr-greer-canada-trade-agreement-declined/",
+   "ts": "2026-08-22T03:38:03Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "US Customs and Border Protection issues guidance on tariffs for Canadian goods",
+   "s": "The new tariffs could strain US-Canada trade relations, disrupt supply chains, and potentially lead to retaliatory measures from Canada.",
+   "url": "https://cryptobriefing.com/cbp-guidance-tariffs-canadian-goods/",
+   "ts": "2026-08-22T03:35:48Z",
+   "tags": [],
    "srcs": [
     "CryptoBriefing"
    ],
@@ -310,32 +396,6 @@
    "alt": []
   },
   {
-   "h": "SEC outlines steps to reverse Biden-era crypto enforcement",
-   "s": "The SEC's shift towards a more industry-friendly crypto approach may boost US competitiveness but lacks legislative permanence, risking future reversals.",
-   "url": "https://cryptobriefing.com/sec-reverses-biden-crypto-enforcement/",
-   "ts": "2026-08-21T23:25:36Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Anthropic’s Opus 4.6 model bypasses content restrictions, tests show",
-   "s": "The ease of bypassing content restrictions in AI models like Opus 4.6 raises concerns about broader vulnerabilities in AI compliance architecture.",
-   "url": "https://cryptobriefing.com/anthropic-opus-4-6-content-restrictions-bypass/",
-   "ts": "2026-08-21T23:12:06Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "MANTRA Chain stays offline after exploit as Aug. 21 restart hinges on patch test",
    "s": "Transactions, transfers and staking remain unavailable after MANTRA said an attacker exploited an upstream dependency.",
    "url": "https://cryptoslate.com/mantra-chain-stays-offline-after-exploit-as-aug-21-restart-hinges-on-patch-test/",
@@ -359,44 +419,6 @@
    ],
    "srcs": [
     "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Microsoft receives first production Vera Rubin systems from Nvidia",
-   "s": "Microsoft's acquisition of Nvidia's Vera Rubin systems could significantly lower AI costs, enabling broader deployment of advanced AI applications.",
-   "url": "https://cryptobriefing.com/microsoft-nvidia-vera-rubin-production/",
-   "ts": "2026-08-21T22:37:36Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "OpenAI calls for stronger AI laws in California",
-   "s": "OpenAI's advocacy for unified AI laws in California highlights the need for consistent regulations to streamline compliance and enhance safety.",
-   "url": "https://cryptobriefing.com/openai-california-ai-laws/",
-   "ts": "2026-08-21T22:37:25Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Digital infrastructure operator Bitari targets $30 million raise in Nasdaq IPO filing",
-   "s": "Bitari's IPO could accelerate Bitcoin mining infrastructure growth, but limited public governance may affect investor influence and market dynamics.",
-   "url": "https://cryptobriefing.com/bitari-files-30m-ipo-nasdaq-bitcoin-mining/",
-   "ts": "2026-08-21T22:29:25Z",
-   "tags": [
-    "BTC",
-    "EQUITIES"
-   ],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -444,16 +466,9 @@
     "SOLANA"
    ],
    "srcs": [
-    "The Defiant",
-    "CryptoBriefing"
+    "The Defiant"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Solana activates 350-ms slots on mainnet, boosting transaction speeds",
-     "https://cryptobriefing.com/solana-activates-350-ms-slots-on-mainnet-boosting-transaction-speeds/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Trump-backed $4 billion USD1 stablecoin has wallet powers its own GitHub does not show",
@@ -963,17 +978,6 @@
    "alt": []
   },
   {
-   "h": "BitMart Reverses Shutdown Decision, What Changed?",
-   "s": "BitMart explores a phased restart days before its August 26 trading halt, with creditor payouts on the table.",
-   "url": "https://beincrypto.com/bitmart-restructuring-comeback-after-shutdown/",
-   "ts": "2026-08-21T15:34:34Z",
-   "tags": [],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge",
    "s": "Bitcoin Magazine Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge Bitcoin has continued its rocket upwards, and blew past $79,000 on Friday.",
    "url": "https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000",
@@ -1094,19 +1098,6 @@
    ],
    "srcs": [
     "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin miners are getting a new AI hedge, but it may protect them from the wrong risk",
-   "s": "GPU-rental benchmarks may price one layer of AI capacity while HIVE and Riot retain project and financing exposure.",
-   "url": "https://cryptoslate.com/bitcoin-miners-are-getting-a-new-ai-hedge-but-it-may-protect-them-from-the-wrong-risk/",
-   "ts": "2026-08-21T13:50:11Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "CryptoSlate"
    ],
    "alt": []
   },
@@ -1632,6 +1623,25 @@
     "Decrypt"
    ],
    "alt": []
+  },
+  {
+   "h": "Consumer Prices Rise 0.1% in July, Annual Inflation Rate Holds at 3.4% - Revenue Guidance Range",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEgySVEtYmVJdjAwN0FNMVFOdHdUcEMwa29mbVVsd2xxS1lPeTZCOHVlUl9IYlMzVjJqLTdKVXpGck5lNFA0LXlrRWhRQjJEMEs1b1lqZmI0QXJacEhuLUZDdVhGSV9SZmRwNzlQN3VQWUM1aUVPWDJuck5ZcE5JMWVEQ1g2dUIyYWd2d1FUQ1lXdWRud3NhWnJ1RFdpcTFVcXFYeUVWY2VIMUU?oc=5",
+   "ts": "2026-08-20T22:13:44Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "vinanet.vn"
+   ],
+   "alt": [
+    [
+     "vinanet.vn",
+     "Consumer Prices Rise 0.1% in July as Annual Inflation Rate Holds at 3.4% - ROA Comparison",
+     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFpwajVSc3JFdkt3MzMzVFFhcUF0YnM4NkNUeFE2VGprbHVRXzJHUG1GN0NDSm9XdWEtNGlhUlNVLXcwYVA0azJjY0tkOTNDRm9uUExrbTAwd3dxSkJhdE9YdFRTczJqX19FblNndGxSTkswb3E0YkE0YUVmUmtZaXpnekcwbjZxNmV2VDc3UkN4REtPMVl0ZHpRcmVibDBnZEZLOGxwM0ZHUHBScE00?oc=5"
+    ]
+   ]
   },
   {
    "h": "Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden",
@@ -2257,6 +2267,21 @@
    "alt": []
   },
   {
+   "h": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
+   "s": "Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.",
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-20T11:16:41Z",
+   "tags": [
+    "BTC",
+    "ETF",
+    "FLOWS"
+   ],
+   "srcs": [
+    "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
    "h": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
    "s": "",
    "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
@@ -2296,28 +2321,6 @@
     "The Defiant"
    ],
    "alt": []
-  },
-  {
-   "h": "Bitcoin spot ETF inflows rebound, $487 million enters in two days",
-   "s": "Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUlWWjR0bzNsMGdna3l5T1Q4OVFJbzkyYThvdmFNQWtOOEZBeFY0cFRzNF9pR21hRnU3eFI1bkxkSHpJMHdtbmRBLVozam9lZGo0dWtwWFVsNW90RzlUSUJENWd4Mm9kUm9heEtySmM4MUpxeXRBZnp4NzlfZjJTd3VwUjR1QmstQ0VacWlHcTh6MlU1aC1OUWtsS3B1bWc?oc=5",
-   "ts": "2026-08-19T23:59:31Z",
-   "tags": [
-    "BTC",
-    "ETF",
-    "FLOWS"
-   ],
-   "srcs": [
-    "디지털투데이",
-    "Cointelegraph"
-   ],
-   "alt": [
-    [
-     "Cointelegraph",
-     "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
-     "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    ]
-   ]
   },
   {
    "h": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
@@ -2502,6 +2505,21 @@
    "alt": []
   },
   {
+   "h": "Bitcoin ETFs Record Sixth Straight Day Of Inflows As Spot Funds Avoid August Outflows",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sTmd1RW1OZTlVUmxDdmVUT0dWTV9mR0dXbTFxazNSQkJYTHc3Mkw0UW9Ec21zc25zSFpmSlRPLUVUYUp6VlpjYXJrazRYSi03QXBWYTRzOUNiQ3Ffa2w3MzlBWGZFNlRwQVZlcW8xdk8?oc=5",
+   "ts": "2026-08-19T17:02:48Z",
+   "tags": [
+    "BTC",
+    "ETF",
+    "FLOWS"
+   ],
+   "srcs": [
+    "Yellow.com"
+   ],
+   "alt": []
+  },
+  {
    "h": "Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means",
    "s": "A Phase 3 win against the standard of care sent the biotech's shares up 131% and left short sellers down $4.8 billion.",
    "url": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
@@ -2647,6 +2665,22 @@
    ],
    "srcs": [
     "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin, Ethereum, XRP Hold Key Support as ETF Inflows Return",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFFVVWxnVjc5Z3k2LVIwYXhSUlZDaVFKSU5DWXowN0FTRDhpcDZ3UldqNFdIOTZ0SlBXeDZWZ1FjakFFbkxMbHNyZ2RYOHNINWpfTEY2LVVTMkNMdHFraFFISkF4ck9XN3l2dmhmVExPODlNTEZJZC1OLVlrN1kyQmYzbUY1WGJ6b2ZKbmpFYkJQNEo2dVR0QlN3?oc=5",
+   "ts": "2026-08-19T13:16:09Z",
+   "tags": [
+    "BTC",
+    "ETF",
+    "ETH",
+    "FLOWS"
+   ],
+   "srcs": [
+    "CryptoRank"
    ],
    "alt": []
   },
