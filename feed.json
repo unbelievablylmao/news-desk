@@ -1,9 +1,20 @@
 {
- "updated": "2026-08-22T10:57:36.450766Z",
- "newest": "2026-08-22T10:52:33Z",
+ "updated": "2026-08-22T11:23:19.740678Z",
+ "newest": "2026-08-22T11:15:42Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Trump suggests Iran could face more bombing amid US sanctions crackdown",
+   "s": "Increased military tensions and sanctions reduce chances for diplomatic resolutions, impacting future US-Iran economic and political relations.",
+   "url": "https://cryptobriefing.com/trump-suggests-iran-could-face-more-bombing-amid-us-sanctions-crackdown/",
+   "ts": "2026-08-22T11:15:42Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "Gen.G secures top spot in LCK, advances to second playoff round",
    "s": "Gen.G's strategic playoff advantage could significantly boost their global ranking, impacting the competitive landscape in esports.",
@@ -99,7 +110,13 @@
    "srcs": [
     "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Ukrainian drone attack kills one in Russia’s Samara Oblast",
+     "https://cryptobriefing.com/ukrainian-drone-attack-kills-one-in-russias-samara-oblast/"
+    ]
+   ]
   },
   {
    "h": "Premier League and Serie A return, La Liga kicks off this weekend",
@@ -421,34 +438,6 @@
    "alt": []
   },
   {
-   "h": "Qatar cuts state spending as economy contracts due to US-Iran conflict",
-   "s": "Qatar's economic contraction highlights the vulnerability of energy-dependent economies to geopolitical tensions, impacting global energy stability.",
-   "url": "https://cryptobriefing.com/qatar-spending-cuts-economy-us-iran-conflict/",
-   "ts": "2026-08-22T06:05:18Z",
-   "tags": [
-    "HACK"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin retraces to $77,000, triggering $547M in liquidations",
-   "s": "High leverage in crypto markets amplifies risks, turning minor price shifts into significant liquidation events, impacting market stability.",
-   "url": "https://cryptobriefing.com/bitcoin-retraces-77k-liquidations/",
-   "ts": "2026-08-22T05:52:36Z",
-   "tags": [
-    "BTC",
-    "LIQUIDATION",
-    "PERPS"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
    "s": "",
    "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
@@ -496,6 +485,19 @@
    "tags": [],
    "srcs": [
     "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Trump Renews Push for Sharply Lower Interest Rates, Again Questions Federal Reserve's Motives - Estimate Accuracy",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWXhlcEVGRVVocEpobWJSU25TU0hJLVJHSHJXaDZFdFZiRllfZjlFcDNmUlJ6bjFONGV1aXBnSEMzazZLRzIwYmJhSVBkMmNvS1VvckFwQzg0V21PYVNzZUgwZVJMWXJ2WDAyRDFlZy1rREZmOVdTOWQzRk5pU0dLVjVRcWhsSXM2MWxXZnFXSE5zakl6OWFkWDR3d0dJeDFhUjZ5RzA3SUtFVV9DbzVrWUl6aVNCVmg1bFRjTkdaVnBvRzR6M2ZsMHB5YVZIUQ?oc=5",
+   "ts": "2026-08-22T00:24:37Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "vinanet.vn"
    ],
    "alt": []
   },
@@ -625,6 +627,19 @@
    ],
    "srcs": [
     "The Block"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Trump Renews Criticism of Federal Reserve Rate Policy, Demands Lower U.S. Borrowing Costs - Revenue Guidance Range",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTk5KdTRnbElCMHRnc243amg3eTlQejc1dWdWVUtsUEg1d1lMTDB5Sk5yNHBwRFpVemJzSDlMaWxCMmZYWjM2MnY5Q1BoYVNFR1NkT3J2RXVzc3JmQnVsTHBhaHZIWF9lVVA2bldXSzhkNjY1eGZ5Rlc4djItYjMzS1RGbE16RG5ieWU5UHE4cU1nbFJXTXZrMzlNTmdEYkFveHNtMHBjYnQ1NjR5RkRyLTZ3dUl4WmxpVzZ5a250LU56Z0dMazFr?oc=5",
+   "ts": "2026-08-21T21:34:20Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "vinanet.vn"
    ],
    "alt": []
   },
@@ -1807,19 +1822,6 @@
    ]
   },
   {
-   "h": "The Fed's preferred measure of inflation is changing",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDBnRlJKZDIwTFVSZkRvRnFXM0VXd2hkVzFrcWpLMkZxS0RHdmtDRFVJNjJxVmJGTFFqNURoeFpKOHNnYkZRV2xZRnRuNm9Dc2pZZ2J3ai1aMjJKcEJPRk9mRWt6VjlXVHJHOUh5N2dEQnpzemJUdU5JY012aXd0WDNlQnYtcTVENXpvcWpnY3NTeEJMbENnc195U2dPWVVFNnFn?oc=5",
-   "ts": "2026-08-20T20:18:00Z",
-   "tags": [
-    "MACRO"
-   ],
-   "srcs": [
-    "marketplace.org"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
    "s": "Bitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip—but the longer-term bets still price in a crash.",
    "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
@@ -1959,6 +1961,26 @@
     "Bankless"
    ],
    "alt": []
+  },
+  {
+   "h": "St. Louis Fed's Musalem: Policy Accommodative, Inflation Too High, Open on September Move - News and Statistics",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLUdKZjNveFJOVThXdjRKQXRyODMzS2E5R3UyeVBUQ3dsYWw0SUpVN29SZmZDWWgxLU9NeHQwZ0dpanZlOE9KOXZkZGZSQkRfRGUtRUdSM0wyaVVMd2tvU2xhTC0xbDFWMHRzSWpzY2RuTnp0MGIzN1JNRnFyRTRGRFpEZHdHUmhYQTllNVBQSzBEdXR3SHgw?oc=5",
+   "ts": "2026-08-20T17:32:00Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "marketplace.org",
+    "IndexBox"
+   ],
+   "alt": [
+    [
+     "marketplace.org",
+     "The Fed's preferred measure of inflation is changing",
+     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDBnRlJKZDIwTFVSZkRvRnFXM0VXd2hkVzFrcWpLMkZxS0RHdmtDRFVJNjJxVmJGTFFqNURoeFpKOHNnYkZRV2xZRnRuNm9Dc2pZZ2J3ai1aMjJKcEJPRk9mRWt6VjlXVHJHOUh5N2dEQnpzemJUdU5JY012aXd0WDNlQnYtcTVENXpvcWpnY3NTeEJMbENnc195U2dPWVVFNnFn?oc=5"
+    ]
+   ]
   },
   {
    "h": "Bitcoin ETFs Add Over $1B as Investor Sentiment Turns Bullish",
