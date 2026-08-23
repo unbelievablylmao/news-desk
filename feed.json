@@ -1,9 +1,22 @@
 {
- "updated": "2026-08-23T21:35:01.875546Z",
- "newest": "2026-08-23T21:23:50Z",
+ "updated": "2026-08-23T21:55:45.818419Z",
+ "newest": "2026-08-23T21:44:31Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "OpenAI and Anthropic build out Washington lobbying machines to shape AI legislation",
+   "s": "The increased lobbying by AI firms highlights the growing influence of tech companies in shaping regulatory landscapes, impacting future AI governance.",
+   "url": "https://cryptobriefing.com/openai-anthropic-lobbying-ai-legislation/",
+   "ts": "2026-08-23T21:44:31Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "S&P 500 dividend yields fall below 10Y Treasury note income, fewest stocks outyielding bonds since 2007",
    "s": "The shift in yield dynamics may drive income-focused investors towards bonds, potentially impacting equity market valuations and strategies.",
@@ -132,6 +145,17 @@
    "s": "Pahlavi's call highlights potential shifts in Iran's political landscape, with economic instability possibly undermining regime authority.",
    "url": "https://cryptobriefing.com/irans-exiled-crown-prince-urges-action-amid-rials-collapse-and-regime-pressure/",
    "ts": "2026-08-23T19:52:47Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Iran threatens to halt all Persian Gulf oil exports, labels US support as act of war",
+   "s": "Iran's threat to block the Strait of Hormuz could destabilize global oil markets, strain international relations, and escalate regional tensions.",
+   "url": "https://cryptobriefing.com/iran-threatens-halt-persian-gulf-oil-exports/",
+   "ts": "2026-08-23T19:51:47Z",
    "tags": [],
    "srcs": [
     "CryptoBriefing"
@@ -402,23 +426,6 @@
    "alt": []
   },
   {
-   "h": "Iran dismisses new US sanctions threat as ‘desperate’ effort",
-   "s": "The ongoing U.S.-Iran tensions may lead to increased geopolitical instability, affecting global markets and political dynamics in the region.",
-   "url": "https://cryptobriefing.com/iran-dismisses-new-us-sanctions-threat-as-desperate-effort/",
-   "ts": "2026-08-23T17:12:06Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Iran threatens to halt all Persian Gulf oil exports, labels US support as act of war",
-     "https://cryptobriefing.com/iran-threatens-halt-persian-gulf-oil-exports/"
-    ]
-   ]
-  },
-  {
    "h": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
    "s": "UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
    "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
@@ -591,9 +598,9 @@
    "alt": []
   },
   {
-   "h": "Another DeFi Hack: Term Labs Loses $8.5 Million in Governance Exploit",
-   "s": "DeFi lending protocol Term Labs lost roughly $8.5 million on Sunday after a governance exploit impacted its Term vaults, blockchain security firm PeckShield reported. The attacker pulled 2,843 Ethereum (ETH) and 1.68 million USDC (USDC) out of the protocol.",
-   "url": "https://beincrypto.com/term-labs-defi-exploit-vaults/",
+   "h": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
+   "s": "Term vault proposals face a seven-day delay and can be vetoed by liquidity providers, yet those controls apparently did not stop the exploit.",
+   "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
    "ts": "2026-08-23T12:35:36Z",
    "tags": [
     "ETH",
@@ -602,9 +609,16 @@
     "STABLECOIN"
    ],
    "srcs": [
+    "The Block",
     "BeInCrypto"
    ],
-   "alt": []
+   "alt": [
+    [
+     "BeInCrypto",
+     "Another DeFi Hack: Term Labs Loses $8.5 Million in Governance Exploit",
+     "https://beincrypto.com/term-labs-defi-exploit-vaults/"
+    ]
+   ]
   },
   {
    "h": "Crypto treasury firm seeks 20B share ceiling and reverse splits after launching $300M stock offering",
@@ -715,19 +729,6 @@
      "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/"
     ]
    ]
-  },
-  {
-   "h": "PPI Report April 2026: How Inflation Data Is Moving HIMS, CEG, and PLUG Stock Today",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSE5nb3BFRERTbXYwUUVPZFJTb0pVV3NGdlRqWXlmQjJRcVJsdjRiWUdMeXpjQVJTaDdUM3dvT1ZhOWpiWHhwQW00SkJKa2FsbmYtLXJHd3AxQ0ZlT1dzY1hwY3k3UFBFNnR0RlBvS1V4VlgwaURNam1rU05mb3hONklldzJqN0hybmE4QlpBN3UwbTVKNlJyNDY3dVpwQ2MwT3c1UnBTOFZySnZiaXcxbEdzX1BSVklrMy1IclhWQUl6R0NaMzhyRVlzRFYtWjJvMXJn?oc=5",
-   "ts": "2026-08-22T22:19:54Z",
-   "tags": [
-    "MACRO"
-   ],
-   "srcs": [
-    "TradingKey"
-   ],
-   "alt": []
   },
   {
    "h": "Consumer Prices Edge Up 0.1% in July, Annual Inflation Rate Steady at 3.4% - Margin Improvement Report",
