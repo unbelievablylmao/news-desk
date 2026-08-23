@@ -1,9 +1,80 @@
 {
- "updated": "2026-08-23T19:02:45.810551Z",
- "newest": "2026-08-23T18:37:38Z",
+ "updated": "2026-08-23T19:29:41.276712Z",
+ "newest": "2026-08-23T19:28:24Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "South Korean crypto exchanges report 566K foreign accounts, but only 90 are active",
+   "s": "South Korea's stringent crypto regulations deter foreign investment, potentially undermining its position as a competitive crypto hub.",
+   "url": "https://cryptobriefing.com/south-korea-crypto-foreign-accounts-dormant/",
+   "ts": "2026-08-23T19:28:24Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Ohtani may return to Dodgers pitching sooner than expected",
+   "s": "Ohtani's early return could enhance his MVP prospects, impacting market sentiment and boosting the Dodgers' competitive edge.",
+   "url": "https://cryptobriefing.com/ohtani-may-return-to-dodgers-pitching-sooner-than-expected/",
+   "ts": "2026-08-23T19:17:14Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Hugging Face explores potential $13B sale amid acquisition talks",
+   "s": "Hugging Face's potential sale could reshape the AI landscape, influencing open-source collaboration and impacting major tech investors' strategies.",
+   "url": "https://cryptobriefing.com/hugging-face-13b-sale-talks/",
+   "ts": "2026-08-23T19:14:16Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitwise reports $1.8B in net inflows across crypto products in H1 2026",
+   "s": "Despite a crypto market downturn, Bitwise's inflows highlight growing investor interest in diversified and yield-enhanced crypto products.",
+   "url": "https://cryptobriefing.com/bitwise-crypto-inflows-h1-2026/",
+   "ts": "2026-08-23T19:11:51Z",
+   "tags": [
+    "ETF",
+    "FLOWS"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin Core considers dropping encrypted routing support as poor node health exposes users to eclipse attacks",
+   "s": "The 32.x warning and 33.x removal sequence remains a proposal as maintainers test whether sparse fallback routes add resilience.",
+   "url": "https://cryptoslate.com/bitcoin-core-considers-dropping-encrypted-routing-support-as-poor-node-health-exposes-users-to-eclipse-attacks/",
+   "ts": "2026-08-23T19:10:29Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "US national debt reaches $40 trillion, raising fiscal concerns across markets",
+   "s": "Rising debt levels could limit fiscal policy flexibility, increase borrowing costs, and heighten market volatility, impacting economic stability.",
+   "url": "https://cryptobriefing.com/us-national-debt-40-trillion-fiscal-concerns/",
+   "ts": "2026-08-23T19:09:17Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "Pakistan mediates US-Iran tensions, influencing Middle East diplomacy",
    "s": "Pakistan's mediation could reshape Middle East diplomacy, potentially increasing US-Iran engagement and altering geopolitical dynamics.",
@@ -403,50 +474,6 @@
    "alt": []
   },
   {
-   "h": "Pence: US must prepare for ‘inevitable’ military action against Iran",
-   "s": "Pence's remarks may heighten geopolitical tensions, affecting diplomatic efforts and market stability, with implications for future U.S.-Iran relations.",
-   "url": "https://cryptobriefing.com/pence-us-must-prepare-for-inevitable-military-action-against-iran/",
-   "ts": "2026-08-23T15:36:57Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "AMD invests over $10B in Taiwan for advanced chip packaging with TSMC",
-   "s": "AMD's investment in Taiwan strengthens its competitive edge in AI infrastructure, diversifies supply chains, and enhances geopolitical ties.",
-   "url": "https://cryptobriefing.com/amd-10-billion-taiwan-chip-packaging-tsmc/",
-   "ts": "2026-08-23T15:35:58Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Iranian parliament committee approves fees for ships in Strait of Hormuz",
-   "s": "Iran's move to formalize transit fees in the Strait of Hormuz could escalate global oil prices and disrupt international shipping routes.",
-   "url": "https://cryptobriefing.com/iran-strait-hormuz-transit-fees/",
-   "ts": "2026-08-23T15:33:33Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Iran attacks expose vulnerabilities in US Gulf bases, sparking strategic debate",
-   "s": "The exposure of U.S. base vulnerabilities may prompt a strategic shift, influencing regional stability and U.S.-Iran relations.",
-   "url": "https://cryptobriefing.com/iran-attacks-expose-vulnerabilities-in-us-gulf-bases-sparking-strategic-debate/",
-   "ts": "2026-08-23T15:33:13Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
    "s": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both desired allocations and actual crypto purchases.",
    "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -457,16 +484,9 @@
     "MACRO"
    ],
    "srcs": [
-    "Cointelegraph",
-    "CryptoBriefing"
+    "Cointelegraph"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Federal Reserve Bank of Cleveland study reveals crypto investors swayed by Bitcoin returns",
-     "https://cryptobriefing.com/fed-cleveland-study-crypto-investors-bitcoin-returns/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
@@ -502,6 +522,19 @@
    ],
    "srcs": [
     "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "CYBERLEEK Meme Coin Explodes 1,400% Amid GTA VI Leak Controversy",
+   "s": "CyberLeek claims it will trigger an automatic worldwide release of a playable GTA VI build if legal action forces the group offline, even as its associated meme coin explodes 1,400%. A fact-check has since found that the key piece of evidence behind that specific threat was fabricated.",
+   "url": "https://beincrypto.com/gta-vi-cyberleek-meme-coin-rally/",
+   "ts": "2026-08-23T14:26:28Z",
+   "tags": [
+    "MEMECOIN"
+   ],
+   "srcs": [
+    "BeInCrypto"
    ],
    "alt": []
   },
@@ -673,17 +706,6 @@
    "alt": []
   },
   {
-   "h": "Local’s access to global crypto platforms could end under Nigeria’s proposed capital floor",
-   "s": "Exchanges and custodians would need ₦2 billion in capital, while foreign-currency stablecoins face 120% backing.",
-   "url": "https://cryptoslate.com/seamless-access-to-global-crypto-platforms-could-evaporate-for-locals-under-nigerias-proposed-%e2%82%a62-billion-capital-floor/",
-   "ts": "2026-08-23T07:00:07Z",
-   "tags": [],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin and Ethereum ETFs Posted Their Best Weekly Performance of 2026, with $2.62B in Inflows",
    "s": "",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWFwZlhDZ2EwWEs1WXNXZ3BhUlNOSTlxRktLcEZNRVdsM2FQdGJlS2NpNVlFQVh5STlLc1lRcGxkMjA2ajVwZ1hRVkhEdFJxbmRYTHJxQy1OZDhNZXZGSWJkRF9TZUpiTzFlSXNhMnJKLWhucEdfbHFTeWU2QW80d1NCUnJONGRQbnFQMG5SWGxTOGhwY2M1T1NxVVZUUEZCOUo5ZzZJYXo2TXVfWExaRno3V0hKRktpNXc?oc=5",
@@ -760,19 +782,6 @@
    ],
    "srcs": [
     "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "$830 Million in an Hour: XRP and TRUMP Drive New Record in South Korea",
-   "s": "South Korea’s Upbit recorded 1.15 trillion won, roughly $830 million, in trading volume within a single hour on Saturday, with XRP and TRUMP dominating the surge. The spike extends a rebound that began the previous day, when Upbit’s daily volume already jumped 273%.",
-   "url": "https://beincrypto.com/upbit-record-hourly-trading-volume-xrp-trump/",
-   "ts": "2026-08-22T18:37:00Z",
-   "tags": [
-    "LISTING"
-   ],
-   "srcs": [
-    "BeInCrypto"
    ],
    "alt": []
   },
@@ -2128,19 +2137,6 @@
    ],
    "srcs": [
     "Federal Reserve"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
-   "s": "Bitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip—but the longer-term bets still price in a crash.",
-   "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
-   "ts": "2026-08-20T19:16:05Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "Decrypt"
    ],
    "alt": []
   }
