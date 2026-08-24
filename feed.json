@@ -1,9 +1,60 @@
 {
- "updated": "2026-08-24T03:41:35.745613Z",
- "newest": "2026-08-24T03:17:09Z",
+ "updated": "2026-08-24T04:29:04.308953Z",
+ "newest": "2026-08-24T04:25:25Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "US widens AI-driven investment gap with Europe as private funding hits $109B",
+   "s": "The US's AI investment dominance may widen tech innovation gaps, impacting global competitiveness and regulatory approaches in AI development.",
+   "url": "https://cryptobriefing.com/us-widens-ai-investment-gap-europe/",
+   "ts": "2026-08-24T04:25:25Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "KPMG Australia Axes 360 Employees and 27 Partners in Sweeping Restructure",
+   "s": "KPMG Australia will cut 27 partners and about 360 employees, roughly 5% of its workforce, as revenue slips and the firm absorbs the fallout from allegations that it misused confidential client information.",
+   "url": "https://beincrypto.com/kpmg-australia-job-cuts-august/",
+   "ts": "2026-08-24T04:17:07Z",
+   "tags": [],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Ledger fixes vulnerability in Ethereum app’s signing flows",
+   "s": "The incident underscores the critical need for transparency and proactive communication in cybersecurity to maintain user trust and safety.",
+   "url": "https://cryptobriefing.com/ledger-ethereum-app-vulnerability-fix/",
+   "ts": "2026-08-24T04:07:54Z",
+   "tags": [
+    "ETH",
+    "HACK"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "$92 Billion Nvidia Earnings Could Make or Break the AI Trade",
+   "s": "Nvidia reports earnings Wednesday with $92 billion in sales on the line, and Wall Street is split on whether the AI trade can hold.",
+   "url": "https://beincrypto.com/nvidia-earnings-92-billion-ai-trade/",
+   "ts": "2026-08-24T03:40:00Z",
+   "tags": [
+    "EQUITIES"
+   ],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
   {
    "h": "Liquid Death CEO Dodges IPO Question Despite Goldman Sachs Ties",
    "s": "Liquid Death's Mike Cessario won't confirm an IPO timeline, even after hiring Goldman Sachs and a Pepsi-veteran CFO.",
@@ -417,28 +468,6 @@
    ]
   },
   {
-   "h": "Investment in UK financial technology firms drops to lowest level since 2016",
-   "s": "The decline in UK fintech investment highlights a shift towards profitability and AI-driven innovation, impacting future growth dynamics.",
-   "url": "https://cryptobriefing.com/uk-fintech-investment-drops-lowest-since-2016/",
-   "ts": "2026-08-23T23:15:26Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Vercel reports open-weight models hit 62% of AI Gateway traffic in August",
-   "s": "The rise of open-weight models highlights a shift towards cost-effective AI solutions, impacting enterprise strategies and market dynamics.",
-   "url": "https://cryptobriefing.com/vercel-open-weight-models-62-percent-august/",
-   "ts": "2026-08-23T23:14:55Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitwise Just Took $1.8 Billion in a Bear Market, Tom Lee Noticed",
    "s": "Bitwise drew $1.8B in net inflows and Tom Lee applauded. But the money bought yield, not price upside.",
    "url": "https://beincrypto.com/bitwise-inflows-bear-market-tom-lee/",
@@ -514,13 +543,21 @@
    "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
    "ts": "2026-08-23T20:50:45Z",
    "tags": [
+    "ETH",
     "HACK",
     "ONCHAIN"
    ],
    "srcs": [
-    "The Block"
+    "The Block",
+    "Cointelegraph"
    ],
-   "alt": []
+   "alt": [
+    [
+     "Cointelegraph",
+     "Term Finance loses estimated $8.5M in vault governance exploit",
+     "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    ]
+   ]
   },
   {
    "h": "After Buying Circle Through a 42% Drop, Cathie Wood Says Analysts Cannot Fathom It",
@@ -573,17 +610,6 @@
    "alt": []
   },
   {
-   "h": "400% Strait Traffic Surge Eases Supply Fears, Will Oil Break Lower Monday?",
-   "s": "Strait of Hormuz oil traffic jumped 400% in two weeks, yet WTI and Brent still climbed. Both now test May downtrend lines.",
-   "url": "https://beincrypto.com/hormuz-traffic-surge-oil-price-test/",
-   "ts": "2026-08-23T18:11:50Z",
-   "tags": [],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin miner IPO demands 99.8% of funds from public buyers while handing them just 10% equity",
    "s": "The preliminary S-1 compares $30,000,005 from new investors with $45,000 from existing holders and leaves buyers immediately diluted.",
    "url": "https://cryptoslate.com/bitcoin-miner-ipo-demands-99-8-of-funds-from-public-buyers-while-handing-them-just-10-equity/",
@@ -629,20 +655,6 @@
    "tags": [],
    "srcs": [
     "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Donald Trump Sold MicroStrategy and Bought Two Other Crypto Stocks",
-   "s": "President Donald Trump’s June financial disclosure lists more than 1,000 securities transactions. Only 7 involved crypto companies, and most of those were sales, according to a financial disclosure published Saturday. The Office of Government Ethics published the periodic transaction report.",
-   "url": "https://beincrypto.com/trump-june-trades-crypto-disclosure-filing/",
-   "ts": "2026-08-23T16:02:52Z",
-   "tags": [
-    "INSTITUTIONAL",
-    "LISTING"
-   ],
-   "srcs": [
-    "BeInCrypto"
    ],
    "alt": []
   },
@@ -777,6 +789,19 @@
      "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/"
     ]
    ]
+  },
+  {
+   "h": "Consumer Prices Edge Up 0.1% in July, Annual Inflation Rate Steady at 3.4% - Margin Improvement Report",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmVzU1NFM0FKbzQ2N0wyUEt5ejFrSWJIeFgtaFVrbnpRblBUUUhodGVXWWk3Tll1VDlsaEx0eExxUk9YdFRDd2EwVm5uUnY4ek9oYVJyTEVGc3hFcF9nMFkxMlVnMDhLUTlWM1FoQXdtaEVwLTF6QWpkcXRtU0hPcFVCc2ZmbXQwSEpWZVZsSzVNYnNIc3MwUGJET0plWDBWbXAxNU5SZVhrNkZlUGZnVw?oc=5",
+   "ts": "2026-08-22T21:24:11Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "vinanet.vn"
+   ],
+   "alt": []
   },
   {
    "h": "Eric Trump Denies New Coin Launch as TRUMP Jumps 38%",
