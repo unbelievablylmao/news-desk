@@ -1,9 +1,31 @@
 {
- "updated": "2026-08-24T22:36:16.204431Z",
- "newest": "2026-08-24T22:35:19Z",
- "sources_ok": 20,
+ "updated": "2026-08-24T22:59:31.950545Z",
+ "newest": "2026-08-24T22:42:01Z",
+ "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Jim Cramer Cites Overblown Meta Stock Trial Risk: Is This A Sell Signal?",
+   "s": "Jim Cramer says the Meta stock trial risk is overblown, and the $1.4 trillion figure is a ceiling, not a demand.",
+   "url": "https://beincrypto.com/jim-cramer-meta-stock-trial-risk/",
+   "ts": "2026-08-24T22:42:01Z",
+   "tags": [],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Net taker volume surges to $3B as buying outpaces selling for the first time",
+   "s": "A surge in net taker volume suggests a potential market shift, indicating increased trader urgency and possibly foreshadowing significant price movements.",
+   "url": "https://cryptobriefing.com/net-taker-volume-surges-3-billion-buying-outpaces-selling/",
+   "ts": "2026-08-24T22:36:06Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "S&P 500 and Nasdaq end lower as tech stocks decline ahead of Nvidia earnings",
    "s": "Market volatility highlights the tech sector's vulnerability to geopolitical tensions and regulatory scrutiny, impacting investor confidence.",
@@ -428,17 +450,6 @@
    "alt": []
   },
   {
-   "h": "Generalist raises $200M for AI robotics development as physical AI race heats up",
-   "s": "Generalist's funding surge accelerates AI robotics innovation, potentially transforming industries like healthcare and agriculture with adaptable robots.",
-   "url": "https://cryptobriefing.com/generalist-raises-200m-ai-robotics/",
-   "ts": "2026-08-24T21:02:43Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
    "s": "Ox Alpha is topping benchmark scores, reads a million tokens, takes video as input, and has developers guessing who's behind it.",
    "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
@@ -471,6 +482,20 @@
    ],
    "srcs": [
     "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Kinetiq Unveils Elysium L2 for Hyperliquid",
+   "s": "Kinetiq unveiled Elysium, a Hyperliquid L2 built to improve HyperEVM performance, revive spot trading, and create a new KNTQ buyback engine.",
+   "url": "https://www.bankless.com/read/news/kinetiq-unveils-elysium-l2-for-hyperliquid",
+   "ts": "2026-08-24T20:22:15Z",
+   "tags": [
+    "ETH",
+    "PERPS"
+   ],
+   "srcs": [
+    "Bankless"
    ],
    "alt": []
   },
@@ -601,6 +626,19 @@
    "alt": []
   },
   {
+   "h": "Phantom to Drop Sui in Second Chain Exit",
+   "s": "Phantom will drop Sui support come Sept. 24, following its Monad exit as Sui TVL remains roughly 82% below its peak.",
+   "url": "https://www.bankless.com/read/news/phantom-to-drop-sui-in-second-chain-exit",
+   "ts": "2026-08-24T18:59:51Z",
+   "tags": [
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "Bankless"
+   ],
+   "alt": []
+  },
+  {
    "h": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
    "s": "Hyperliquid's token is riding a record into its largest remaining supply release.",
    "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
@@ -701,13 +739,19 @@
     "CoinDesk",
     "Cointelegraph",
     "The Defiant",
-    "Decrypt"
+    "Decrypt",
+    "Bankless"
    ],
    "alt": [
     [
      "The Defiant",
      "Coinbase Launches Tokenized Stocks On Base",
      "https://thedefiant.io/news/defi/coinbase-launches-tokenized-stocks-on-base"
+    ],
+    [
+     "Bankless",
+     "Coinbase Enters the Tokenized Stock Wars",
+     "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars"
     ],
     [
      "Decrypt",
@@ -789,6 +833,19 @@
    ],
    "srcs": [
     "The Block"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin's Best Week in Years Puts $80K in Focus",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWVYZ1lpMEpCYUN0N0lRTGU3Z2ZrSVVFcWdydFR1SHY3eC0xSXBnZ3ZzSHZiNjZGR3pucjM0M1AxVm8xLWswVFBRTEY0TW9wMXYyeGp1NkZJby0wTWRwX0dKT3hVeUF5X1k3dDhOWFhPZUpJaE5BMWxlcGtkS3BSMGdHc3hGckhickN6RnFDZVQ2RUpR?oc=5",
+   "ts": "2026-08-24T16:17:39Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "FOREX.com"
    ],
    "alt": []
   },
@@ -1000,15 +1057,15 @@
    "alt": []
   },
   {
-   "h": "Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys",
-   "s": "Strategy held off on new Bitcoin buying, maintaining holdings at 840,447 BTC as it launched a $1.59 billion cash pool after raising $2 billion from MSTR stock sales.",
-   "url": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-08-24T12:45:00Z",
+   "h": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
+   "s": "The company has not bought Bitcoin since June, and has now created a liquidity account it said may be spent on more of it.",
+   "url": "https://decrypt.co/376325/strategy-raises-2b-selling-mstr-stock-establishes-usd-cash-pot",
+   "ts": "2026-08-24T12:49:33Z",
    "tags": [
     "BTC"
    ],
    "srcs": [
-    "Cointelegraph"
+    "Decrypt"
    ],
    "alt": []
   },
@@ -1023,13 +1080,19 @@
    "srcs": [
     "CoinDesk",
     "The Block",
-    "Decrypt"
+    "Cointelegraph",
+    "Bankless"
    ],
    "alt": [
     [
-     "Decrypt",
-     "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
-     "https://decrypt.co/376325/strategy-raises-2b-selling-mstr-stock-establishes-usd-cash-pot"
+     "Bankless",
+     "Strategy Creates $1.6B Flexible Cash Pool",
+     "https://www.bankless.com/read/news/strategy-creates-1-6b-flexible-cash-pool"
+    ],
+    [
+     "Cointelegraph",
+     "Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys",
+     "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     ],
     [
      "CoinDesk",
@@ -1379,24 +1442,14 @@
   },
   {
    "h": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
-   "s": "Warsh's Jackson Hole debut lands Friday. See whether Bitcoin repeats the sharp 2022 slide Powell triggered.",
+   "s": "",
    "url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
    "ts": "2026-08-24T04:41:28Z",
-   "tags": [
-    "BTC",
-    "MACRO"
-   ],
+   "tags": [],
    "srcs": [
-    "CoinDesk",
-    "BeInCrypto"
+    "CoinDesk"
    ],
-   "alt": [
-    [
-     "BeInCrypto",
-     "Bitcoin Braces for Warsh's Jackson Hole Debut: Will 2022 Repeat?",
-     "https://beincrypto.com/bitcoin-warsh-jackson-hole-debut-2022/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever",
@@ -1424,7 +1477,6 @@
    ],
    "srcs": [
     "Altcoin Buzz",
-    "Cryptonews.net",
     "finance.biggo.com",
     "Cointelegraph"
    ],
@@ -1433,11 +1485,6 @@
      "Altcoin Buzz",
      "Bitcoin ETF Inflows Hit $1.9B in Strongest Week Since October 2025",
      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xczRScE5TNkU5SGxIY2tTM1B3U2Zza1lXX09KYnR4d0pPV0ZwQThHMXQwTDdabTUwVHFWdG5RbEFWeVV2b3FlOEVhdnRHUDRZOUdTbVd0a3o5Zw?oc=5"
-    ],
-    [
-     "Cryptonews.net",
-     "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
-     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TR1hDY0ZyM0lKb3JDTkM3TUxFWlZGb1UwaWpNTU9BRFJhS2tXNVB3TFlZSVNod1JVQkVXa1poWEE1dlUyenA1Y0o1RDcxR1VxWXRsaUtEVzE?oc=5"
     ],
     [
      "Cointelegraph",
@@ -1592,21 +1639,6 @@
    "tags": [],
    "srcs": [
     "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Inflows into exchange-traded funds for Bitcoin and Ethereum — $2.6 billion in a week",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWUtZDhkRGFldlVmMVVSVktqeWQybllYa1R0ZFNqbDh2c2k3cnI4UFZtNER1OTlLR1BPOVdXRWNBdnlaMFJZYmJWVXNZQWRxOEFSYXNPXzdRTFdRdGpQck9nRXRvQ1Q2dk9SWllZZ1AtZTVoQTdkQ2VDdHM1UDE5VnZpV3dmVGt2R1VEcjQ5NER5MnNvQlA4ZExjVGFzYTBsMzVZUW9oekRpZHhTQklSMGxBQjBGYkZkNTNKTWdtNzg2ZWhXaGxB?oc=5",
-   "ts": "2026-08-23T12:38:24Z",
-   "tags": [
-    "BTC",
-    "ETH",
-    "FLOWS"
-   ],
-   "srcs": [
-    "CoinSpot.io"
    ],
    "alt": []
   },
