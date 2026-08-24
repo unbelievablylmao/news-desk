@@ -1,17 +1,52 @@
 {
- "updated": "2026-08-24T21:41:55.859492Z",
- "newest": "2026-08-24T21:35:14Z",
+ "updated": "2026-08-24T22:01:25.277277Z",
+ "newest": "2026-08-24T21:39:52Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
   {
-   "h": "US dollar rallies as Treasury Secretary Scott Bessent announces sweeping Iran sanctions",
+   "h": "Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall",
+   "s": "Elon Musk celebrated a new partnership between SpaceX and NVIDIA on Monday, confirming plans to launch an optimized Vera Rubin system into orbit as early as 2027. Despite his enthusiasm, both companies’ stocks fell on the day of the announcement.",
+   "url": "https://beincrypto.com/elon-musk-spacex-nvidia-partnership-stocks-fall/",
+   "ts": "2026-08-24T21:39:52Z",
+   "tags": [],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "France Telegram Case Turns 2: Is Durov Being Prosecuted for Saying No?",
+   "s": "France's Telegram case turns two as Durov says the app was targeted for refusing secret censorship demands.",
+   "url": "https://beincrypto.com/france-telegram-case-durov-prosecution/",
+   "ts": "2026-08-24T21:37:30Z",
+   "tags": [],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "US dollar rallies as Treasury moves to cut Iran off from global finance",
    "s": "The sanctions deepen Iran's economic isolation, potentially destabilizing regional markets and increasing global reliance on the US dollar.",
    "url": "https://cryptobriefing.com/us-dollar-rallies-iran-sanctions-bessent/",
    "ts": "2026-08-24T21:35:14Z",
    "tags": [],
    "srcs": [
     "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+   "s": "A judge stayed the CFTC’s civil case against a soldier who allegedly used nonpublic information for a Polymarket bet, but the regulator is trying to weigh in on the criminal case.",
+   "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-08-24T21:33:13Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "Cointelegraph"
    ],
    "alt": []
   },
@@ -42,7 +77,7 @@
    "alt": []
   },
   {
-   "h": "Oura Health seeks to raise $3B in US IPO, betting big on the smart ring boom",
+   "h": "Oura seeks up to $3 billion in US IPO at valuation above $16 billion",
    "s": "Oura's IPO highlights the growing consumer demand for wearable health tech and signals a shift towards subscription-based revenue models.",
    "url": "https://cryptobriefing.com/oura-health-3-billion-us-ipo/",
    "ts": "2026-08-24T21:25:06Z",
@@ -100,7 +135,7 @@
    "alt": []
   },
   {
-   "h": "BlackRock seeks buyers for $671M in TCP Capital loans as BDC overhaul accelerates",
+   "h": "BlackRock pitches $671 million TCP Capital loan portfolio to rival managers",
    "s": "BlackRock's loan sale reflects a strategic shift in BDC management, potentially influencing middle-market lending dynamics and investor strategies.",
    "url": "https://cryptobriefing.com/blackrock-tcp-capital-loan-sale/",
    "ts": "2026-08-24T21:15:08Z",
@@ -143,7 +178,7 @@
    "alt": []
   },
   {
-   "h": "NVent to acquire Maverick Power for up to $2.3B to deepen its AI data center footprint",
+   "h": "nVent agrees to buy Maverick Power for up to $2.3 billion",
    "s": "NVent's acquisition of Maverick Power signals a strategic expansion in AI infrastructure, potentially reshaping the data center landscape.",
    "url": "https://cryptobriefing.com/nvent-acquires-maverick-power-data-centers/",
    "ts": "2026-08-24T21:07:58Z",
@@ -187,7 +222,7 @@
    "alt": []
   },
   {
-   "h": "Aggreko files for US IPO as data center boom drives profitability surge",
+   "h": "Aggreko files for New York IPO after returning to profit",
    "s": "Aggreko's IPO highlights the transformative impact of data center demand on energy sectors, potentially reshaping market dynamics and valuations.",
    "url": "https://cryptobriefing.com/aggreko-files-us-ipo-data-center-growth/",
    "ts": "2026-08-24T20:59:06Z",
@@ -280,7 +315,7 @@
    ]
   },
   {
-   "h": "US Treasury doubles buyback sizes while keeping debt auction schedule unchanged",
+   "h": "US Treasury to keep debt auction schedule despite larger bond buybacks",
    "s": "The Treasury's expanded buybacks may stabilize the bond market, easing dealer balance sheets and potentially lowering long-term yields.",
    "url": "https://cryptobriefing.com/us-treasury-debt-auction-buyback-plans/",
    "ts": "2026-08-24T20:44:57Z",
@@ -417,19 +452,6 @@
    ],
    "srcs": [
     "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "US weighs 7.5% China tariff ahead of Xi-Trump summit",
-   "s": "The proposed tariffs could strain US-China relations, impacting global trade dynamics and economic stability amid ongoing negotiations.",
-   "url": "https://cryptobriefing.com/us-tariffs-china-xi-trump-summit/",
-   "ts": "2026-08-24T20:15:13Z",
-   "tags": [
-    "MACRO"
-   ],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -606,12 +628,20 @@
    "ts": "2026-08-24T17:48:44Z",
    "tags": [
     "BTC",
-    "LIQUIDATION"
+    "LIQUIDATION",
+    "PERPS"
    ],
    "srcs": [
-    "Cointelegraph"
+    "Cointelegraph",
+    "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Crypto liquidations reach $439M in 24 hours as longs and shorts get wiped in equal measure",
+     "https://cryptobriefing.com/crypto-liquidations-439m-longs-shorts-split/"
+    ]
+   ]
   },
   {
    "h": "Crypto political group details list of U.S. congressional allies its backing this year",
@@ -977,31 +1007,6 @@
    "tags": [
     "ONCHAIN"
    ],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
-   "h": "MicroStrategy Bought $3.28 Billion of US Dollars in August, Not Bitcoin",
-   "s": "Strategy raised $3.28 billion in August, spent none on Bitcoin, and built its dollar pools to $6.69 billion.",
-   "url": "https://beincrypto.com/microstrategy-bought-dollars-august-not-bitcoin/",
-   "ts": "2026-08-24T12:36:59Z",
-   "tags": [
-    "BTC",
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Gold Price Ends 6-Month Correction as Bulls Reclaim Key Trendline",
-   "s": "Gold price reclaims its 20-week moving average and breaks a six-month downtrend, with $4,800 the next major resistance.",
-   "url": "https://beincrypto.com/gold-price-ends-six-month-correction/",
-   "ts": "2026-08-24T12:20:33Z",
-   "tags": [],
    "srcs": [
     "BeInCrypto"
    ],
@@ -1774,33 +1779,6 @@
    ],
    "srcs": [
     "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin Posts Biggest Week Since 2024 as Trump Pushes Senate on CLARITY Act",
-   "s": "Bitcoin gained 22.6% over seven days, its largest advance over any seven-day window since November 2024, after the president told crypto executives at the White House that Congress needs to pass market structure legislation.",
-   "url": "https://thedefiant.io/news/markets/bitcoin-reaches-79-500-as-2-75-billion-liquidation-claim-lacks-detail",
-   "ts": "2026-08-21T21:56:35Z",
-   "tags": [
-    "BTC",
-    "REGULATION"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
-   "s": "Bitcoin Magazine Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital Pantera Capital's portfolio manager has said it's hard not to be bullish with bitcoin's recent price surges.",
-   "url": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
-   "ts": "2026-08-21T21:52:26Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "Bitcoin Magazine"
    ],
    "alt": []
   }
