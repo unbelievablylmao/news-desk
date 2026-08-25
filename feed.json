@@ -1,9 +1,53 @@
 {
- "updated": "2026-08-25T22:09:09.490098Z",
- "newest": "2026-08-25T22:03:04Z",
+ "updated": "2026-08-25T22:43:02.798436Z",
+ "newest": "2026-08-25T22:34:20Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Claude rolls out Morning Brief feature to select users",
+   "s": "Anthropic's selective rollout of Claude's Morning Brief could influence AI adoption by prioritizing privacy and targeting business users.",
+   "url": "https://cryptobriefing.com/claude-morning-brief-feature-rollout/",
+   "ts": "2026-08-25T22:34:20Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Tokenized single-name stocks reach $2B, claiming nearly 5% of the RWA market",
+   "s": "The rapid growth of tokenized stocks signals a shift in equity trading, challenging traditional brokerages and reshaping the financial landscape.",
+   "url": "https://cryptobriefing.com/tokenized-stocks-reach-2b-rwa-market/",
+   "ts": "2026-08-25T22:19:23Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
+   "s": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
+   "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
+   "ts": "2026-08-25T22:16:03Z",
+   "tags": [],
+   "srcs": [
+    "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "US midterm election poses political risk to AI infrastructure trade",
+   "s": "The growing opposition to AI data centers could significantly disrupt AI growth and investment strategies, impacting future infrastructure plans.",
+   "url": "https://cryptobriefing.com/us-midterm-election-ai-infrastructure-risk/",
+   "ts": "2026-08-25T22:09:52Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "Commonwealth Fusion Systems raises $4B to advance fusion energy",
    "s": "CFS's $4B funding surge positions it as a leader in fusion energy, potentially accelerating the transition to cleaner, sustainable power.",
@@ -165,6 +209,17 @@
    "alt": []
   },
   {
+   "h": "Researchers make smaller GPT-OSS model outperform its full-size version",
+   "s": "This advancement could democratize AI by enabling powerful models on low-resource devices, potentially transforming tech accessibility and innovation.",
+   "url": "https://cryptobriefing.com/researchers-shrink-ai-model-enhance-intelligence/",
+   "ts": "2026-08-25T20:52:49Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
    "h": "Is Bitcoin Out of Its Bear Market? These Analysts Think So",
    "s": "Bitcoin Magazine Is Bitcoin Out of Its Bear Market? These Analysts Think So Bitcoin is doing what it has done in previous cycles when it has entered a bull market. This post Is Bitcoin Out of Its Bear Market? These Analysts Think So first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
    "url": "https://bitcoinmagazine.com/news/is-bitcoin-out-of-bear-market",
@@ -184,16 +239,9 @@
    "ts": "2026-08-25T20:46:03Z",
    "tags": [],
    "srcs": [
-    "Decrypt",
-    "CryptoBriefing"
+    "Decrypt"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Researchers shrink AI model while enhancing its intelligence",
-     "https://cryptobriefing.com/researchers-shrink-ai-model-enhance-intelligence/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Traders start losing control of open positions as BitMEX begins its staged shutdown",
@@ -256,11 +304,13 @@
    "alt": []
   },
   {
-   "h": "Stanley Druckenmiller admits to using AI for WSJ op-ed criticizing Scott Bessent",
+   "h": "Druckenmiller says AI helped write Wall Street Journal column criticizing Bessent",
    "s": "Druckenmiller's AI-assisted critique highlights concerns over fiscal policy's impact on market integrity and potential political motivations.",
    "url": "https://cryptobriefing.com/druckenmiller-ai-oped-bessent-treasury/",
    "ts": "2026-08-25T20:28:36Z",
-   "tags": [],
+   "tags": [
+    "EQUITIES"
+   ],
    "srcs": [
     "CryptoBriefing"
    ],
@@ -395,6 +445,17 @@
    "alt": []
   },
   {
+   "h": "Bessent bond buybacks narrow Treasury swap spreads",
+   "s": "The bond buyback plan may temporarily ease liquidity issues but risks undermining market credibility and increasing future borrowing costs.",
+   "url": "https://cryptobriefing.com/bessent-bond-buyback-plan-treasury-yields/",
+   "ts": "2026-08-25T19:59:56Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
    "h": "What to Expect from Kinetiq's Upcoming Hyperliquid L2",
    "s": "Hyperliquid’s first L2 is nearing launch. Here’s what Elysium could mean for DeFi, spot markets, and Kinetiq’s growing role in the ecosystem.",
    "url": "https://www.bankless.com/read/what-to-expect-from-kinetiqs-upcoming-hyperliquid-l2",
@@ -501,17 +562,6 @@
    ]
   },
   {
-   "h": "Washington backs Brazil’s Serra Verde mine in $1.55B rare-earth initiative",
-   "s": "The US investment in Brazil's Serra Verde mine underscores a strategic shift to diversify rare-earth supply chains, reducing reliance on China.",
-   "url": "https://cryptobriefing.com/washington-backs-brazil-serra-verde-rare-earth/",
-   "ts": "2026-08-25T19:35:49Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers",
    "s": "Bitcoin Magazine Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers Someone has sent crypto dust from sanctioned HTX to Kraken users. This post Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
    "url": "https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked",
@@ -524,23 +574,6 @@
     "Bitcoin Magazine"
    ],
    "alt": []
-  },
-  {
-   "h": "US Treasury doubles bond buybacks as national debt crosses $40 trillion for the first time",
-   "s": "Rising national debt and interest payments strain the economy, highlighting the urgent need for fiscal reforms beyond temporary buybacks.",
-   "url": "https://cryptobriefing.com/us-treasury-40-trillion-debt-bond-buybacks/",
-   "ts": "2026-08-25T19:27:03Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Bessent bond buybacks narrow Treasury swap spreads",
-     "https://cryptobriefing.com/bessent-bond-buyback-plan-treasury-yields/"
-    ]
-   ]
   },
   {
    "h": "Term Finance Permanently Shuts Meta Vaults After Exploit PeckShield Estimated at $8.5 Million",
@@ -562,16 +595,9 @@
    "ts": "2026-08-25T19:11:04Z",
    "tags": [],
    "srcs": [
-    "Decrypt",
-    "CryptoBriefing"
+    "Decrypt"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Crypto Fear and Greed Index hits extreme greed for the first time since late 2024",
-     "https://cryptobriefing.com/crypto-fear-greed-index-extreme-greed-2026/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Fastest Bitcoin Bull Flip in a Year Has One $83,000 Problem, Analyst Says",
@@ -1062,7 +1088,7 @@
   {
    "h": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
    "s": "Hugging Face relies on open weight Chinese models to defend itself from rogue AI agents. But a lack of safety guardrails makes those models potentially dangerous too.",
-   "url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "url": "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "ts": "2026-08-25T13:30:00Z",
    "tags": [
     "HACK"
