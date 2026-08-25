@@ -1,9 +1,49 @@
 {
- "updated": "2026-08-25T04:59:31.821373Z",
- "newest": "2026-08-25T04:34:43Z",
+ "updated": "2026-08-25T05:37:19.119291Z",
+ "newest": "2026-08-25T05:25:11Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+   "s": "",
+   "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+   "ts": "2026-08-25T05:25:11Z",
+   "tags": [
+    "BTC",
+    "SOLANA"
+   ],
+   "srcs": [
+    "CoinDesk"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Iran war disrupts nearly half of global oil flows as Strait of Hormuz traffic collapses",
+   "s": "The disruption in oil flows exacerbates global inflation, challenges central banks, and shifts energy market dynamics, impacting economies worldwide.",
+   "url": "https://cryptobriefing.com/iran-war-disrupts-global-oil-flows/",
+   "ts": "2026-08-25T05:16:51Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Ledger patched an Ethereum app bug that could show one transaction and sign another",
+   "s": "Version 1.22.2 adds two signing-state safeguards, but public physical validation of the alleged substitution path is limited to Flex.",
+   "url": "https://cryptoslate.com/ledger-patched-an-ethereum-app-bug-that-could-show-one-transaction-and-sign-another/",
+   "ts": "2026-08-25T05:00:33Z",
+   "tags": [
+    "ETH"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
   {
    "h": "Cosmos Labs Confirms Cosmos EVM Incident as 3 Chains Disclose Impact",
    "s": "Cosmos Labs confirmed an ongoing security incident affecting users of the Cosmos EVM module. It advised chains in contact with it to ask validators to halt block production. Three networks have now disclosed impact.",
@@ -503,17 +543,6 @@
    "alt": []
   },
   {
-   "h": "Hugging Face’s revenue jumps 50% to over $150M in just two months",
-   "s": "Hugging Face's rapid revenue growth underscores the escalating enterprise reliance on AI infrastructure, despite inherent security challenges.",
-   "url": "https://cryptobriefing.com/hugging-face-revenue-jumps-150-million/",
-   "ts": "2026-08-25T01:33:00Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Webull Sees Bitcoin, ETH Buy Orders Jump Nearly 300% After Rule Repeal",
    "s": "Webull CEO Anthony Denier says Bitcoin and ETH buy orders jumped nearly 300% after a US day-trading rule repeal.",
    "url": "https://beincrypto.com/webull-bitcoin-eth-orders-surge/",
@@ -630,19 +659,6 @@
    "alt": []
   },
   {
-   "h": "Bitcoin Books Best Week Since 2023 and Its Largest Dollar Gain Ever",
-   "s": "Bitcoin booked its best week since 2023 and a record dollar gain. See the levels that decide the next move.",
-   "url": "https://beincrypto.com/bitcoin-best-week-since-2023-record/",
-   "ts": "2026-08-24T22:09:19Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
    "h": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
    "s": "A judge stayed the CFTC’s civil case against a soldier who allegedly used nonpublic information for a Polymarket bet, but the regulator is trying to weigh in on the criminal case.",
    "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -742,12 +758,20 @@
    "ts": "2026-08-24T19:58:34Z",
    "tags": [
     "BTC",
+    "LIQUIDATION",
     "ONCHAIN"
    ],
    "srcs": [
-    "Cointelegraph"
+    "Cointelegraph",
+    "BeInCrypto"
    ],
-   "alt": []
+   "alt": [
+    [
+     "BeInCrypto",
+     "Why Is The Crypto Market Up Today?",
+     "https://beincrypto.com/why-is-the-crypto-market-up-today/"
+    ]
+   ]
   },
   {
    "h": "UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament",
@@ -969,23 +993,6 @@
    "ts": "2026-08-24T17:05:57Z",
    "tags": [
     "ETH"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Saylor sat out Bitcoin’s 20% rally while Tom Lee bought Ethereum after a 30% surge",
-   "s": "Bitcoin and Ethereum surged last week as falling Treasury yields, renewed US crypto optimism, and a wave of short liquidations sent digital assets sharply higher. Bitcoin climbed more than 20% and approached $80,000, while Ethereum gained about 30% in its strongest weekly advance since May 2025.",
-   "url": "https://cryptoslate.com/saylor-sat-out-bitcoins-20-rally-while-tom-lee-bought-ethereum-after-a-30-surge/",
-   "ts": "2026-08-24T17:00:28Z",
-   "tags": [
-    "BTC",
-    "ETF",
-    "ETH",
-    "FLOWS",
-    "LIQUIDATION"
    ],
    "srcs": [
     "CryptoSlate"
@@ -1707,17 +1714,6 @@
    ],
    "srcs": [
     "Cointelegraph"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-   "s": "",
-   "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
-   "ts": "2026-08-23T15:00:00Z",
-   "tags": [],
-   "srcs": [
-    "CoinDesk"
    ],
    "alt": []
   },
