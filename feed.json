@@ -1,9 +1,93 @@
 {
- "updated": "2026-08-25T16:52:41.397939Z",
- "newest": "2026-08-25T16:50:49Z",
+ "updated": "2026-08-25T17:21:22.831672Z",
+ "newest": "2026-08-25T17:18:20Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "US government prepares for $69B 2-year Treasury auction at 4% yield",
+   "s": "Higher yields in Treasury auctions could increase borrowing costs, impacting consumer loans and corporate financing, and signaling investor caution.",
+   "url": "https://cryptobriefing.com/us-treasury-69b-2-year-auction/",
+   "ts": "2026-08-25T17:18:20Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "OpenAI’s custom Jalapeño chip matches Nvidia Blackwell with 50% cost advantage, Broadcom CEO claims",
+   "s": "OpenAI's Jalapeo chip could disrupt the AI hardware market, intensifying competition and reducing reliance on Nvidia's GPUs.",
+   "url": "https://cryptobriefing.com/openai-jalapeno-chip-outperforms-nvidia/",
+   "ts": "2026-08-25T17:15:10Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Open ATLAS announces initial partners including GTE and Bullish for AI-powered trading tools",
+   "s": "Open ATLAS's collaboration with key partners could revolutionize trading by enhancing liquidity, transparency, and AI-driven market strategies.",
+   "url": "https://cryptobriefing.com/open-atlas-partners-gte-bullish-layerzero/",
+   "ts": "2026-08-25T17:09:36Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "US faces strategic obstacles in Iran conflict amid Hormuz tensions: Reuters",
+   "s": "US-Iran tensions may hinder diplomatic progress, affecting future negotiations and reducing chances of a comprehensive agreement soon.",
+   "url": "https://cryptobriefing.com/us-faces-strategic-obstacles-in-iran-conflict-amid-hormuz-tensions-reuters/",
+   "ts": "2026-08-25T17:06:50Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "RockawayX targets $150M for new hedge fund as crypto VC expands liquid strategies",
+   "s": "RockawayX's hedge fund expansion into liquid strategies may attract more institutional investors, diversifying its asset management portfolio.",
+   "url": "https://cryptobriefing.com/rockaway-x-150m-hedge-fund/",
+   "ts": "2026-08-25T17:01:47Z",
+   "tags": [
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Kalshi’s Bitcoin traders brace for $67,000 amid leverage shock",
+   "s": "Kalshi's Bitcoin perps highlight growing demand for regulated leverage products, challenging traditional venues and reshaping US crypto trading.",
+   "url": "https://cryptobriefing.com/kalshi-bitcoin-traders-67000-leverage/",
+   "ts": "2026-08-25T17:00:55Z",
+   "tags": [
+    "BTC",
+    "PERPS"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "United States sanctions nearly 60 Iran-linked entities and vessels under Operation Economic Outcast",
+   "s": "The expanded sanctions highlight the US's intensified strategy to curb Iran's economic resilience, impacting global compliance and crypto sectors.",
+   "url": "https://cryptobriefing.com/us-sanctions-iran-operation-economic-outcast/",
+   "ts": "2026-08-25T16:52:13Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "Iran and Oman in talks to jointly manage Strait of Hormuz navigation",
    "s": "Joint management of the Strait of Hormuz by Iran and Oman could stabilize global energy markets, reducing geopolitical tensions and supply disruptions.",
@@ -16,7 +100,7 @@
    "alt": []
   },
   {
-   "h": "US military transport plane lands in Moscow as Kremlin claims ignorance",
+   "h": "US military transport plane lands in Moscow as Kremlin says it has no information",
    "s": "This unexpected military flight hints at potential undisclosed diplomatic engagements, possibly signaling a shift in US-Russia relations.",
    "url": "https://cryptobriefing.com/us-military-plane-lands-moscow/",
    "ts": "2026-08-25T16:50:49Z",
@@ -35,9 +119,16 @@
     "BTC"
    ],
    "srcs": [
-    "Cointelegraph"
+    "Cointelegraph",
+    "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Strategy’s $66B Bitcoin machine relies on capital markets, report shows",
+     "https://cryptobriefing.com/strategy-bitcoin-capital-markets-risk/"
+    ]
+   ]
   },
   {
    "h": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
@@ -49,6 +140,17 @@
    ],
    "srcs": [
     "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "CIA chief Ratcliffe travels to Russia for unexplained meetings",
+   "s": "This covert engagement may signal a shift in US-Russia relations, potentially impacting stalled peace talks and broader geopolitical dynamics.",
+   "url": "https://cryptobriefing.com/cia-director-ratcliffe-russia-visit/",
+   "ts": "2026-08-25T16:45:10Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -88,7 +190,7 @@
    "alt": []
   },
   {
-   "h": "Google TPU volume could triple to 9 million by 2027, challenging NVIDIA’s AI dominance",
+   "h": "Google TPU shipments forecast to reach 8.8 million by 2027",
    "s": "Google's TPU expansion could reshape the AI hardware landscape, intensifying competition and potentially reducing NVIDIA's market dominance.",
    "url": "https://cryptobriefing.com/google-tpu-volume-triple-9m-2027/",
    "ts": "2026-08-25T16:35:47Z",
@@ -113,7 +215,7 @@
    "alt": []
   },
   {
-   "h": "Robinhood rises 7%, Webull climbs amid day trading rule repeal",
+   "h": "Robinhood and Webull rally after day-trading rule repeal boosts crypto orders",
    "s": "The repeal may boost trading activity but raises concerns about increased risk and potential negative outcomes for retail investors.",
    "url": "https://cryptobriefing.com/robinhood-webull-day-trading-rule-repeal/",
    "ts": "2026-08-25T16:28:06Z",
@@ -140,7 +242,7 @@
    "alt": []
   },
   {
-   "h": "Ukraine’s Black Sea port blockade threatens next year’s planting season",
+   "h": "Ukraine grain exports collapse as Black Sea blockade threatens next year’s planting",
    "s": "The blockade's ripple effects threaten Ukraine's agricultural economy, global food security, and future harvests, exacerbating supply issues.",
    "url": "https://cryptobriefing.com/ukraine-black-sea-blockade-planting-season/",
    "ts": "2026-08-25T16:24:41Z",
@@ -338,17 +440,6 @@
    "alt": []
   },
   {
-   "h": "Manchester United signs Carlos Baleba from Brighton for £70M",
-   "s": "Manchester United's acquisition of Baleba underscores their strategic midfield investment, potentially reshaping their competitive dynamics.",
-   "url": "https://cryptobriefing.com/manchester-united-signs-carlos-baleba-brighton-2/",
-   "ts": "2026-08-25T16:01:55Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "The Human Rights Foundation Announces Support for 16 Projects Worldwide",
    "s": "Bitcoin Magazine The Human Rights Foundation Announces Support for 16 Projects Worldwide The Human Rights Foundation has announced 500 million satoshis in new grants through its Bitcoin Development Fund.",
    "url": "https://bitcoinmagazine.com/news/human-rights-foundation-issues-more-grants",
@@ -373,17 +464,6 @@
    "alt": []
   },
   {
-   "h": "Polymarket traders put 74% odds on Anthropic releasing its next Mythos model by Sept. 9",
-   "s": "The high odds reflect confidence in Anthropic's rapid AI advancements, potentially intensifying competition and innovation in the AI sector.",
-   "url": "https://cryptobriefing.com/polymarket-anthropic-mythos-model-september-odds/",
-   "ts": "2026-08-25T15:58:33Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
    "s": "DGAI nearly doubled in its first day of trading as DGrid expands its distributed AI inference network and rolls out hardware for its personal AI agent.",
    "url": "https://cointelegraph.com/news/dgrid-ai-token-jumps-96-after-launch-as-decentralized-ai-network-goes-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -402,39 +482,6 @@
    ]
   },
   {
-   "h": "US-Canada trade talks collapse after Lutnick’s last-minute demands upend deal framework",
-   "s": "The collapse of US-Canada trade talks highlights instability in North American trade relations, risking economic disruption and strained alliances.",
-   "url": "https://cryptobriefing.com/us-canada-trade-talks-collapse-lutnick/",
-   "ts": "2026-08-25T15:51:51Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Mongolia positions itself as Asia’s emerging data center hub with $2 billion investment push",
-   "s": "Mongolia's data center ambitions could diversify its economy, leveraging natural advantages and strategic investments to attract global tech players.",
-   "url": "https://cryptobriefing.com/mongolia-data-center-hub-cop17/",
-   "ts": "2026-08-25T15:49:58Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Aptiv accelerates physical AI production with Nvidia Jetson Orin Nano 2 support",
-   "s": "Aptiv's enhanced AI collaboration with Nvidia could drive significant advancements in robotics and automotive sectors, impacting industry standards.",
-   "url": "https://cryptobriefing.com/aptiv-nvidia-jetson-orin-nano-2-physical-ai/",
-   "ts": "2026-08-25T15:48:17Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Is Altseason Starting? 2 Charts Give Opposite Answers",
    "s": "ETH/BTC hits a 7-month high while Bitcoin dominance clears 60%. See which signal decides altcoin season 2026.",
    "url": "https://beincrypto.com/eth-btc-high-bitcoin-dominance-altseason/",
@@ -445,63 +492,6 @@
    ],
    "srcs": [
     "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin holders increasingly embed cryptocurrency into financial system",
-   "s": "Bitcoin's integration into traditional finance enhances regulatory trust but may reduce blockchain's decentralized transaction capacity.",
-   "url": "https://cryptobriefing.com/bitcoin-holders-embed-crypto-financial-system/",
-   "ts": "2026-08-25T15:46:39Z",
-   "tags": [
-    "BTC",
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Solana perpetual futures platforms surpass $1 trillion in cumulative volume",
-   "s": "Solana's rise in onchain derivatives highlights a shift towards decentralized finance, enhancing network value and challenging centralized exchanges.",
-   "url": "https://cryptobriefing.com/solana-perpetual-futures-trillion-volume/",
-   "ts": "2026-08-25T15:45:42Z",
-   "tags": [
-    "ONCHAIN",
-    "PERPS",
-    "SOLANA"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "CIA chief makes surprise Moscow visit for talks on Ukraine, Iran, Russia",
-   "s": "The visit underscores the complexity of U.S.-Russia relations, potentially affecting geopolitical stability and market confidence in conflict resolution.",
-   "url": "https://cryptobriefing.com/cia-chief-makes-surprise-moscow-visit-for-talks-on-ukraine-iran-russia/",
-   "ts": "2026-08-25T15:42:40Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "CIA Director John Ratcliffe travels to Russia in unannounced Moscow visit",
-     "https://cryptobriefing.com/cia-director-ratcliffe-russia-visit/"
-    ]
-   ]
-  },
-  {
-   "h": "Capital.com reports surge in UAE trading activity following Trump announcements",
-   "s": "The intertwining of political news and financial markets highlights the growing influence of geopolitical events on trading behaviors.",
-   "url": "https://cryptobriefing.com/capital-com-uae-trading-surge-trump-announcements/",
-   "ts": "2026-08-25T15:42:11Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -846,9 +836,15 @@
     "CoinDesk",
     "The Block",
     "Cointelegraph",
-    "Decrypt"
+    "Decrypt",
+    "CryptoBriefing"
    ],
    "alt": [
+    [
+     "CryptoBriefing",
+     "Bitwise launches automated portfolios of tokenized stocks on Base network",
+     "https://cryptobriefing.com/bitwise-automated-tokenized-stock-portfolios/"
+    ],
     [
      "Cointelegraph",
      "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
@@ -2062,22 +2058,6 @@
    ],
    "srcs": [
     "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "The Sandbox Says It Contained Bridge Exploit That Minted Unbacked SAND on Base and BSC",
-   "s": "Upbit and Bithumb froze SAND transfers under South Korea's user-protection law, with Upbit halting deposits and withdrawals on Ethereum — the chain the studio says was not affected.",
-   "url": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc",
-   "ts": "2026-08-22T17:08:34Z",
-   "tags": [
-    "ETH",
-    "HACK",
-    "LISTING",
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "The Defiant"
    ],
    "alt": []
   }
