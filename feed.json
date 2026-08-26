@@ -1,9 +1,59 @@
 {
- "updated": "2026-08-26T08:59:38.143050Z",
- "newest": "2026-08-26T08:51:18Z",
+ "updated": "2026-08-26T09:49:54.258961Z",
+ "newest": "2026-08-26T09:33:10Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Kremlin confirms Putin informed of CIA chief’s Moscow visit",
+   "s": "The CIA chief's Moscow visit may signal a thaw in U.S.-Russia relations, potentially influencing future diplomatic and market dynamics.",
+   "url": "https://cryptobriefing.com/kremlin-confirms-putin-informed-of-cia-chiefs-moscow-visit/",
+   "ts": "2026-08-26T09:33:10Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitcoin traders hedged $60k and loaded up above $78k leaving the low $70k exposed",
+   "s": "Bitcoin's end-of-September options expiry holds 130,670 BTC of open interest, compared with 79,003 BTC for August, a headline gap large enough to look like traders are loading up before the Federal Reserve's Sept. 16 decision.",
+   "url": "https://cryptoslate.com/bitcoin-traders-hedged-60k-and-loaded-up-above-78k-leaving-the-low-70k-exposed/",
+   "ts": "2026-08-26T09:30:49Z",
+   "tags": [
+    "BTC",
+    "LIQUIDATION",
+    "MACRO"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal",
+   "s": "Revolut began rolling out EURR, its first euro-pegged stablecoin, to customers in Denmark, Poland, and Portugal.",
+   "url": "https://www.theblock.co/news/business/2026-08-26-revolut-begins-phased-eurr-stablecoin-rollout-in-denmark-poland-and-portugal-412772",
+   "ts": "2026-08-26T09:12:54Z",
+   "tags": [
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "The Block"
+   ],
+   "alt": []
+  },
+  {
+   "h": "US diesel prices surge 47% amid Iran war, boosting oil company profits",
+   "s": "Rising diesel costs strain consumers and transport sectors, while boosting oil profits, potentially driving crude prices to new highs.",
+   "url": "https://cryptobriefing.com/us-diesel-prices-surge-47-amid-iran-war-boosting-oil-company-profits/",
+   "ts": "2026-08-26T09:06:56Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
    "s": "",
@@ -106,7 +156,13 @@
    "srcs": [
     "CryptoBriefing"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Fed Chair Warsh under pressure as interest rate hike debated",
+     "https://cryptobriefing.com/fed-chair-warsh-under-pressure-as-interest-rate-hike-debated/"
+    ]
+   ]
   },
   {
    "h": "A zero-balance bug let empty wallets seize control of 82 Provenance assets",
@@ -676,42 +732,6 @@
    "alt": []
   },
   {
-   "h": "Blockchain Association calls for joint SEC and CFTC framework to bring equity perps onshore",
-   "s": "A coordinated regulatory framework for equity perpetuals could enhance US market competitiveness and investor protection by reducing offshore trading.",
-   "url": "https://cryptobriefing.com/blockchain-association-sec-cftc-equity-perpetuals/",
-   "ts": "2026-08-26T03:19:59Z",
-   "tags": [
-    "PERPS",
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Brent crude falls over 2% to $86.41 as Strait of Hormuz supply hopes grow",
-   "s": "The potential easing of Strait of Hormuz tensions could stabilize global oil markets, reducing energy costs and geopolitical risks.",
-   "url": "https://cryptobriefing.com/brent-crude-falls-strait-of-hormuz-supply-hopes/",
-   "ts": "2026-08-26T03:10:26Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "China orders massive recall of Tesla and other vehicles over safety concerns",
-   "s": "China's recall highlights the tension between sleek automotive design and safety, pushing manufacturers to rethink emergency accessibility.",
-   "url": "https://cryptobriefing.com/china-recalls-tesla-vehicles-safety/",
-   "ts": "2026-08-26T03:05:57Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Soluna’s 1 billion-share proposal exposes the funding challenge behind its AI and Bitcoin expansion",
    "s": "The Oct. 16 votes would add 625 million authorized shares and permit sales above Nasdaq's 20% cap without issuing stock by themselves.",
    "url": "https://cryptoslate.com/solunas-1-billion-share-proposal-exposes-the-funding-challenge-behind-its-ai-and-bitcoin-expansion/",
@@ -847,11 +867,16 @@
     "REGULATION"
    ],
    "srcs": [
-    "The Block",
     "CoinDesk",
+    "The Block",
     "Cointelegraph"
    ],
    "alt": [
+    [
+     "CoinDesk",
+     "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+     "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds"
+    ],
     [
      "The Block",
      "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei",
@@ -920,17 +945,6 @@
    "tags": [],
    "srcs": [
     "Decrypt"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Traders start losing control of open positions as BitMEX begins its staged shutdown",
-   "s": "New positions stop at 04:00 UTC, while the exchange gains discretion to close existing trades before Sept. 23.",
-   "url": "https://cryptoslate.com/bitmex-closure-traders-position-control-after-aug-26-cutoff/",
-   "ts": "2026-08-25T20:45:14Z",
-   "tags": [],
-   "srcs": [
-    "CryptoSlate"
    ],
    "alt": []
   },
@@ -1699,19 +1713,6 @@
    "alt": []
   },
   {
-   "h": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-   "s": "",
-   "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
-   "ts": "2026-08-25T07:01:49Z",
-   "tags": [
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says",
    "s": "Analysts say it's still too early to tell if this will translate into a bull market, given sticky inflation and geopolitical uncertainty.",
    "url": "https://www.theblock.co/news/markets/2026-08-25-bitcoin-holds-above-80000-412674",
@@ -2177,17 +2178,6 @@
    ],
    "srcs": [
     "FOREX.com"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Stand With Crypto ramps up midterm push with 32 House endorsements",
-   "s": "Stand With Crypto is backing more than 30 House candidates as it looks to flex its political influence once more in the upcoming elections.",
-   "url": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
-   "ts": "2026-08-24T15:57:45Z",
-   "tags": [],
-   "srcs": [
-    "The Block"
    ],
    "alt": []
   },
