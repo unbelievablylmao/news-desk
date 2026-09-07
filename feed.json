@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-06T22:15:29.160655Z",
- "newest": "2026-09-06T22:15:25Z",
- "sources_ok": 20,
+ "updated": "2026-09-07T00:02:13.206232Z",
+ "newest": "2026-09-07T00:02:08Z",
+ "sources_ok": 21,
  "sources_total": 21,
  "items": [
   {
    "h": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
    "s": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-   "ts": "2026-09-06T22:15:25Z",
+   "ts": "2026-09-07T00:02:08Z",
    "tags": [
     "ONCHAIN",
     "STABLECOIN"
@@ -22,13 +22,86 @@
    "h": "SEC Crypto Custody Rewrite Enters White House Review",
    "s": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
    "url": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-   "ts": "2026-09-06T22:15:25Z",
+   "ts": "2026-09-07T00:02:08Z",
    "tags": [
     "INSTITUTIONAL",
     "REGULATION"
    ],
    "srcs": [
     "The Defiant"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Seattle Times, Newsday sue OpenAI, Microsoft over AI copyright infringement",
+   "s": "The lawsuit highlights growing legal scrutiny on AI firms, potentially affecting OpenAI's market valuation and prompting industry-wide changes.",
+   "url": "https://cryptobriefing.com/seattle-times-newsday-sue-openai-microsoft-over-ai-copyright-infringement/",
+   "ts": "2026-09-06T23:39:21Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "China’s export model nears breaking point, warns Michael Froman",
+   "s": "China's export model strain could destabilize global markets, impacting sectors reliant on Chinese goods amid sluggish global growth.",
+   "url": "https://cryptobriefing.com/china-export-model-breaking-point-froman/",
+   "ts": "2026-09-06T23:26:46Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "China shifts maritime pressure east of Taiwan, intensifying Pacific coast operations",
+   "s": "China's strategic maritime shift east of Taiwan heightens regional tensions, potentially impacting global trade and security dynamics.",
+   "url": "https://cryptobriefing.com/china-shifts-maritime-pressure-east-of-taiwan-intensifying-pacific-coast/",
+   "ts": "2026-09-06T23:22:58Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Liquid Sidechain Paused After 3,998 BTC Leaves Federation Wallet",
+   "s": "Blockstream's Liquid disabled its bridge nodes on Sunday after almost the entire bitcoin reserve backing L-BTC was withdrawn to a single address, whose owner wrote “we are whitehats” into a bitcoin transaction.",
+   "url": "https://thedefiant.io/news/security/liquid-sidechain-paused-after-3998-btc-leaves-federation-wallet",
+   "ts": "2026-09-06T23:15:09Z",
+   "tags": [
+    "BTC",
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "The Defiant"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Nvidia forecasts year-ahead revenue, aims to surpass Apple and Alphabet",
+   "s": "Nvidia's ambitious revenue forecast highlights a transformative shift in tech industry dynamics, emphasizing AI's growing economic influence.",
+   "url": "https://cryptobriefing.com/nvidia-year-ahead-revenue-forecast-apple-alphabet/",
+   "ts": "2026-09-06T22:47:04Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Meta’s $17.1 billion settlement marks a new chapter in social media regulation",
+   "s": "This settlement sets a precedent for stricter social media regulations, potentially reshaping industry standards and youth protection policies.",
+   "url": "https://cryptobriefing.com/meta-settlement-youth-safety-big-tech/",
+   "ts": "2026-09-06T22:23:59Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -88,6 +161,19 @@
    ],
    "srcs": [
     "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Top 3 Meme Coins to Watch in the Second Week of September",
+   "s": "BONK holds its breakout while USELESS and MARSCOIN reject resistance. See the meme coins to watch this September week.",
+   "url": "https://beincrypto.com/meme-coins-watch-second-week-september/",
+   "ts": "2026-09-06T22:00:00Z",
+   "tags": [
+    "MEMECOIN"
+   ],
+   "srcs": [
+    "BeInCrypto"
    ],
    "alt": []
   },
@@ -230,14 +316,21 @@
    "ts": "2026-09-06T20:06:33Z",
    "tags": [
     "BTC",
-    "ONCHAIN"
+    "ONCHAIN",
+    "STABLECOIN"
    ],
    "srcs": [
     "The Block",
+    "Bitcoin Magazine",
     "BeInCrypto",
     "CryptoBriefing"
    ],
    "alt": [
+    [
+     "Bitcoin Magazine",
+     "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves",
+     "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves"
+    ],
     [
      "BeInCrypto",
      "Attackers Leave On-chain Message After $320 Million Exits Liquid Network",
@@ -383,53 +476,6 @@
    ]
   },
   {
-   "h": "Arab, Muslim countries: Palestinian state essential for peace with Israel",
-   "s": "Regional diplomatic efforts may increase international recognition of Palestine, potentially altering geopolitical dynamics and pressuring Israel.",
-   "url": "https://cryptobriefing.com/arab-muslim-countries-palestinian-state-essential-for-peace-with-israel/",
-   "ts": "2026-09-06T18:56:22Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Gabriel’s boot meets Martinez’s face, and somehow nobody reaches for a card",
-   "s": "The incident underscores ongoing debates about VAR's role in player safety, potentially prompting future reviews of its criteria and application.",
-   "url": "https://cryptobriefing.com/gabriel-kicks-martinez-face-no-card/",
-   "ts": "2026-09-06T18:54:27Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "US forces disable three Iranian-linked tankers after IRGC missile attacks on Navy warships",
-   "s": "The US's disabling of Iranian-linked tankers underscores escalating tensions, potentially disrupting global oil markets and regional stability.",
-   "url": "https://cryptobriefing.com/us-forces-disable-three-iranian-tankers-irgc-attack/",
-   "ts": "2026-09-06T18:43:13Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Injective to enable native privacy features in upcoming updates",
-   "s": "Injective's privacy initiative could redefine blockchain's role in institutional finance, balancing confidentiality with regulatory compliance.",
-   "url": "https://cryptobriefing.com/injective-native-privacy-features-update/",
-   "ts": "2026-09-06T18:37:35Z",
-   "tags": [
-    "INSTITUTIONAL",
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Prediction markets inch closer to the Supreme Court: State of Crypto",
    "s": "",
    "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
@@ -439,17 +485,6 @@
    ],
    "srcs": [
     "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
-   "h": "OpenAI AI agents surpass human researchers in productivity milestone",
-   "s": "AI's growing role in research could reshape industry dynamics, influencing competitive strategies and market leadership in AI development.",
-   "url": "https://cryptobriefing.com/openai-ai-agents-surpass-human-researchers-in-productivity-milestone/",
-   "ts": "2026-09-06T18:25:55Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -486,7 +521,7 @@
     "MACRO"
    ],
    "srcs": [
-    "noradarealestate.com"
+    "Norada Real Estate Investments"
    ],
    "alt": []
   },
@@ -811,19 +846,6 @@
    "alt": []
   },
   {
-   "h": "Poland's Crypto Law Fails a Third Time, Leaving the Only Gap in Europe",
-   "s": "Poland remains the only EU member state without a functioning national framework for MiCA, after the Sejm again failed to override President Karol Nawrocki’s veto of crypto regulation. Friday’s vote, the third such attempt, fell 25 votes short of the three-fifths majority required to reverse his decision.",
-   "url": "https://beincrypto.com/poland-crypto-regulation-failure/",
-   "ts": "2026-09-06T11:04:39Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
    "h": "Inside the 15-minute trading pulse that moves $14 billion in Bitcoin perpetual futures",
    "s": "At 14:59:59 UTC, Bitcoin perpetual futures look like any other electronic market, with prices flickering and orders flowing from traders around the world.",
    "url": "https://cryptoslate.com/the-invisible-opening-bell-inside-cryptos-endless-trading-day/",
@@ -847,7 +869,7 @@
     "MACRO"
    ],
    "srcs": [
-    "investopedia.com"
+    "Investopedia"
    ],
    "alt": []
   },
@@ -928,6 +950,19 @@
    ],
    "srcs": [
     "The Block"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+   "ts": "2026-09-05T18:53:40Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "Breaking News, Latest News and Videos"
    ],
    "alt": []
   },
@@ -1072,7 +1107,7 @@
   {
    "h": "Why Is Ethereum Still Below $3000? While Bitcoin Price Hits $82,000—Here’s What You Need to Know",
    "s": "",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObGFualpKeXFPTmo4VTNIWWItWWNYRlU3VkJoQ1NOSWYxZkd1NjdrSDZ0OGJBMTg5bWw1YWZNdzdpRW53aC1yTk02MXhxdGZMUzRFLXdMenVnV243WEhRaDZfUTBpVll1WDhxRDZ0U2o3YkFuZXRKdHlZR1JnanEyM01OOF9aYmFNX05qbkd1c3RJYTZjNndLcExKak1mcFRlRkxXOWRkLUdKMGZBTHlvUUk2Mm40Qm1CbVRIa0hQMjNJTnRxY3ZjRUREUnZaZjBNUHBYOGR5U2ltQlJYQWdfMFlOQVJHU0U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT0l5SG54RVlnQUlHMlNwN0xjUUd2ZTlZQS1jLXBFWjg5SDZpcjBjUTBPX2FRbm9pM2hEeU1ra05BTHBfQ0FoaEJZaW0wbjZXWEZxRWFyY0duSzQyOXJXQnJIeFNkc0VMWF95TkJzUW0xWGhzT3pxcnNIZkdSbkk2SlU4YnVyZEw2dWE5SkVMUjhJaUd4bXp2eWJpQWhPQ0FIb2ltOXhDUUI3dW5EZFZDUUVyUmROb0JUcTA3ZldmUnlZQzNDMUxSa2x6amxaTkx4T3B6YjlYSVN3a2pjbkUwVXRLU2tsRFU?oc=5",
    "ts": "2026-09-05T11:36:42Z",
    "tags": [
     "BTC",
@@ -1107,7 +1142,7 @@
     "ETH"
    ],
    "srcs": [
-    "incrypted"
+    "incrypted.com"
    ],
    "alt": []
   },
@@ -1122,7 +1157,7 @@
     "FLOWS"
    ],
    "srcs": [
-    "Cryptonews.net",
+    "cryptonews.net",
     "Cointelegraph"
    ],
    "alt": []
@@ -1185,7 +1220,7 @@
     "MACRO"
    ],
    "srcs": [
-    "global.chinadaily.com.cn"
+    "China Daily Global Edition"
    ],
    "alt": []
   },
@@ -1410,8 +1445,8 @@
     "MACRO"
    ],
    "srcs": [
-    "Bloomberg.com",
-    "IndexBox"
+    "IndexBox",
+    "Bloomberg.com"
    ],
    "alt": [
     [
@@ -1500,6 +1535,19 @@
    "alt": []
   },
   {
+   "h": "Trump Issues Stark Threat To Federal Reserve: \"Lower The Rate Or I'll Stop Trading With Countries With Which We Have A Deficit\"",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWhQdXpvel9OX2M5enV0ekVVamwweGZvUGVMTVhwczl1Rm54eXRBWWVPd0hkTVk5aHhneXdUZjYtMms5elJHUE5BS0JFUUxWVWg1R1BURGRpXzZKcjl4bEFkNmk2VFNRZzMxOEFuaEZRODlzSExicWM2NEdaSDc1NENHNm9BZ2hIY3EyLXJINFVIcW50Yl9YdDFCQ0tCbXFUcWlSOU9CY1hoenNjN2ZISjBxYUdOdFdfZUxzSjV4SjBXVkNNdkE4SFg4OWxFZ0lETk01OVl1YzVicm15TFNHcmdpeDlRbHVwaldfTnViblo5NlJyVWxVVkRKcw?oc=5",
+   "ts": "2026-09-04T14:27:00Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "24/7 Wall St."
+   ],
+   "alt": []
+  },
+  {
    "h": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
    "s": "",
    "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
@@ -1544,17 +1592,6 @@
    "alt": []
   },
   {
-   "h": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
-   "s": "",
-   "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
-   "ts": "2026-09-04T12:31:47Z",
-   "tags": [],
-   "srcs": [
-    "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
    "h": "Morning Minute: Crypto Stages Major Rally on Rate Hopes",
    "s": "Bitcoin soared past $81k, HYPE and ZEC hit smashing new ATHs and the onchain rally leveled up. Is this the first stage of the next leg up?",
    "url": "https://decrypt.co/377393/morning-minute-crypto-stages-major-rally-on-rate-hopes",
@@ -1565,6 +1602,40 @@
    ],
    "srcs": [
     "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
+   "s": "",
+   "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
+   "ts": "2026-09-04T12:31:01Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "CoinDesk",
+    "CNBC"
+   ],
+   "alt": [
+    [
+     "CNBC",
+     "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWWEzcDI3bDlYbmQwMXd3dXdEWFRfeFl1RnpKamFQcXk4cFZpeHk3b29CSENaam5iaWFUb3podkRBY1MySFVPdWhiR2tqMVNtODFOUXptNjVTR2xyaG4xUml3TDdyX0NmWWI5Y9IBckFVX3lxTFBEV2xVamRtYmZwNllaVV92YW5DSlBUbDhJSkJKX1ZKZFlPMXpFOHByaWhNeUs0Q2U4WWM5OVBLMTFMaTdPSGZBeTVESmZkOUh4aFdQWmZNNGpETFh0bVY2dFFsN2oxRnE3dXFVeHhwNnhXUQ?oc=5"
+    ]
+   ]
+  },
+  {
+   "h": "The Week Ahead: ECB rate decision, US CPI, Oracle earnings",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU24xVlRqSng5YlRheG5aNHg3MkVWbkZpekMwMGw0aVVPbXVIZTRXZU1sU0UwMlVvdzlZaUY5M2xWTDdnd0FUSWE0a0JRWldOalVUZ2p1RXZEWXNYNi1pQ2Z6dTUwV1BjeXRyZWQwUm9VUUxrdXRvUk5CZk90a2Fob1lWaTBpOTdwdzdkSDVfamtXNzcwaWJNMkVxYTZ2d3BlQ1Q5VWVval83UQ?oc=5",
+   "ts": "2026-09-04T12:02:27Z",
+   "tags": [
+    "EQUITIES",
+    "MACRO"
+   ],
+   "srcs": [
+    "CMC Markets"
    ],
    "alt": []
   },
@@ -1679,21 +1750,6 @@
    "alt": []
   },
   {
-   "h": "Crypto Today: Bitcoin, Ethereum, XRP recovery takes a breather amid capital inflows",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOczkwNEFSLXUyRTFvZEZ4b1VZUWRKZmN6SFNlQWhTcTFQdl9QRXdJRmhXQzllMU1iLUNVcThBeGhCZWd6T29KRGxHY1ZqandMTHgwcUw1YlVsTDE2QWpybXBMbjhmakhCSjRCM19SLXUxZEtZZk44d1ZfMGFoQmdzaWRpeFAzYzJoZzFydUFaV1JBNS1uTGNnUnpBbzU0bExUb2Z2S3J3TGxHT3JKbHhQTzR1NGtUWTlnb2NaU182WVh1cHVYTFQtNXBaVm9VTDJkYVYzemRuaG5JekxpamJR?oc=5",
-   "ts": "2026-09-04T10:31:33Z",
-   "tags": [
-    "BTC",
-    "ETH",
-    "FLOWS"
-   ],
-   "srcs": [
-    "tmgm.com"
-   ],
-   "alt": []
-  },
-  {
    "h": "FinCEN ties $13B in crypto scams to non-US operations",
    "s": "The agency reported that “transnational criminal organizations” based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
    "url": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1750,7 +1806,7 @@
     "ETH"
    ],
    "srcs": [
-    "FXStreet"
+    "fxstreet.com"
    ],
    "alt": []
   },
@@ -1821,9 +1877,20 @@
     "The Block",
     "Cointelegraph",
     "Decrypt",
-    "The Defiant"
+    "The Defiant",
+    "Bankless"
    ],
    "alt": [
+    [
+     "Bankless",
+     "🏴 Stock Tokens Drama",
+     "https://www.bankless.com/read/stock-tokens-drama"
+    ],
+    [
+     "Bankless",
+     "AMC CEO Blasts Robinhood Stock Tokens as AMC Shares Rally",
+     "https://www.bankless.com/read/amc-ceo-blasts-robinhood-stock-tokens"
+    ],
     [
      "Decrypt",
      "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
@@ -1843,11 +1910,6 @@
      "Cointelegraph",
      "AMC chief criticizes Robinhood’s tokenized stock plan",
      "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    ],
-    [
-     "Decrypt",
-     "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
-     "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile"
     ]
    ]
   },
@@ -2028,68 +2090,15 @@
    "alt": []
   },
   {
-   "h": "Tether sued over $42M in frozen coins, 6,600 students get crypto loans: Asia Express",
-   "s": "Thai businessmen sue Tether over $42M frozen USDT tied to pig butchering scam, Aussie crypto firms face big fines unless they meet licensing deadline.",
-   "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-09-03T23:40:09Z",
+   "h": "Gold slides more than 2% after robust U.S. payrolls boosts rate hike bets",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbllLcFV5Q0hoYk5aWHo1dnZJLUMzSU5yVnhiR0UtSldFTUN4Q3Z0VGg2SVEzd0JINmFndkU2dkxQZWhWRDlRcGZpd3hSUEVpcmRaU2syOTlwbFlfaHRVMFRZazdHWFVSaDZmaUJnXzFuRy1ULTAtZ0NRMUxPdDZ1eU9OZzFUdDZOc0RMMkV30gGTAUFVX3lxTFA2aVc2bHd1dTRxVnpEQVlUNDRCWXZqTnRtYVRNaVFsLTBpdXh4YThqT2czZDhHeUs1d3J3OHdsOVptQnhld3VfVnhPZk5Mdi1IU0dQaW94QTZzMU0tQ0F2Qm43ZXgtYUdlWGZXSFdfdjNQQmFWTldndGFaVjAzNFhrREFfaV9adVJ3b1lubVVNeG5VSQ?oc=5",
+   "ts": "2026-09-04T03:02:00Z",
    "tags": [
-    "HACK",
-    "STABLECOIN"
+    "MACRO"
    ],
    "srcs": [
-    "Cointelegraph"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Uniswap Labs Bought Pons Token for 'Long-Term Alignment'",
-   "s": "Pons said Uniswap Labs purchased its token \"for long-term alignment\" four weeks after Uniswap Labs put a rival launchpad on Robinhood Chain. Neither company disclosed the size of the purchase, the price paid, or the wallet holding it.",
-   "url": "https://thedefiant.io/news/defi/uniswap-labs-bought-pons-token-for-long-term-alignment",
-   "ts": "2026-09-03T23:34:05Z",
-   "tags": [
-    "MEMECOIN",
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Lighter Leads Perp DEX Token Rally",
-   "s": "LIT rose 13% to $4.21 and has doubled in 30 days as traders position for a U.S. perpetuals opening that Lighter has not applied for. Robinhood order flow now supplies 17% of the exchange's daily volume, against 12% on a 30-day basis, while perp DEX volume across the sector fell 30% over seven days.",
-   "url": "https://thedefiant.io/news/defi/lighter-lit-perp-dex-token-rally-robinhood-volume",
-   "ts": "2026-09-03T23:31:43Z",
-   "tags": [
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
-   "s": "Bitcoin Magazine Bitcoin Bear Market May Not Yet Be Over, Says Fidelity Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year.",
-   "url": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
-   "ts": "2026-09-03T22:19:41Z",
-   "tags": [
-    "BTC",
-    "ETF"
-   ],
-   "srcs": [
-    "Bitcoin Magazine"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
-   "s": "Privacy advocates say the law raises First Amendment questions the courts have yet to address.",
-   "url": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
-   "ts": "2026-09-03T22:16:04Z",
-   "tags": [],
-   "srcs": [
-    "Decrypt"
+    "CNBC"
    ],
    "alt": []
   }
