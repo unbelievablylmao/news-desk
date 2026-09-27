@@ -1,9 +1,124 @@
 {
- "updated": "2026-09-27T20:27:42.796968Z",
- "newest": "2026-09-27T20:05:30Z",
+ "updated": "2026-09-27T23:18:19.087370Z",
+ "newest": "2026-09-27T23:16:53Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Alliance for a Better Future invests $1M+ in AI ads for GOP Senate candidates",
+   "s": "The investment in AI ads could reshape voter perceptions of GOP candidates' tech policies, influencing Senate races beyond the targeted states.",
+   "url": "https://cryptobriefing.com/alliance-for-a-better-future-invests-1m-in-ai-ads-for-gop-senate-candidates/",
+   "ts": "2026-09-27T23:16:53Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Core Lightning patches flaw that could let revoked channel state escape penalty",
+   "s": "The flaw was fixed in v26.06.7, but older builds and some early Docker images still call for an upgrade check.",
+   "url": "https://cryptoslate.com/core-lightning-revoked-channel-penalty-flaw/",
+   "ts": "2026-09-27T23:15:38Z",
+   "tags": [],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Aave’s live stock-token loans expose USDC lenders to a weekend price gap",
+   "s": "The Base hub permits up to $21 million in USDC borrowing against seven Coinbase stock tokens while their collateral feeds hold Friday's value through the weekend.",
+   "url": "https://cryptoslate.com/aave-stock-token-loans-expose-usdc-lenders-to-weekend-price-gap/",
+   "ts": "2026-09-27T22:15:14Z",
+   "tags": [
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Block ships 3x more features in 2026 with a smaller team, crediting AI tools",
+   "s": "Block's AI-driven efficiency highlights a shift towards leaner teams and increased productivity, potentially reshaping tech industry norms.",
+   "url": "https://cryptobriefing.com/block-3x-feature-shipments-ai-tools-2026/",
+   "ts": "2026-09-27T22:07:17Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation",
+   "s": "The creators of 10 Pons V2 launches exempted a set of wallets from Pons' anti-sniping tax; those wallets went on to buy most of each token's supply, per onchain data.",
+   "url": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
+   "ts": "2026-09-27T22:02:57Z",
+   "tags": [
+    "MEMECOIN",
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "The Block"
+   ],
+   "alt": []
+  },
+  {
+   "h": "The Advice Elon Musk Refused From His Mother Before Tesla, SpaceX and More",
+   "s": "Maye Musk says she told Elon to focus on one company after PayPal. He ignored her and built SpaceX, Tesla and more.",
+   "url": "https://beincrypto.com/maye-musk-elon-advice-one-company/",
+   "ts": "2026-09-27T22:00:00Z",
+   "tags": [],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "YouTube removes Bitcoin Treasuries channel ahead of conference, cites harmful content",
+   "s": "The removal highlights the tension between content moderation and educational outreach, potentially stifling corporate Bitcoin adoption discourse.",
+   "url": "https://cryptobriefing.com/youtube-removes-bitcoin-treasuries-channel/",
+   "ts": "2026-09-27T21:35:37Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "An $84 million US asset seizure just sparked a massive question for Tether",
+   "s": "Court records identify Capstone-held accounts, while Tether has not disclosed whether its bank balance belongs to USDT reserves.",
+   "url": "https://cryptoslate.com/an-84-million-us-asset-seizure-just-sparked-a-massive-question-for-tether/",
+   "ts": "2026-09-27T21:15:14Z",
+   "tags": [
+    "INSTITUTIONAL",
+    "REGULATION",
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bitfinex reports massive surge in ETH short positions as bearish bets pile up",
+   "s": "The surge in ETH short positions on Bitfinex could lead to heightened market volatility, potentially triggering a significant short squeeze.",
+   "url": "https://cryptobriefing.com/bitfinex-eth-short-positions-surge/",
+   "ts": "2026-09-27T21:05:20Z",
+   "tags": [
+    "ETH",
+    "LIQUIDATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "Solana’s plan for fairer trades stalls as block producers still choose which orders get in",
    "s": "SIMD-0649 would police priority within batches, while leaders would retain control over inclusion and batch boundaries.",
@@ -186,6 +301,7 @@
     "ETF"
    ],
    "srcs": [
+    "CryptoRank",
     "tokenpost.com",
     "CryptoPotato"
    ],
@@ -218,9 +334,16 @@
     "INSTITUTIONAL"
    ],
    "srcs": [
+    "CryptoBriefing",
     "BeInCrypto"
    ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Apollo chief economist warns AI agents could trigger bank runs",
+     "https://cryptobriefing.com/apollo-economist-ai-agents-bank-runs/"
+    ]
+   ]
   },
   {
    "h": "Bitget freezes XRP withdrawals as 27M stolen tokens move",
@@ -442,19 +565,6 @@
    "alt": []
   },
   {
-   "h": "Ethereum is not instant, but collateral could make it feel that way",
-   "s": "When a payment app tells you a transfer is complete, you start making decisions. You hand over whatever you've sold, spend the money you've received, or close the app and get on with your day. That little confirmation you get is enough for you to stop thinking about whether the transaction worked. Crypto companies want",
-   "url": "https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/",
-   "ts": "2026-09-27T13:00:50Z",
-   "tags": [
-    "ETH"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
    "s": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June.",
    "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -468,6 +578,11 @@
     "CryptoBriefing"
    ],
    "alt": [
+    [
+     "CryptoBriefing",
+     "Google, OpenAI, Anthropic to form AI safety standards body",
+     "https://cryptobriefing.com/google-openai-anthropic-to-form-ai-safety-standards-body/"
+    ],
     [
      "CryptoBriefing",
      "OpenAI and Anthropic investigate tens of thousands of AI security incidents",
@@ -566,17 +681,6 @@
    "alt": []
   },
   {
-   "h": "Prediction markets promised better information and hired Hollywood",
-   "s": "Sydney Sweeney is helping sell sports predictions, which is a pretty good indication that prediction markets have moved beyond the people who enjoy arguing about probability on the internet. Novig's Sept. 9 campaign announcement introduced the actress as a partner and equity holder in its sports-focused exchange.",
-   "url": "https://cryptoslate.com/prediction-markets-promised-better-information-and-hired-hollywood/",
-   "ts": "2026-09-27T11:00:50Z",
-   "tags": [],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "Fed’s Barr Says More Rate Hikes Likely Needed to Return Inflation to Target",
    "s": "",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmpaOE4xMEZ3WDYxQlMxQktMckE5bmpGYWp1QUN5aHo4VjVBYkxYQjNwWmc0WEwyVG9CNDZuRVlrWWlHUlZOdjNEdjlaX1dLZ0FBa2dyU2ZiNV9uLXJHMWo2M2VlMmwxM2E3NjRvRDFuOWFyVG1LYUxyRm41SThOUFRQTTZyLThNMlBtaDR3Z3AzYkZkNm4wVXVXcVdwdTRxUzNOV0VJc2VjUXV3Mk1XeHBodDdSWWdqSHZ0TTJldDE?oc=5",
@@ -650,30 +754,6 @@
    "alt": []
   },
   {
-   "h": "GoPlus Security challenges THORChain’s decentralization claims over DPRK-linked funds",
-   "s": "The debate over THORChain's decentralization highlights the tension between protocol control and true permissionless blockchain ideals.",
-   "url": "https://cryptobriefing.com/goplus-thorchain-decentralization-dprk-funds/",
-   "ts": "2026-09-27T09:22:30Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Why your tokenized stock could stop trading for three months",
-   "s": "Buying a tokenized stock sounds as though it should be simple. You pick a company you know, buy a token representing its shares, and hold it in a digital wallet. The appeal is familiar stock investing with some of the convenience of crypto, potentially including trading beyond the hours of a traditional exchange.",
-   "url": "https://cryptoslate.com/why-your-tokenized-stock-could-stop-trading-for-three-months/",
-   "ts": "2026-09-27T09:01:10Z",
-   "tags": [
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "What to Expect in Markets This Week: Latest US Inflation, Jobs Data; Micron, CarMax Report",
    "s": "",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFFrR2lJSXVYME5xcS15M2wzWl9UZUxHSzFSRGc5OXFXSUc0cENNOTUyc0x4NzJhMzJOSzBaMkhFYjh2X2lkNzdtZmNfSHh5Y203SmNhdEt5bnNFUGVNRy1KM0tPbTZFWEdXZElxOVJSbTBMN1FiVG54V2h6eGhWQjAwWlVMRkphRmNxWGRDYmZsYjVtUFp2dG1pM0RZSDBWNFhIX1FKZnZNY1ZIck1NUHhQbjAyb0YyX19OZzgzY1ZaUQ?oc=5",
@@ -712,21 +792,6 @@
    "alt": []
   },
   {
-   "h": "Bitwise’s NEAR ETF clears NYSE Arca and SEC hurdles, launch imminent",
-   "s": "The imminent launch of Bitwise's NEAR ETF could boost investor interest in staking-focused crypto funds, potentially influencing market dynamics.",
-   "url": "https://cryptobriefing.com/bitwise-near-etf-nyse-arca-sec-approval/",
-   "ts": "2026-09-27T07:21:25Z",
-   "tags": [
-    "ETF",
-    "ETH",
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
    "s": "Our ambition should be to “enable 10 million new companies to raise capital,” Strategy’s executive chairman Michael Saylor wrote in an essay.",
    "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -735,50 +800,7 @@
     "REGULATION"
    ],
    "srcs": [
-    "Cointelegraph",
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Strategy’s Michael Saylor proposes bill of digital rights for future economy",
-     "https://cryptobriefing.com/saylor-digital-rights-bill-proposal/"
-    ]
-   ]
-  },
-  {
-   "h": "Broadcom raises AI sales forecast as stock lingers 29% below its high",
-   "s": "Broadcom's AI revenue growth highlights potential market volatility and underscores the importance of meeting forward-looking expectations.",
-   "url": "https://cryptobriefing.com/broadcom-ai-sales-forecast-stock-below-high/",
-   "ts": "2026-09-27T06:48:51Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Anthropic explores potential rights for artificial intelligence systems",
-   "s": "Anthropic's AI rights exploration could redefine ethical AI development, sparking debates on control, safety, and moral considerations in tech.",
-   "url": "https://cryptobriefing.com/anthropic-ai-rights-model-welfare/",
-   "ts": "2026-09-27T05:33:42Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Australian senators invite Sam Altman and Dario Amodei to AI hearing after Medicare breach",
-   "s": "The AI hearing underscores the urgent need for robust regulatory frameworks to address AI's impact on data security and public accountability.",
-   "url": "https://cryptobriefing.com/australia-senators-invite-altman-amodei-ai-hearing/",
-   "ts": "2026-09-27T05:15:57Z",
-   "tags": [
-    "HACK",
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
+    "Cointelegraph"
    ],
    "alt": []
   },
@@ -886,23 +908,6 @@
    ],
    "srcs": [
     "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "XRP Whales Bought $742 Million This Week. How Will Price React?",
-   "s": "Large XRP holders accumulated 470 million tokens worth $724 million in five days, while spot ETFs extended their inflow streak. The combination of whale demand and institutional buying puts XRP price $1.60 resistance level firmly back in focus.",
-   "url": "https://beincrypto.com/xrp-whales-724-million-etf-inflows/",
-   "ts": "2026-09-26T16:34:55Z",
-   "tags": [
-    "ETF",
-    "FLOWS",
-    "INSTITUTIONAL",
-    "ONCHAIN",
-    "WHALE"
-   ],
-   "srcs": [
-    "BeInCrypto"
    ],
    "alt": []
   },
@@ -1677,6 +1682,19 @@
    ]
   },
   {
+   "h": "How the Fed interest rate increase impacts higher education",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGU2anowdk9GbXBZMl9xQjJPQzEzWnJxZktGWXVVbHBXRlowUmp4RkVqSUhqTWt0QWNadElRWVdJaEdaUEl4QlJSeHpOd1ZERlNPdlVtd0ZZMV9BenRXanBJWFlmbE1oVzAxNjZFTm1iaWFaTVBSOXk3LXFZVk9HMEZfaWo2czROOEhqcXJPWHdlNlM0WnJCWjYzNy1IQkpy?oc=5",
+   "ts": "2026-09-25T13:43:00Z",
+   "tags": [
+    "MACRO"
+   ],
+   "srcs": [
+    "FSView & Florida Flambeau"
+   ],
+   "alt": []
+  },
+  {
    "h": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
    "s": "The IRS can now see your crypto gains, but has no idea about the cost-basis. That’s proving to be a big headache for some cryptocurrency investors.",
    "url": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1723,7 +1741,7 @@
     "MACRO"
    ],
    "srcs": [
-    "The Motley Fool"
+    "fool.com"
    ],
    "alt": []
   },
@@ -2077,6 +2095,19 @@
    ]
   },
   {
+   "h": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
+   "s": "",
+   "url": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
+   "ts": "2026-09-25T04:29:34Z",
+   "tags": [
+    "HACK"
+   ],
+   "srcs": [
+    "CoinDesk"
+   ],
+   "alt": []
+  },
+  {
    "h": "Ethereum Draft Proposes Compliance Controls for Confidential RWA Tokens",
    "s": "The draft keeps amounts confidential but preserves issuer enforcement powers, tackling requirements behind institutional interest in permissioned networks.",
    "url": "https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens",
@@ -2150,153 +2181,15 @@
    "alt": []
   },
   {
-   "h": "Paxos Labs Launches PAXGy, Adding Lending Yield to Tokenized Gold",
-   "s": "Holders bear borrower-default risk, while direct redemptions return PAXG through an approval-gated withdrawal queue.",
-   "url": "https://thedefiant.io/news/tokens/paxos-labs-launches-paxgy-adding-lending-yield-to-tokenized-gold",
-   "ts": "2026-09-24T23:05:56Z",
-   "tags": [],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-   "s": "",
-   "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-   "ts": "2026-09-24T22:41:44Z",
-   "tags": [],
-   "srcs": [
-    "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
-   "h": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-   "s": "",
-   "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
-   "ts": "2026-09-24T22:28:49Z",
-   "tags": [
-    "MACRO"
-   ],
-   "srcs": [
-    "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+   "h": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
    "s": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
-   "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
-   "ts": "2026-09-24T21:59:32Z",
+   "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-09-24T23:27:17Z",
    "tags": [
     "HACK"
    ],
    "srcs": [
-    "CoinDesk",
     "Cointelegraph"
-   ],
-   "alt": [
-    [
-     "Cointelegraph",
-     "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
-     "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    ]
-   ]
-  },
-  {
-   "h": "Fed proposes new capital, redemption rules for stablecoin issuers",
-   "s": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.",
-   "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-09-24T21:56:03Z",
-   "tags": [
-    "INSTITUTIONAL",
-    "MACRO",
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "Cointelegraph",
-    "Decrypt"
-   ],
-   "alt": [
-    [
-     "Decrypt",
-     "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-     "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital"
-    ]
-   ]
-  },
-  {
-   "h": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-   "s": "Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to provide regulatory clarity.“",
-   "url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-09-24T21:42:51Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "Cointelegraph"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Morpho Founder's Vault Classification Draws Pushback From Aave's Kulechov",
-   "s": "Paul Frambot proposed splitting onchain vaults into \"noncustodial\" and \"discretionary\" categories for regulators. Aave founder Stani Kulechov called the split \"self-serving,\" and vault builders said a timelock does not remove the manager.",
-   "url": "https://thedefiant.io/news/defi/morpho-founder-vault-classification-draws-pushback-from-aave-kulechov",
-   "ts": "2026-09-24T21:28:41Z",
-   "tags": [
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitget confirms $387.5 million security breach affecting exchange hot wallets",
-   "s": "Bitget said private keys were not compromised and that losses from the incident will be covered by its User Protection Fund.",
-   "url": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
-   "ts": "2026-09-24T21:20:47Z",
-   "tags": [
-    "HACK",
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "CoinDesk",
-    "The Block",
-    "Cointelegraph",
-    "The Defiant"
-   ],
-   "alt": [
-    [
-     "CoinDesk",
-     "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
-     "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says"
-    ],
-    [
-     "Cointelegraph",
-     "Bitget confirms $352M security breach, suspends withdrawals",
-     "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    ],
-    [
-     "The Defiant",
-     "Bitget Suspends Withdrawals, Says $351.6 Million Affected In Hot Wallet Breach",
-     "https://thedefiant.io/news/cefi/bitget-disables-withdrawals-165-million-one-address-four-chains"
-    ]
-   ]
-  },
-  {
-   "h": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-   "s": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
-   "url": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
-   "ts": "2026-09-24T21:15:38Z",
-   "tags": [
-    "HACK",
-    "ONCHAIN",
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "Decrypt"
    ],
    "alt": []
   }
