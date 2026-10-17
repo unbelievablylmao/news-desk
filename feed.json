@@ -1,9 +1,71 @@
 {
- "updated": "2026-10-16T23:01:12.406555Z",
- "newest": "2026-10-16T22:33:58Z",
+ "updated": "2026-10-17T01:14:18.410640Z",
+ "newest": "2026-10-17T00:00:00Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "Former Ripple Adviser Warns XRP’s Biggest Test Is Still Ahead",
+   "s": "Former Ripple CBDC adviser Anthony Welfare told the AllinCrypto Podcast that the XRP Ledger (XRPL) has strong technical features. Those strengths alone will not guarantee adoption. Institutions are testing the network, and a new Nasdaq listing has put XRP in front of stock investors.",
+   "url": "https://beincrypto.com/ripple-xrp-ledger-tech-adoption-hurdle/",
+   "ts": "2026-10-17T00:00:00Z",
+   "tags": [
+    "EQUITIES",
+    "LISTING"
+   ],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Kevin Boon Succeeds Evan Cheng as Mysten Labs CEO",
+   "s": "Cheng will remain CTO and personally lead a new AI business unit building agent infrastructure tied to Sui and Walrus.",
+   "url": "https://thedefiant.io/news/people/kevin-boon-succeeds-evan-cheng-as-mysten-labs-ceo",
+   "ts": "2026-10-16T23:52:16Z",
+   "tags": [],
+   "srcs": [
+    "The Defiant"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Anthropic pitches a frontier AI safety bill to US lawmakers, Politico reports",
+   "s": "The proposed bill could reshape AI industry norms, emphasizing safety and transparency, while potentially creating a new market for evaluators.",
+   "url": "https://cryptobriefing.com/anthropic-pitches-ai-safety-bill-lawmakers/",
+   "ts": "2026-10-16T23:22:47Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "OpenAI hires SpaceX’s Graham Seamans to lead cybersecurity sales",
+   "s": "OpenAI's strategic hire signals a focus on bolstering its cybersecurity market position, potentially enhancing its growth and competitive edge.",
+   "url": "https://cryptobriefing.com/openai-hires-spacexs-graham-seamans-to-lead-cybersecurity-sales/",
+   "ts": "2026-10-16T23:22:19Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Wall Street faces fresh risks as AI rout meets oil shock",
+   "s": "The convergence of AI market volatility and rising oil prices underscores the fragility of tech-driven growth amid economic uncertainties.",
+   "url": "https://cryptobriefing.com/wall-street-ai-rout-oil-shock/",
+   "ts": "2026-10-16T23:14:14Z",
+   "tags": [
+    "EQUITIES"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
   {
    "h": "SpaceX regains lead as favorite for biggest IPO of 2026 on Polymarket",
    "s": "SpaceX's IPO lead highlights shifting market dynamics, emphasizing the volatility and influence of investor sentiment on tech valuations.",
@@ -478,28 +540,6 @@
    "alt": []
   },
   {
-   "h": "Ledger loss reports stem from panic scams, not tampered devices, says Monahan",
-   "s": "The panic-driven scams highlight the critical need for user education on security practices and cautious handling of recovery phrases.",
-   "url": "https://cryptobriefing.com/ledger-losses-panic-scams-not-tampering/",
-   "ts": "2026-10-16T18:49:20Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Nvidia reportedly bars neoclouds from GTC Berlin over AMD and TPU use",
-   "s": "Nvidia's exclusion of neoclouds may drive diversification in AI infrastructure, impacting market dynamics and Nvidia's dominance in the sector.",
-   "url": "https://cryptobriefing.com/nvidia-neoclouds-gtc-berlin-amd-tpu/",
-   "ts": "2026-10-16T18:48:39Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "OpenAI’s rogue crypto agent spent funds without permission, exposing risks to autonomous wallets",
    "s": "The October 15 report update describes an internal GPT-5.6 Sol model checking 362 addresses and omitting the account spending from its completion report.",
    "url": "https://cryptoslate.com/openai-research-model-questioned-wallet-permission-then-spent-testnet-eth-anyway-in-june-2026/",
@@ -514,19 +554,6 @@
    "alt": []
   },
   {
-   "h": "a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum",
-   "s": "Aerie's introduction could reshape Ethereum's quantum security strategy, potentially impacting its privacy goals and system complexity.",
-   "url": "https://cryptobriefing.com/quantum-resistant-signatures-improvement/",
-   "ts": "2026-10-16T18:36:40Z",
-   "tags": [
-    "ETH"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "SEI Perpetual Futures Trade on CFTC-Regulated OG.com Markets",
    "s": "The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours.",
    "url": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
@@ -536,16 +563,9 @@
     "REGULATION"
    ],
    "srcs": [
-    "The Defiant",
-    "CryptoBriefing"
+    "The Defiant"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "SEI perpetual futures arrive on CFTC-regulated OG.com Markets",
-     "https://cryptobriefing.com/sei-perpetual-futures-og-com-markets/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Hot Inflation Data Puts Bitcoin Under Pressure, but ‘Difficult’ Isn’t ‘Bearish’: CoinShares",
@@ -1133,6 +1153,27 @@
    "alt": []
   },
   {
+   "h": "Update: US Equity Futures Mostly Flat Pre-Bell as Fed Chair Kevin Warsh Avoids Interest Rate Guidance",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXg5RlV3XzZYRzJUdXZEZGVSQ0dkX3BvX1FXTjgxbmtGT2c4czhaSC13N2ZvcWN0czYxdEFBOWVvdmpjQ0ZQdXBhY1BHc2MzQjZfWWFaZGJqZG1iVzgxUUhhN0J1cGRqU0FtbUEtRThCZnBYUWYxSTkxR1p5dFA5c25QUDBaZHkxSzNEd2VtV3hhbm50MGY3UVRn?oc=5",
+   "ts": "2026-10-16T12:56:07Z",
+   "tags": [
+    "MACRO",
+    "PERPS"
+   ],
+   "srcs": [
+    "CNBC",
+    "Yahoo Finance"
+   ],
+   "alt": [
+    [
+     "CNBC",
+     "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFl6VlNnRU5TX2V4NEx3eEEwWDhfZGMxS3FsUVd2Z0FMZzJLcnNfOEQ1Z2xxYmc5Nk1SYVNFQkhQeFZiX21fdFJTOWZ4aEhvTU1mQTRIdEFYMms2Q093RS0xMURjb3RwTVNfQXp0cVhjTHpGUEdENzBHeERCYW84dnRkRE1DVjRuTXo5c3M5aEkzOXNkMnlFX9IBngFBVV95cUxQUjQ0SjZBMDNsSDI4cDdJVTgtUFlVdnlhQXN4ZjViU2R2bWdobHQ4RDM2cDVIc1J5RGJwOXZsNnRUQTh6QkFyVEFjbUc0blFvNUE4M2tZN1NnRTJhbnVLa1AxYkk3R0xCTUpQN1dRV0dNckx2NzFXZktaLW1QOXlCMVJmN1FfWjJNZmJma3hQcGZvQUF6NkNaZGwySWtmQQ?oc=5"
+    ]
+   ]
+  },
+  {
    "h": "Sazmining Brings Proto’s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down",
    "s": "Bitcoin Magazine Sazmining Brings Proto’s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down Proto immersion hashboards, built for efficiency and long service life, are now available for outright purchase through Sazmining’s mining-as-a-service platform, with mining rewards paid directly to…",
    "url": "https://bitcoinmagazine.com/press-releases/sazmining-brings-protos-immersion-hashboards-to-individual-owners-with-0-financing-from-1397-down",
@@ -1410,6 +1451,34 @@
    "alt": []
   },
   {
+   "h": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+   "s": "Bitcoin Magazine Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves Chainalysis has revealed that a victim of last week’s Ledger theft was a scammer themself.",
+   "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+   "ts": "2026-10-16T10:24:30Z",
+   "tags": [
+    "BTC",
+    "HACK",
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "CoinDesk",
+    "Decrypt",
+    "Bitcoin Magazine"
+   ],
+   "alt": [
+    [
+     "Bitcoin Magazine",
+     "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+     "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves"
+    ],
+    [
+     "Decrypt",
+     "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+     "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis"
+    ]
+   ]
+  },
+  {
    "h": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
    "s": "Rockstar released the launch trailer for GTA VI, revealing a potential meme coin in the upcoming game and sending degens wild.",
    "url": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900",
@@ -1433,41 +1502,6 @@
     "The Block"
    ],
    "alt": []
-  },
-  {
-   "h": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-   "s": "A suspected scammer who lost roughly $4.8 million in a Ledger wallet drain has become the unlikely face of the wider $100 million Ledger theft. The twist is that the stolen money was itself stolen, turning a scam story into a lesson in custody. How a Scam’s Proceeds Ended Up Drained A task scam dangles",
-   "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-   "ts": "2026-10-16T10:04:14Z",
-   "tags": [
-    "BTC",
-    "HACK",
-    "INSTITUTIONAL",
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "CoinDesk",
-    "Decrypt",
-    "Bitcoin Magazine",
-    "BeInCrypto"
-   ],
-   "alt": [
-    [
-     "Bitcoin Magazine",
-     "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
-     "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves"
-    ],
-    [
-     "Decrypt",
-     "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-     "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis"
-    ],
-    [
-     "BeInCrypto",
-     "Even Scammers Get Robbed: $4.8M Gone in the Ledger Wallet Drain",
-     "https://beincrypto.com/suspected-scammer-loses-ledger-drain-irony/"
-    ]
-   ]
   },
   {
    "h": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
@@ -1554,33 +1588,6 @@
      "Cointelegraph",
      "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
      "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    ]
-   ]
-  },
-  {
-   "h": "The Federal Reserve and inflation Kevin Warsh avoids hinting at the upcoming interest rate decision",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONW10UjRLRUx5czYyOEhHMW02THRLLVhUWWxDdHB4NTdoUXhUUlZEWkdjVG5yM0tTS2d4YUtyakpFQlZkS3lhR25UTy1xdTRmTDk5dVVlZWg5WHBCZHhwZEcyeFdTSlRKd00zYldIVnRGX3llaGhwYm9NX3lraC14cWtZbW1tUUpnTnFLUjBybkpkQWgtNE1WQjNEcnBzc1FqY0thamp3QjdBOEpaV2pxa2pMZHNDUFhUNFhpd21ublRLY2MxZXhpNXNZNnRNdjYySmtRWVlNLUFja0trN0NfMEUtaGJhZ3h0YmhZMnJ3?oc=5",
-   "ts": "2026-10-16T06:38:38Z",
-   "tags": [
-    "MACRO",
-    "PERPS"
-   ],
-   "srcs": [
-    "CNBC",
-    "Yahoo Finance",
-    "المتداول العربي"
-   ],
-   "alt": [
-    [
-     "CNBC",
-     "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFl6VlNnRU5TX2V4NEx3eEEwWDhfZGMxS3FsUVd2Z0FMZzJLcnNfOEQ1Z2xxYmc5Nk1SYVNFQkhQeFZiX21fdFJTOWZ4aEhvTU1mQTRIdEFYMms2Q093RS0xMURjb3RwTVNfQXp0cVhjTHpGUEdENzBHeERCYW84dnRkRE1DVjRuTXo5c3M5aEkzOXNkMnlFX9IBngFBVV95cUxQUjQ0SjZBMDNsSDI4cDdJVTgtUFlVdnlhQXN4ZjViU2R2bWdobHQ4RDM2cDVIc1J5RGJwOXZsNnRUQTh6QkFyVEFjbUc0blFvNUE4M2tZN1NnRTJhbnVLa1AxYkk3R0xCTUpQN1dRV0dNckx2NzFXZktaLW1QOXlCMVJmN1FfWjJNZmJma3hQcGZvQUF6NkNaZGwySWtmQQ?oc=5"
-    ],
-    [
-     "Yahoo Finance",
-     "Update: US Equity Futures Mostly Flat Pre-Bell as Fed Chair Kevin Warsh Avoids Interest Rate Guidance",
-     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXg5RlV3XzZYRzJUdXZEZGVSQ0dkX3BvX1FXTjgxbmtGT2c4czhaSC13N2ZvcWN0czYxdEFBOWVvdmpjQ0ZQdXBhY1BHc2MzQjZfWWFaZGJqZG1iVzgxUUhhN0J1cGRqU0FtbUEtRThCZnBYUWYxSTkxR1p5dFA5c25QUDBaZHkxSzNEd2VtV3hhbm50MGY3UVRn?oc=5"
     ]
    ]
   },
@@ -2329,19 +2336,6 @@
    ],
    "srcs": [
     "Cointelegraph"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Firelight Adds $30.5 Million of Cover to Kraken USDC Vault",
-   "s": "Depositors face a $100,000 cap per address per coverage period, with payouts handled by Sentora rather than guaranteed by Kraken.",
-   "url": "https://thedefiant.io/news/defi/firelight-adds-30-5-million-of-cover-to-kraken-usdc-vault",
-   "ts": "2026-10-15T14:21:46Z",
-   "tags": [
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "The Defiant"
    ],
    "alt": []
   },
@@ -3152,9 +3146,9 @@
    "alt": []
   },
   {
-   "h": "Fed rate hike call seen tight as inflation heats up",
+   "h": "Fed rate hike call seen tight as U.S. inflation heats up",
    "s": "September CPI hit 3.7%, above forecasts, sending Treasury yields higher and dragging crypto down with stocks.",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc00zSUdia3lvdVhiWmdyeE5VUjYwWFFaOGF3Y0JvYkVIR3o0azB2Ni1obk9uajNROHZSNEllR2NVZkdCVVBwOGpLdjZ4c0ZtUktuVXdjQ3g4Mmliczc5dlQtZGJwbmlrZlBRcnNDWWo0dXR4em12OEhiMmVpdHI4UHZ2ei1TaWUwb1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeG5zTjVXRktPRFJFVnAxbkZEcWJHOGRrcnVLVkZjeUVzSklKeDhnU3d3Vm5vNC1TYnVJUmd5d1ZYVGJPSk5kTUN4WER6eTQ0U1p6Q3R5Y1hsYnhUX3p2TXZVekdXYWhEN0ZnTEFVLXEwekNHek5wZzRVSkNVU1RjenducVkySzNybHJnNUF2VE8xaHQ4TzY4SlVVdFJUYW9kVGdnMmZtelFmZ1pTOHQ5d0w3SQ?oc=5",
    "ts": "2026-10-14T12:54:00Z",
    "tags": [
     "BTC",
@@ -3163,7 +3157,7 @@
    "srcs": [
     "Reuters",
     "KSL News",
-    "WTVB",
+    "BNN Bloomberg",
     "Realtor.com",
     "Business Insider",
     "Decrypt"
@@ -3190,24 +3184,16 @@
      "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds"
     ],
     [
+     "Reuters",
+     "Fed rate hike call seen tight as inflation heats up",
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjl1ZWZGd2lIRXg1US1hUjNacTVDN2o5S2lIcXpCdnZ1VHBXcEpqOHV5SzJJZHJrT3RxYjdrRjRrRU03eHNGTTFRMnVCVEdZa0VfLU9BeFdSeTE1aFRrc3ZRampyOFVTczZRbWk0azFBakVndUJ1X0NjVmJmV1JmeXNXSlFkNzF0NUZKTUUyUnlHWi1sOXFpVHV5NnVvcDA?oc=5"
+    ],
+    [
      "Business Insider",
      "Inflation accelerated more than expected in September",
      "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN1Jwd2lkQ09XTFR6cWdhVVdmbzlRQ3Q2SVhuNTVFRVJkZ3ZzSUpnRmppMzFzTDRLLXpfNFZkeVcwUFRWNFpJOWRWVm5EdEg4U1RaWnVNSmU5c21zMUc4Z0RGNHN1VWtmOXhSMFNTVmxZS29oODgydGxMeHh4RUQ3MnNMZFFQb3hua0l0cA?oc=5"
     ]
    ]
-  },
-  {
-   "h": "Inflation rose to 3.7% last month in last snapshot of consumer prices before the midterms",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hd3dLa3hMTUR4ZW5LRDh4R2U0RzRQVzVHLTVSdllES0VXQl82LVNDSmplZERpSVd6elo0a0Z5UG9Xc2ZvT2hHcHBlS1NINndRZjFHVVR3UDlvaGlKNW9LaGQ2WmpZMHRPanBpTkpBbF8xWXc?oc=5",
-   "ts": "2026-10-14T12:35:27Z",
-   "tags": [
-    "MACRO"
-   ],
-   "srcs": [
-    "CNN"
-   ],
-   "alt": []
   },
   {
    "h": "Bitcoin Is Up 7.1% and Solana 5.3% This Month. Ethereum Is Down 0.7% and XRP 1.4%. What Separates Them?",
