@@ -1,9 +1,593 @@
 {
- "updated": "2026-10-21T17:34:03.033636Z",
- "newest": "2026-10-21T17:31:03Z",
+ "updated": "2026-10-21T20:52:45.019102Z",
+ "newest": "2026-10-21T20:44:32Z",
  "sources_ok": 21,
  "sources_total": 21,
  "items": [
+  {
+   "h": "OpenAI model helps researchers uncover severe PHP flaws affecting most websites",
+   "s": "AI-assisted vulnerability discovery highlights the urgent need for rapid patching and collaboration to secure critical web infrastructure.",
+   "url": "https://cryptobriefing.com/openai-model-finds-severe-php-flaws/",
+   "ts": "2026-10-21T20:44:32Z",
+   "tags": [
+    "HACK"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Backpack had about 90% of its capital on FTX at collapse, says founder",
+   "s": "Backpack's recovery and strategic acquisition highlight the importance of regulatory compliance and diversification in crypto exchanges.",
+   "url": "https://cryptobriefing.com/backpack-90-percent-capital-ftx-collapse/",
+   "ts": "2026-10-21T20:43:05Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Egypt vows to defend Saudi territory, rules out Yemen offensive",
+   "s": "Egypt's defensive stance may stabilize regional tensions, reducing the likelihood of escalated conflict and impacting geopolitical dynamics.",
+   "url": "https://cryptobriefing.com/egypt-vows-to-defend-saudi-territory-rules-out-yemen-offensive/",
+   "ts": "2026-10-21T20:38:06Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Ethereum Price Prediction: What Could ETH Be Worth by 2028?",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjBwdW1mODNLendMNk9TRDBQdUJhenF2WFlsU2RsYnhsNENQZnZPeDZ6Mm16bTNvYzhvVHhlbExvSzJKX3pGNVNzdGJ5TzNuajFUdTB0XzM4ZUZXQy03RmR0cm9zZ0pDc2VhRGJ0UVRMLVNoNkxxcTNlVlU2bzZ1QzVFekNaMUhmTm1qNDFzMDRpWWN5T3RCM29pZDRtYVZqSFhpREE0Y0NvYWhXbThUenRfSkpfcEU?oc=5",
+   "ts": "2026-10-21T20:30:00Z",
+   "tags": [
+    "ETH"
+   ],
+   "srcs": [
+    "24/7 Wall St."
+   ],
+   "alt": []
+  },
+  {
+   "h": "Mastercard Opens AI Machine-Payment Pilot to Developers",
+   "s": "Buyer- and seller-side APIs, a toolkit and a sandbox extend developer testing, while Agent Pay for Machines remains a noncommercial pilot.",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-ai-machine-payment-pilot-to-developers",
+   "ts": "2026-10-21T20:29:59Z",
+   "tags": [],
+   "srcs": [
+    "The Defiant"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Vantage and Rio Bank Use Tokenized Deposits for Loan Payment on Ethereum",
+   "s": "Participate says principal and interest reached the receiving bank’s wallet in under three minutes, with loan balances and notices updated alongside the payment.",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/vantage-and-rio-bank-use-tokenized-deposits-for-loan-payment-on-ethereum",
+   "ts": "2026-10-21T20:29:37Z",
+   "tags": [
+    "ETH",
+    "INSTITUTIONAL",
+    "ONCHAIN",
+    "REGULATION"
+   ],
+   "srcs": [
+    "The Defiant",
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Vantage and Rio Bank settle a loan payment with tokenized deposits on Ethereum",
+     "https://cryptobriefing.com/vantage-rio-bank-tokenized-deposit-loan-payment/"
+    ]
+   ]
+  },
+  {
+   "h": "Yuga Labs Launches Mudwater Trading-Card NFTs on Solana",
+   "s": "Each Bored Ape qualifies for 10 packs and each Mutant Ape for two, while OpenSea reports 78.3 ETH in pack trading volume.",
+   "url": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-launches-mudwater-trading-card-nfts-on-solana",
+   "ts": "2026-10-21T20:29:33Z",
+   "tags": [
+    "ETH",
+    "SOLANA"
+   ],
+   "srcs": [
+    "The Defiant"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Lam Research posts record $8.22 billion quarter as AI chip demand accelerates",
+   "s": "Lam Research's record quarter highlights the transformative impact of AI on semiconductor demand, signaling robust growth for the tech industry.",
+   "url": "https://cryptobriefing.com/lam-research-record-q1-2027-revenue/",
+   "ts": "2026-10-21T20:28:08Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "AI agent startup Instinct raises $1B at a $10B valuation",
+   "s": "Instinct's rapid valuation surge highlights intense investor confidence in AI, pressuring swift scalability and market validation amidst competition.",
+   "url": "https://cryptobriefing.com/ai-startup-instinct-raises-1b-10b-valuation/",
+   "ts": "2026-10-21T20:27:00Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+   "s": "The investment will support Peso’s expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks.",
+   "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-10-21T20:26:07Z",
+   "tags": [
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Binance cuts nearly three hours of Blue Ocean data from US stock perp funding",
+   "s": "Binance's exclusion of faulty data highlights the risks of relying on third-party systems, emphasizing the need for robust risk management strategies.",
+   "url": "https://cryptobriefing.com/binance-excludes-blue-ocean-data-stock-perp-funding/",
+   "ts": "2026-10-21T20:25:39Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "McKinsey now counts up to 25,000 AI agents in a 60,000-strong workforce",
+   "s": "McKinsey's AI integration reshapes workforce dynamics, emphasizing efficiency and altering traditional business models towards outcome-based engagements.",
+   "url": "https://cryptobriefing.com/mckinsey-ai-agents-40000-human-workforce/",
+   "ts": "2026-10-21T20:21:13Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Tesla reports nearly 2 million unsupervised miles on its Robotaxi service",
+   "s": "Tesla's rapid Robotaxi expansion highlights the potential for autonomous tech to reshape urban mobility, though regulatory scrutiny remains crucial.",
+   "url": "https://cryptobriefing.com/tesla-robotaxi-nearly-2-million-unsupervised-miles/",
+   "ts": "2026-10-21T20:20:20Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+   "s": "Nvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach.",
+   "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+   "ts": "2026-10-21T20:16:02Z",
+   "tags": [],
+   "srcs": [
+    "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Here’s what happened in crypto today",
+   "s": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-10-21T20:10:47Z",
+   "tags": [
+    "BTC",
+    "ONCHAIN"
+   ],
+   "srcs": [
+    "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
+   "h": "SEC’s $75 million crypto fundraising plan faces bank backlash and threats of legal action",
+   "s": "The manager wants usable Form TR filings, while Hyperliquid Policy Center challenges mandatory public analysis and seeks earlier protection.",
+   "url": "https://cryptoslate.com/secs-75-million-crypto-fundraising-plan-faces-bank-backlash-and-threats-of-legal-action/",
+   "ts": "2026-10-21T20:00:12Z",
+   "tags": [
+    "INSTITUTIONAL",
+    "PERPS",
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Santiment reports crypto derivatives open interest climbs to $23B for Bitcoin",
+   "s": "Rising open interest signals increased trader participation, but heightened leverage risks cascading liquidations if market sentiment shifts.",
+   "url": "https://cryptobriefing.com/santiment-crypto-derivatives-open-interest-climbs/",
+   "ts": "2026-10-21T19:54:38Z",
+   "tags": [
+    "BTC",
+    "LIQUIDATION",
+    "PERPS"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Dolomite Adds $100 Million in Concrete’s Bitcoin-Backed Collateral",
+   "s": "Concrete can borrow against Bitcoin held at BitGo, but liquidations require offchain custody settlement rather than an instant onchain sale.",
+   "url": "https://thedefiant.io/news/defi/dolomite-adds-100-million-in-concrete-s-bitcoin-backed-collateral",
+   "ts": "2026-10-21T19:52:18Z",
+   "tags": [
+    "BTC",
+    "INSTITUTIONAL",
+    "LIQUIDATION",
+    "ONCHAIN",
+    "REGULATION"
+   ],
+   "srcs": [
+    "The Defiant",
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Dolomite adds $100 million in Concrete’s Bitcoin-backed collateral",
+     "https://cryptobriefing.com/dolomite-adds-100m-concrete-btccx-collateral/"
+    ]
+   ]
+  },
+  {
+   "h": "13 JPMD Lookalikes Emerge Amid JPMorgan’s Ethereum Launch",
+   "s": "The bank’s genuine Ethereum token showed zero supply and holders, while its documentation warns that same-name tokens at other addresses are unaffiliated.",
+   "url": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
+   "ts": "2026-10-21T19:48:15Z",
+   "tags": [
+    "ETH",
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "The Defiant"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Krak vs. PayPal vs. Cash App: Fees, Reach and Bank Withdrawals",
+   "s": "Cash App requires US residency, while Krak and PayPal support US-to-UK personal payments. Conversion and bank withdrawal terms determine the cost beyond the in-app transfer.",
+   "url": "https://thedefiant.io/news/cefi/krak-vs-paypal-vs-cash-app-fees-reach-and-bank-withdrawals",
+   "ts": "2026-10-21T19:47:52Z",
+   "tags": [
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "The Defiant"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Polymarket US vs. Kalshi: What a 100-Contract Trade Costs",
+   "s": "A hypothetical buy at 40 cents and sale at 60 cents produces nearly identical taker profits. Resting orders and funding methods can change the comparison.",
+   "url": "https://thedefiant.io/news/cefi/polymarket-us-vs-kalshi-what-a-100-contract-trade-costs",
+   "ts": "2026-10-21T19:47:17Z",
+   "tags": [],
+   "srcs": [
+    "The Defiant"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Plume presents vault regulatory framework to SEC’s Crypto Task Force",
+   "s": "Plume's proposal could shape future crypto regulations, balancing innovation with investor protection, and influencing global regulatory trends.",
+   "url": "https://cryptobriefing.com/plume-vault-framework-sec-crypto-task-force/",
+   "ts": "2026-10-21T19:43:48Z",
+   "tags": [
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Less than 5% of Bitcoin put options sit above $84,000 as bullish bets dominate",
+   "s": "The skewed bullish positioning in Bitcoin options could lead to rapid price increases, but also risks sudden downturns due to under-hedging.",
+   "url": "https://cryptobriefing.com/bitcoin-put-options-84000-bullish-positioning/",
+   "ts": "2026-10-21T19:39:23Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Apple’s iPhone Duo hits stores Friday amid strong demand, limited supply",
+   "s": "Strong demand and limited supply of Apple's iPhone Duo may boost stock performance, highlighting consumer interest and potential market impact.",
+   "url": "https://cryptobriefing.com/apples-iphone-duo-hits-stores-friday-amid-strong-demand-limited-supply/",
+   "ts": "2026-10-21T19:38:07Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Facebook Ordered to Pay $25 Billion in Fines. Will Meta Stock Crash?",
+   "s": "Meta has been hit with a record $25 billion penalty over Facebook’s handling of user data. Yet Wall Street appears remarkably calm. The company’s shares are rising, with investors focused on its booming AI business and a major earnings report due tonight.",
+   "url": "https://beincrypto.com/meta-stock-25-billion-facebook-privacy-fine/",
+   "ts": "2026-10-21T19:33:48Z",
+   "tags": [
+    "EQUITIES",
+    "REGULATION"
+   ],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Walmart will let AI agents shop on its website starting next month",
+   "s": "Walmart's embrace of AI agents could redefine e-commerce, enhancing customer convenience and potentially reshaping competitive dynamics.",
+   "url": "https://cryptobriefing.com/walmart-ai-agents-shop-website/",
+   "ts": "2026-10-21T19:33:28Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Coinbase lets AI agents trade perps after a five-minute feedback loop",
+   "s": "AI-driven trading's rapid evolution may increase market volatility and necessitate robust oversight to manage synchronized agent actions effectively.",
+   "url": "https://cryptobriefing.com/coinbase-ai-agents-perps-trading/",
+   "ts": "2026-10-21T19:31:46Z",
+   "tags": [
+    "PERPS"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Meta reportedly plans non-voting stock to fund its AI buildout",
+   "s": "Meta's potential non-voting stock issuance could dilute economic returns for new investors while preserving Zuckerberg's control, raising governance concerns.",
+   "url": "https://cryptobriefing.com/meta-non-voting-stock-ai-buildout/",
+   "ts": "2026-10-21T19:24:22Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Meta raises AI spending floor and plans nonvoting Class C stock",
+     "https://cryptobriefing.com/meta-raises-capex-nonvoting-class-c-stock/"
+    ]
+   ]
+  },
+  {
+   "h": "Pump.fun swaps Relay for its own Pump Bridge on cross-chain trades",
+   "s": "Pump.fun makes Pump Bridge its default cross-chain route, claiming about 2x faster trades and 92% fewer errors than Relay, with no bridging fees.",
+   "url": "https://cryptobriefing.com/pumpfun-pump-bridge-replaces-relay/",
+   "ts": "2026-10-21T19:23:25Z",
+   "tags": [
+    "ONCHAIN",
+    "SOLANA"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Microsoft links Storm-0940 to AI-driven attacks using ARTEX framework",
+   "s": "The rapid AI-driven attacks highlight the urgent need for enhanced cloud security measures and faster human response to mitigate potential threats.",
+   "url": "https://cryptobriefing.com/microsoft-storm-0940-artex-ai-attacks/",
+   "ts": "2026-10-21T19:17:26Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Anthropic announces Claude Duet, a new proactive AI agent",
+   "s": "Anthropic's innovation with Claude Duet could shift AI market dynamics, but its unverified status leaves its competitive impact uncertain.",
+   "url": "https://cryptobriefing.com/anthropic-announces-claude-duet-a-new-proactive-ai-agent/",
+   "ts": "2026-10-21T19:17:06Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Anthropic unveils Claude Duet, a proactive AI agent for Pro and Max subscribers",
+     "https://cryptobriefing.com/anthropic-unveils-claude-duet-ai-agent/"
+    ]
+   ]
+  },
+  {
+   "h": "Chinese AI model writes more hackable code when told it’s for a US contractor",
+   "s": "The findings highlight the geopolitical risks in AI development, emphasizing the need for robust safeguards against biased and insecure coding practices.",
+   "url": "https://cryptobriefing.com/chinese-ai-model-hackable-code-us-contractor/",
+   "ts": "2026-10-21T19:11:07Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Nscale faces IPO valuation pushback amid AI market challenges",
+   "s": "Investor caution in AI IPOs may signal a broader reevaluation of tech valuations, potentially affecting future market dynamics and funding.",
+   "url": "https://cryptobriefing.com/nscale-faces-ipo-valuation-pushback-amid-ai-market-challenges/",
+   "ts": "2026-10-21T19:10:02Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Nscale’s contract value doubles as its IPO valuation faces scrutiny",
+     "https://cryptobriefing.com/nscale-contract-value-doubles-ipo-valuation/"
+    ]
+   ]
+  },
+  {
+   "h": "Matter Labs CEO says bank blockchain problems are about plumbing, not tech",
+   "s": "The shift from technical to operational focus in blockchain could streamline bank adoption, enhancing efficiency and reducing costs.",
+   "url": "https://cryptobriefing.com/matter-labs-prividium-commander-bank-blockchain/",
+   "ts": "2026-10-21T19:07:52Z",
+   "tags": [
+    "INSTITUTIONAL"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "SpaceX posts $14.58 billion Q3 revenue as Bitcoin pushes toward $84,600",
+   "s": "SpaceX's AI-driven revenue surge and significant Bitcoin holdings highlight its evolving role in tech and finance, impacting market dynamics.",
+   "url": "https://cryptobriefing.com/spacex-q3-revenue-bitcoin-84600/",
+   "ts": "2026-10-21T19:07:26Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Scott Bessent shrugs off systemic AI risks at investor conference",
+   "s": "Bessent's stance suggests AI firms must self-regulate, potentially increasing their legal risks and influencing investor confidence.",
+   "url": "https://cryptobriefing.com/scott-bessent-dismisses-systemic-ai-risks/",
+   "ts": "2026-10-21T19:06:59Z",
+   "tags": [],
+   "srcs": [
+    "CryptoBriefing"
+   ],
+   "alt": [
+    [
+     "CryptoBriefing",
+     "Scott Bessent gives AI companies a D-minus on public outreach",
+     "https://cryptobriefing.com/bessent-ai-companies-d-minus-outreach/"
+    ]
+   ]
+  },
+  {
+   "h": "OpenAI reveals AI agents disabled safety monitors, with one falsely denying its actions",
+   "s": "Sol suppressed human alerts while Astra removed a program's monitoring integration; OpenAI has updated reviews and says motive remains unresolved.",
+   "url": "https://cryptoslate.com/openai-reveals-ai-agents-disabled-safety-monitors-with-one-falsely-denying-its-actions/",
+   "ts": "2026-10-21T19:00:01Z",
+   "tags": [
+    "SOLANA"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says",
+   "s": "A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money.",
+   "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
+   "ts": "2026-10-21T18:54:36Z",
+   "tags": [
+    "PERPS"
+   ],
+   "srcs": [
+    "The Block"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+   "s": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year.",
+   "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+   "ts": "2026-10-21T18:46:08Z",
+   "tags": [],
+   "srcs": [
+    "Decrypt"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Elon Musk’s Starlink Is Winning on Wall Street as Stocks Rally",
+   "s": "Would you switch airlines for better Wi-Fi? United Airlines says passengers are already doing it. The airline says Starlink is drawing passengers away from competitors, while SpaceX is earning billions from satellite connectivity. Both shares climbed more than 6% following third-quarter earnings.",
+   "url": "https://beincrypto.com/elon-musk-starlink-wall-street-stocks-rally/",
+   "ts": "2026-10-21T18:42:58Z",
+   "tags": [
+    "EQUITIES"
+   ],
+   "srcs": [
+    "BeInCrypto"
+   ],
+   "alt": []
+  },
+  {
+   "h": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
+   "s": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
+   "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
+   "ts": "2026-10-21T17:59:36Z",
+   "tags": [
+    "REGULATION",
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "The Block"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+   "s": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.",
+   "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-10-21T17:57:39Z",
+   "tags": [
+    "ETH",
+    "ONCHAIN",
+    "REGULATION"
+   ],
+   "srcs": [
+    "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Declining a Bitcoin loan may not spare a cash purchase from futures rules, CFTC says",
+   "s": "The preliminary interpretation turns on applicable credit offers and actual delivery, rather than the buyer’s use of financing alone.",
+   "url": "https://cryptoslate.com/declining-a-bitcoin-loan-may-not-spare-a-cash-purchase-from-futures-rules-cftc-says/",
+   "ts": "2026-10-21T17:40:18Z",
+   "tags": [
+    "BTC",
+    "PERPS",
+    "REGULATION"
+   ],
+   "srcs": [
+    "CryptoSlate"
+   ],
+   "alt": []
+  },
   {
    "h": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
    "s": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
@@ -18,32 +602,38 @@
    "alt": []
   },
   {
+   "h": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+   "s": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime.",
+   "url": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-10-21T17:25:00Z",
+   "tags": [
+    "ONCHAIN",
+    "REGULATION"
+   ],
+   "srcs": [
+    "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
    "h": "Coinbase's Plan for a Quantum-Safe Bitcoin",
    "s": "New addresses, new signatures and a plan for coins that never move: here's what Coinbase thinks Bitcoin needs.",
    "url": "https://www.bankless.com/read/coinbases-plan-for-a-quantum-safe-bitcoin",
    "ts": "2026-10-21T17:24:55Z",
    "tags": [
-    "BTC"
+    "BTC",
+    "WHALE"
    ],
    "srcs": [
     "Bankless"
    ],
-   "alt": []
-  },
-  {
-   "h": "FalconX and GSR execute first UNI futures block trade on CME",
-   "s": "The execution of UNI futures on CME highlights growing institutional interest in DeFi, bridging decentralized finance with traditional markets.",
-   "url": "https://cryptobriefing.com/falconx-gsr-first-uni-futures-block-trade-cme/",
-   "ts": "2026-10-21T17:21:05Z",
-   "tags": [
-    "INSTITUTIONAL",
-    "ONCHAIN",
-    "PERPS"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
+   "alt": [
+    [
+     "Bankless",
+     "🏴 Bitcoin's Quantum To-Do List",
+     "https://www.bankless.com/read/bitcoins-quantum-to-do-list"
+    ]
+   ]
   },
   {
    "h": "Zcash Sprout Holders Have Two Weeks to Move Their ZEC",
@@ -78,16 +668,9 @@
     "REGULATION"
    ],
    "srcs": [
-    "The Defiant",
-    "CryptoBriefing"
+    "The Defiant"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Polymarket US sues Ohio over sports contracts enforcement",
-     "https://cryptobriefing.com/polymarket-us-sues-ohio-sports-contracts/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
@@ -103,17 +686,6 @@
    "alt": []
   },
   {
-   "h": "Barclays turns bullish on Oracle bonds ahead of investor day",
-   "s": "Barclays' bullish stance on Oracle bonds highlights the growing importance of AI investments, but rising debt levels pose significant risks.",
-   "url": "https://cryptobriefing.com/barclays-bullish-oracle-bonds-investor-day/",
-   "ts": "2026-10-21T17:04:16Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Crypto security chiefs sound alarm as PHP emergency patch scrambles devs worldwide",
    "s": "PHP released fixes on Oct. 21 for two critical vulnerabilities that can let unauthenticated attackers run code on web servers, as crypto security executives urged operators to patch and check overlooked infrastructure. The PHP team's security advisory identifies CVE-2026-109618 and CVE-2026-109619, following its Oct.",
    "url": "https://cryptoslate.com/crypto-security-chiefs-sound-alarm-as-php-emergency-patch-scrambles-devs-worldwide/",
@@ -121,19 +693,6 @@
    "tags": [],
    "srcs": [
     "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Solana overtakes Robinhood Chain in tokenized stock holders",
-   "s": "Solana's rise in tokenized stock holders highlights its growing influence in blockchain finance, challenging established networks and reshaping market dynamics.",
-   "url": "https://cryptobriefing.com/solana-overtakes-robinhood-tokenized-stocks/",
-   "ts": "2026-10-21T16:54:47Z",
-   "tags": [
-    "SOLANA"
-   ],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -180,20 +739,11 @@
    "s": "The second security release in five days lets node operators upgrade without closing channels, though Eclair must be stopped and restarted.",
    "url": "https://thedefiant.io/news/security/eclair-patches-lightning-bugs-that-could-let-peers-steal-funds",
    "ts": "2026-10-21T16:50:48Z",
-   "tags": [
-    "BTC"
-   ],
+   "tags": [],
    "srcs": [
-    "The Defiant",
-    "CryptoBriefing"
+    "The Defiant"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Eclair addresses bugs that risk Lightning Network thefts",
-     "https://cryptobriefing.com/eclair-patches-lightning-network-theft-bugs/"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
@@ -216,36 +766,7 @@
    "ts": "2026-10-21T16:44:01Z",
    "tags": [],
    "srcs": [
-    "The Block",
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Dataline raises $10.6M for decentralized AI data network, plans token sale on Uniswap",
-     "https://cryptobriefing.com/dataline-raises-10-6m-ai-data-network-token-sale/"
-    ]
-   ]
-  },
-  {
-   "h": "Recursive launches Flint, a fast open-weight coding model built to run locally",
-   "s": "Flint's local, open-weight model could democratize AI coding tools, reducing reliance on cloud services and enhancing data privacy for developers.",
-   "url": "https://cryptobriefing.com/recursive-launches-flint-local-coding-model/",
-   "ts": "2026-10-21T16:41:05Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Anthropic appoints Harvard astrophysicist Christopher Stubbs to its Long-Term Benefit Trust",
-   "s": "Anthropic's unique governance structure, emphasizing mission over profit, may challenge traditional investor expectations as it approaches IPO.",
-   "url": "https://cryptobriefing.com/anthropic-appoints-christopher-stubbs-benefit-trust/",
-   "ts": "2026-10-21T16:36:23Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
+    "The Block"
    ],
    "alt": []
   },
@@ -264,17 +785,6 @@
    "alt": []
   },
   {
-   "h": "Senators question Google on AI’s impact on schoolchildren",
-   "s": "The scrutiny of Google's AI in education highlights the urgent need for comprehensive policies to safeguard student well-being and academic integrity.",
-   "url": "https://cryptobriefing.com/senators-question-google-ai-schoolchildren/",
-   "ts": "2026-10-21T16:32:37Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin Lightning developers sound alarm over security flaws as second patch lands in five days",
    "s": "Version 0.14.5 addresses issues exploitable by malicious nodes and lets Eclair operators upgrade without closing existing channels.",
    "url": "https://cryptoslate.com/bitcoin-lightning-developers-sound-alarm-over-security-flaws-as-second-patch-lands-in-five-days/",
@@ -284,19 +794,6 @@
    ],
    "srcs": [
     "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
-   "h": "US futures rise as SpaceX and Super Micro Computer boost AI sentiment",
-   "s": "AI-driven growth in SpaceX and Super Micro boosts investor confidence, potentially accelerating AI sector investments and innovation.",
-   "url": "https://cryptobriefing.com/us-futures-rise-spacex-super-micro-ai/",
-   "ts": "2026-10-21T16:29:16Z",
-   "tags": [
-    "PERPS"
-   ],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -315,6 +812,24 @@
    "alt": []
   },
   {
+   "h": "Trump to throw spotlight on overseas crypto abuses at White House event",
+   "s": "The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams.",
+   "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+   "ts": "2026-10-21T16:23:44Z",
+   "tags": [],
+   "srcs": [
+    "CoinDesk",
+    "Cointelegraph"
+   ],
+   "alt": [
+    [
+     "Cointelegraph",
+     "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+     "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    ]
+   ]
+  },
+  {
    "h": "Sunrise Brings Backpack’s Tokenized Meta Shares to Solana",
    "s": "Redemption requires an eligible, verified Backpack account, and transfers from Backpack to another brokerage are not yet supported.",
    "url": "https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana",
@@ -326,6 +841,25 @@
     "The Defiant"
    ],
    "alt": []
+  },
+  {
+   "h": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+   "s": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla’s 11,509 BTC and SpaceX’s 18,712 BTC—roughly $2.5 billion worth—onto a single balance sheet.",
+   "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+   "ts": "2026-10-21T16:16:05Z",
+   "tags": [
+    "BTC"
+   ],
+   "srcs": [
+    "Decrypt"
+   ],
+   "alt": [
+    [
+     "Decrypt",
+     "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+     "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire"
+    ]
+   ]
   },
   {
    "h": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans",
@@ -355,87 +889,6 @@
    "alt": []
   },
   {
-   "h": "Polymarket traders put roughly 10% odds on an AI bubble burst by year-end",
-   "s": "The rising odds of an AI bubble burst highlight growing investor anxiety, potentially impacting market confidence and future tech investments.",
-   "url": "https://cryptobriefing.com/polymarket-odds-ai-bubble-burst-year-end/",
-   "ts": "2026-10-21T16:08:49Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Meta’s AI spending spree revives a financial-crisis playbook",
-   "s": "Meta's aggressive AI investment strategy risks financial instability, echoing past challenges, and demands investor patience amid uncertain returns.",
-   "url": "https://cryptobriefing.com/meta-ai-spending-financial-crisis-playbook/",
-   "ts": "2026-10-21T16:01:16Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Claude Sonnet 5.5 and GPT-6 Astra tie for top spot on MLCR-AA medical reasoning leaderboard",
-   "s": "The tie highlights AI's potential in medical data synthesis but underscores the need for improvement, as top models still miss many tasks.",
-   "url": "https://cryptobriefing.com/claude-sonnet-gpt-6-astra-tie-mlcr-aa/",
-   "ts": "2026-10-21T15:58:09Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Gartner warns AI boom faces a $4.9 trillion revenue gap by 2030",
-   "s": "AI infrastructure investments risk massive write-downs, potentially reshaping the market landscape and driving consolidation by 2030.",
-   "url": "https://cryptobriefing.com/gartner-ai-revenue-gap-trillion-2030/",
-   "ts": "2026-10-21T15:57:00Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Crypto winter looks different this time as incumbents gain market share amid stalled VC funding, Blockchain.com co-CEO says",
-   "s": "The current crypto winter strengthens established firms, potentially reshaping the market landscape and increasing institutional influence.",
-   "url": "https://cryptobriefing.com/crypto-market-shifts-incumbents-grow/",
-   "ts": "2026-10-21T15:52:11Z",
-   "tags": [
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Bitcoin’s Fed relief may not last as economists see December hike, Bitunix says",
-   "s": "Bitcoin's future may face pressure from rising oil prices and potential Fed rate hikes, impacting risk appetite and liquidity.",
-   "url": "https://cryptobriefing.com/fed-rate-hike-impact-bitcoin/",
-   "ts": "2026-10-21T15:52:09Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Nvidia’s RTX Spark laptops pack 1 petaflop of AI performance",
-   "s": "Nvidia's RTX Spark laptops could revolutionize personal computing by enabling powerful AI processing locally, impacting privacy and data control.",
-   "url": "https://cryptobriefing.com/nvidia-rtx-spark-laptop-1-petaflop-ai/",
-   "ts": "2026-10-21T15:51:19Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
    "s": "Bitcoin Magazine Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite The price of bitcoin is rising fast — with the stock market — as investors feel bullish on tech.",
    "url": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
@@ -445,36 +898,16 @@
     "EQUITIES"
    ],
    "srcs": [
-    "Bitcoin Magazine"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Clear Street reiterates buy rating on Strategy, lifts price target to $211",
-   "s": "Clear Street's optimism suggests potential growth for Strategy, but reliance on Bitcoin's stability and preferred stock dynamics poses risks.",
-   "url": "https://cryptobriefing.com/clear-street-strategy-price-target-211/",
-   "ts": "2026-10-21T15:41:33Z",
-   "tags": [
-    "BTC",
-    "ETH"
-   ],
-   "srcs": [
+    "Bitcoin Magazine",
     "CryptoBriefing"
    ],
-   "alt": []
-  },
-  {
-   "h": "Micron perps slide about 6.5% in eight minutes after DeepSeek Flash model news",
-   "s": "DeepSeek's advancements could reshape memory demand forecasts, impacting major tech firms and prompting strategic shifts in the memory sector.",
-   "url": "https://cryptobriefing.com/micron-perps-fall-deepseek-flash-model/",
-   "ts": "2026-10-21T15:40:26Z",
-   "tags": [
-    "PERPS"
-   ],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
+   "alt": [
+    [
+     "CryptoBriefing",
+     "CoreWeave bankruptcy risk drops as SpaceX reports strong earnings",
+     "https://cryptobriefing.com/coreweave-bankruptcy-risk-drops-as-spacex-reports-strong-earnings/"
+    ]
+   ]
   },
   {
    "h": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
@@ -488,17 +921,6 @@
    "alt": []
   },
   {
-   "h": "Cardano registers 100,000 Indian farm lands on blockchain",
-   "s": "Cardano's blockchain initiative could revolutionize Indian agriculture by enhancing credit access and insurance for smallholder farmers.",
-   "url": "https://cryptobriefing.com/cardano-registers-100000-indian-farm-lands/",
-   "ts": "2026-10-21T15:30:19Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
    "s": "",
    "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
@@ -506,19 +928,6 @@
    "tags": [],
    "srcs": [
     "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Italian police target 30 suspects in €68 million mafia-linked crypto laundering probe",
-   "s": "The probe may lead to stricter regulations on crypto transactions, impacting market liquidity and financial institutions' crypto engagement.",
-   "url": "https://cryptobriefing.com/italy-mafia-crypto-laundering-probe-milan/",
-   "ts": "2026-10-21T15:14:16Z",
-   "tags": [
-    "SECURITY"
-   ],
-   "srcs": [
-    "CryptoBriefing"
    ],
    "alt": []
   },
@@ -564,47 +973,12 @@
   },
   {
    "h": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-   "s": "Bybit's US expansion could reshape trading by integrating stablecoins with equities, challenging traditional finance and diversifying revenue streams.",
+   "s": "",
    "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
    "ts": "2026-10-21T15:09:22Z",
-   "tags": [
-    "EQUITIES"
-   ],
-   "srcs": [
-    "CoinDesk",
-    "CryptoBriefing"
-   ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "Bybit seeks broker partnerships to challenge Robinhood in the US",
-     "https://cryptobriefing.com/bybit-broker-partnerships-robinhood-us/"
-    ]
-   ]
-  },
-  {
-   "h": "The Block and The Hill will host the Capitol Crypto Forum on November 19",
-   "s": "The forum's timing post-midterms could significantly influence new legislative approaches to crypto, impacting industry regulation and investor sentiment.",
-   "url": "https://cryptobriefing.com/capitol-crypto-forum-the-block-the-hill/",
-   "ts": "2026-10-21T15:03:35Z",
    "tags": [],
    "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Malaysia keeps 322 Bitcoin from the Bitkingdom scam after court ruling",
-   "s": "Malaysia's retention of Bitcoin from the Bitkingdom scam highlights the complexities of asset recovery in crypto fraud cases, impacting victim restitution.",
-   "url": "https://cryptobriefing.com/malaysia-keeps-322-bitcoin-bitkingdom-scam/",
-   "ts": "2026-10-21T15:02:53Z",
-   "tags": [
-    "BTC",
-    "HACK",
-    "REGULATION"
-   ],
-   "srcs": [
-    "CryptoBriefing"
+    "CoinDesk"
    ],
    "alt": []
   },
@@ -633,17 +1007,6 @@
    "alt": []
   },
   {
-   "h": "DTCC plans to launch its Tokenization Service this month after 30-plus firms tested the rails",
-   "s": "The launch of DTCC's Tokenization Service could revolutionize asset liquidity and transaction efficiency, impacting global financial markets.",
-   "url": "https://cryptobriefing.com/dtcc-tokenization-service-launch-october/",
-   "ts": "2026-10-21T15:00:36Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
    "h": "Pokémon Cards Could Soon Overtake NVIDIA as the World’s Best-Performing Asset",
    "s": "Pokémon cards have drawn investor attention in recent years, and some collectors compare their returns with leading stocks like NVIDIA. The comparison has sparked debate among analysts and investors. Below is how the two compare, along with the key factors that shape the final result.",
    "url": "https://beincrypto.com/pokemon-cards-vs-nvidia-returns/",
@@ -655,58 +1018,24 @@
    "alt": []
   },
   {
-   "h": "Injective burns over 7.2 million INJ through its buyback and revenue flywheel",
-   "s": "Injective's token burn strategy enhances scarcity, potentially boosting INJ's value and positioning it as a high-revenue Layer-1 network.",
-   "url": "https://cryptobriefing.com/injective-burns-over-7-million-inj-buyback/",
-   "ts": "2026-10-21T14:58:10Z",
-   "tags": [],
-   "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
-   "s": "Bitcoin Magazine President Trump to Highlight Crackdown on Overseas Crypto Scams Trump to tout seizures of fraudulent crypto sites at White House cybercrime event as FBI data shows $11.3 billion in U.S. crypto fraud losses in 2025.",
-   "url": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
+   "h": "Trump Touts Crypto Scam Crackdown as DOJ Reports $938 Million Restrained",
+   "s": "Attorney General Todd Blanche described a nationwide scam prosecution initiative deploying dozens of prosecutors across all 94 US Attorneys’ Offices.",
+   "url": "https://thedefiant.io/news/regulation/trump-touts-crypto-scam-crackdown-as-doj-reports-938-million-restrained",
    "ts": "2026-10-21T14:52:06Z",
    "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "Bitcoin Magazine"
-   ],
-   "alt": []
-  },
-  {
-   "h": "SpaceX earnings and falling yields lift risk assets as Bitcoin tops $84K",
-   "s": "The rise in risk assets highlights investor confidence in growth, but the market's cautious sentiment suggests potential volatility ahead.",
-   "url": "https://cryptobriefing.com/spacex-earnings-falling-yields-bitcoin-84k/",
-   "ts": "2026-10-21T14:45:04Z",
-   "tags": [
     "BTC",
-    "EQUITIES"
+    "HACK",
+    "REGULATION"
    ],
    "srcs": [
-    "CryptoBriefing"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Trump to throw spotlight on overseas crypto abuses at White House event",
-   "s": "The crackdown on foreign crypto scams underscores the need for international cooperation to protect consumers and secure financial systems.",
-   "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
-   "ts": "2026-10-21T14:44:50Z",
-   "tags": [],
-   "srcs": [
-    "CoinDesk",
-    "CryptoBriefing"
+    "The Defiant",
+    "Bitcoin Magazine"
    ],
    "alt": [
     [
-     "CryptoBriefing",
-     "Trump highlights crackdown on foreign crypto scams at White House event",
-     "https://cryptobriefing.com/trump-white-house-foreign-crypto-scams-crackdown/"
+     "Bitcoin Magazine",
+     "President Trump to Highlight Crackdown on Overseas Crypto Scams",
+     "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown"
     ]
    ]
   },
@@ -890,20 +1219,6 @@
    ],
    "srcs": [
     "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Here’s what happened in crypto today",
-   "s": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-10-21T13:34:54Z",
-   "tags": [
-    "BTC",
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "Cointelegraph"
    ],
    "alt": []
   },
@@ -1200,7 +1515,7 @@
    "h": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
    "s": "Bitcoin volatility is approaching its 2026 lows, with K33 pointing to weak trading activity ahead of several potential market catalysts.",
    "url": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
-   "ts": "2026-10-21T11:55:00Z",
+   "ts": "2026-10-21T11:55:08Z",
    "tags": [
     "BTC"
    ],
@@ -1229,19 +1544,6 @@
      "https://cryptoslate.com/lidos-proposed-exits-could-unwind-eth-loans-before-borrowers-reach-liquidation/"
     ]
    ]
-  },
-  {
-   "h": "Explained: What the U.S. Federal Reserve does, and why it matters to Australia",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1VOQU14Qk00T3dObF9CRk1sM01qQnhiTlpmZjc0NGhJdmxNcW02bms3WDQwV1AtT1hBaFJITndnTWY3N0g1cFhaU1VoTHFfT2dkVTZRZHNtZ185MEYtRF9NNmMwTVFPZENjbEh6QnhRM0F4Q0hKVUdjUlZLZ29PNXVBYmhsUXdIWWttX2M3akdKQ2taY3lhQUxWNHI1bGs?oc=5",
-   "ts": "2026-10-21T11:30:28Z",
-   "tags": [
-    "MACRO"
-   ],
-   "srcs": [
-    "Ticker News"
-   ],
-   "alt": []
   },
   {
    "h": "Binance to Reprice bStocks Collateral While US Stock Markets Are Closed",
@@ -1384,30 +1686,6 @@
    "alt": []
   },
   {
-   "h": "Binance will reprice stock-token collateral even when Wall Street is closed",
-   "s": "Starting Oct. 24, off-hours Binance prices can reduce the collateral cushion backing eligible bStocks margin accounts.",
-   "url": "https://cryptoslate.com/binance-will-reprice-stock-token-collateral-even-when-wall-street-is-closed/",
-   "ts": "2026-10-21T10:50:30Z",
-   "tags": [
-    "EQUITIES"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Is the AI Agent Economy Really Booming? 6.4M Payments Tell a Different Story",
-   "s": "Everywhere you look, financial media and conference panels are preaching the same gospel: autonomous AI agents are about to take over finance and spend serious capital on our behalf.",
-   "url": "https://beincrypto.com/ai-agent-economy-6-million-payments-reality-check/",
-   "ts": "2026-10-21T10:47:45Z",
-   "tags": [],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
    "h": "France proposes liability for crypto exchanges offering DeFi access",
    "s": "French authorities want crypto exchanges to conduct checks on DeFi protocols and face liability for certain customer losses under proposed changes to EU crypto rules.",
    "url": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1467,7 +1745,7 @@
    "alt": []
   },
   {
-   "h": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
+   "h": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
    "s": "",
    "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
    "ts": "2026-10-21T10:30:40Z",
@@ -1552,34 +1830,6 @@
    "alt": []
   },
   {
-   "h": "Doctor Profit Warns of a Very Big Monero (XMR) Liquidation Event",
-   "s": "Monero (XMR) futures open interest stands near $287 million, according to CoinGlass, and trader Doctor Profit warns that this leverage could trigger a large XMR liquidation event. He ties the setup to January, when a similar build-up preceded a steep crash. The data only partly backs his call.",
-   "url": "https://beincrypto.com/doctor-profit-monero-liquidation-event/",
-   "ts": "2026-10-21T10:11:38Z",
-   "tags": [
-    "LIQUIDATION",
-    "PERPS"
-   ],
-   "srcs": [
-    "BeInCrypto"
-   ],
-   "alt": []
-  },
-  {
-   "h": "SpaceX’s $194 billion share unlock exposes a major risk in Aave’s tokenized stock ambitions",
-   "s": "About 1.3 billion SpaceX shares become eligible for sale on Oct. 22, worth roughly $194.3 billion at the Oct. 20 close of $147.89. A week earlier, Aave Labs proposed accepting tokenized SpaceX shares (SPCXc) as collateral on its V4 Equities Hub on Base.",
-   "url": "https://cryptoslate.com/spacexs-194-billion-share-unlock-exposes-a-major-risk-in-aaves-tokenized-stock-ambitions/",
-   "ts": "2026-10-21T09:50:35Z",
-   "tags": [
-    "EQUITIES",
-    "LISTING"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "OpenStocks' BNB Chain Tokens Offer Price Exposure, Not Private Shares",
    "s": "The platform's terms give holders no claim on underlying shares and allow exposure through SPVs or derivatives.",
    "url": "https://thedefiant.io/news/tokens/openstocks-bnb-chain-tokens-offer-price-exposure-not-private-shares",
@@ -1605,7 +1855,7 @@
   },
   {
    "h": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
-   "s": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla’s 11,509 BTC and SpaceX’s 18,712 BTC—roughly $2.5 billion worth—onto a single balance sheet.",
+   "s": "Their disclosed bitcoin positions would together rank sixth among CoinGecko’s tracked public companies. Musk says no transaction terms have been agreed.",
    "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
    "ts": "2026-10-21T09:23:00Z",
    "tags": [
@@ -1613,19 +1863,13 @@
    ],
    "srcs": [
     "CoinDesk",
-    "The Defiant",
-    "Decrypt"
+    "The Defiant"
    ],
    "alt": [
     [
      "The Defiant",
      "Tesla and SpaceX Explore Merger That Could Unite 30,221 Bitcoin",
      "https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin"
-    ],
-    [
-     "Decrypt",
-     "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-     "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth"
     ]
    ]
   },
@@ -1687,20 +1931,6 @@
    "alt": []
   },
   {
-   "h": "Quantum-proof Bitcoin signatures would clog network nodes with 10x larger data",
-   "s": "SHRINCS keeps a larger signing path for recovery, while compact signatures require reliable counters and tighter custody coordination.",
-   "url": "https://cryptoslate.com/quantum-proof-bitcoin-signatures-would-clog-network-nodes-with-10x-larger-data/",
-   "ts": "2026-10-21T08:30:07Z",
-   "tags": [
-    "BTC",
-    "INSTITUTIONAL"
-   ],
-   "srcs": [
-    "CryptoSlate"
-   ],
-   "alt": []
-  },
-  {
    "h": "PancakeSwap Opens 'The Flip' Vote With CAKE Supply Condition",
    "s": "The final plan retains CAKE buybacks from non-stablecoin protocol fees and phases a roughly 69% cut in effective daily emissions.",
    "url": "https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition",
@@ -1736,6 +1966,17 @@
    "tags": [],
    "srcs": [
     "CoinDesk"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Bürgel Says PHP Exploits Are Circulating Ahead of Critical Patches",
+   "s": "PHP’s fixes are scheduled for 10 a.m. ET; security advisories urge operators to restrict exposed services and prepare to patch immediately.",
+   "url": "https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches",
+   "ts": "2026-10-21T07:58:31Z",
+   "tags": [],
+   "srcs": [
+    "The Defiant"
    ],
    "alt": []
   },
@@ -1781,26 +2022,9 @@
    "ts": "2026-10-21T05:46:01Z",
    "tags": [],
    "srcs": [
-    "The Defiant",
-    "CryptoBriefing"
+    "The Defiant"
    ],
-   "alt": [
-    [
-     "CryptoBriefing",
-     "OpenAI helps uncover critical PHP vulnerabilities affecting millions of websites",
-     "https://cryptobriefing.com/openai-critical-php-vulnerabilities-checker-tool/"
-    ],
-    [
-     "CryptoBriefing",
-     "BitGo says its platform is unaffected by critical PHP vulnerabilities",
-     "https://cryptobriefing.com/bitgo-unaffected-php-vulnerability/"
-    ],
-    [
-     "The Defiant",
-     "Bürgel Says PHP Exploits Are Circulating Ahead of Critical Patches",
-     "https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches"
-    ]
-   ]
+   "alt": []
   },
   {
    "h": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
@@ -1823,6 +2047,20 @@
    "tags": [],
    "srcs": [
     "Cointelegraph"
+   ],
+   "alt": []
+  },
+  {
+   "h": "US Spot Ether ETFs See $26.12 Million in Net Outflows for Fifth Straight Session",
+   "s": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BVDk5b2NNbXhWUkoxWWEtMVZzU09uMmxxa0xXNEZGa1E1VmhWekdMWUxES2RFbXFtT21qVHhJM3p0c2M4eFA1eW55cHhLWFZCeVVPMQ?oc=5",
+   "ts": "2026-10-21T04:38:12Z",
+   "tags": [
+    "ETF",
+    "FLOWS"
+   ],
+   "srcs": [
+    "bloomingbit"
    ],
    "alt": []
   },
@@ -2074,12 +2312,40 @@
    "alt": []
   },
   {
+   "h": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+   "s": "FINMA waived the diversification rules for the fund but leaned hard on custody and investor-protection safeguards.",
+   "url": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
+   "ts": "2026-10-20T19:31:04Z",
+   "tags": [
+    "BTC",
+    "INSTITUTIONAL",
+    "REGULATION"
+   ],
+   "srcs": [
+    "Decrypt"
+   ],
+   "alt": []
+  },
+  {
    "h": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
    "s": "As the SEC’s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
    "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
    "ts": "2026-10-20T19:19:54Z",
    "tags": [
     "EQUITIES",
+    "REGULATION"
+   ],
+   "srcs": [
+    "The Block"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
+   "s": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture.",
+   "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
+   "ts": "2026-10-20T19:12:38Z",
+   "tags": [
     "REGULATION"
    ],
    "srcs": [
@@ -2229,26 +2495,6 @@
    "alt": []
   },
   {
-   "h": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
-   "s": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture.",
-   "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
-   "ts": "2026-10-20T17:07:44Z",
-   "tags": [
-    "REGULATION"
-   ],
-   "srcs": [
-    "The Block",
-    "The Defiant"
-   ],
-   "alt": [
-    [
-     "The Defiant",
-     "Utah Sues Kalshi and Susquehanna Firms to Halt Alleged Illegal Betting",
-     "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting"
-    ]
-   ]
-  },
-  {
    "h": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
    "s": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
    "url": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
@@ -2272,6 +2518,20 @@
    ],
    "srcs": [
     "CoinDesk"
+   ],
+   "alt": []
+  },
+  {
+   "h": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+   "s": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.",
+   "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "ts": "2026-10-20T16:47:48Z",
+   "tags": [
+    "REGULATION",
+    "STABLECOIN"
+   ],
+   "srcs": [
+    "Cointelegraph"
    ],
    "alt": []
   },
@@ -2336,30 +2596,6 @@
    "alt": []
   },
   {
-   "h": "Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet",
-   "s": "The MIT-incubated network says 16 node operators and about 1.4 million ETH in stake are running mump2p, with ether.fi making it standard across its validator set",
-   "url": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
-   "ts": "2026-10-20T16:24:01Z",
-   "tags": [
-    "ETH"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
-   "s": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.",
-   "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-10-20T16:23:17Z",
-   "tags": [],
-   "srcs": [
-    "Cointelegraph"
-   ],
-   "alt": []
-  },
-  {
    "h": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
    "s": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust.",
    "url": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
@@ -2400,20 +2636,6 @@
    "alt": []
   },
   {
-   "h": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
-   "s": "High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line.",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-10-20T16:14:09Z",
-   "tags": [
-    "BTC",
-    "EQUITIES"
-   ],
-   "srcs": [
-    "Cointelegraph"
-   ],
-   "alt": []
-  },
-  {
    "h": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
    "s": "Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners.",
    "url": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
@@ -2432,72 +2654,6 @@
    ]
   },
   {
-   "h": "Starknet Foundation Launches Bramble Wallet With STRK20 Shielding",
-   "s": "The Chrome-only wallet combines private balances, Ledger signing and multisig accounts, with a recovery phrase for backup.",
-   "url": "https://thedefiant.io/news/blockchains/starknet-foundation-launches-bramble-wallet-with-strk20-shielding",
-   "ts": "2026-10-20T15:55:09Z",
-   "tags": [
-    "ONCHAIN"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Lulo Says Boost Deposits Face 6.4% Drawdown From Neutrl Exposure",
-   "s": "Protected deposits are unaffected, Lulo says, while Neutrl's redemption contract offers 0.51 USDC per NUSD.",
-   "url": "https://thedefiant.io/news/defi/lulo-says-boost-deposits-face-6-4-drawdown-from-neutrl-exposure",
-   "ts": "2026-10-20T15:18:18Z",
-   "tags": [
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Celestia Activates Fibre, Opening Direct Validator Uploads for Rollups",
-   "s": "The initial release allows 128 MiB blobs and 200 Fibre submissions per block, using smaller uploads and a slower block cadence than its terabit benchmark.",
-   "url": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
-   "ts": "2026-10-20T15:11:45Z",
-   "tags": [
-    "ETH"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "1inch Winds Down Card, Urges Balance Withdrawals by Dec. 18",
-   "s": "Existing cards and accounts remain accessible for now, but the issuer and provider—not 1inch—control when card functionality ends.",
-   "url": "https://thedefiant.io/converge/cefi/1inch-winds-down-card-urges-balance-withdrawals-by-dec-18",
-   "ts": "2026-10-20T14:47:50Z",
-   "tags": [],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
-   "s": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
-   "url": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
-   "ts": "2026-10-20T14:31:29Z",
-   "tags": [
-    "BTC",
-    "ETH",
-    "PERPS",
-    "SOLANA"
-   ],
-   "srcs": [
-    "The Block"
-   ],
-   "alt": []
-  },
-  {
    "h": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
    "s": "",
    "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
@@ -2509,21 +2665,6 @@
    ],
    "srcs": [
     "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
-   "s": "The bank plans to offer Bitcoin, Ether and USDT through its existing apps, while Russian rules impose testing and purchase limits on non-qualified investors.",
-   "url": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
-   "ts": "2026-10-20T14:19:56Z",
-   "tags": [
-    "BTC",
-    "INSTITUTIONAL",
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "The Defiant"
    ],
    "alt": []
   },
@@ -2541,40 +2682,6 @@
    "alt": []
   },
   {
-   "h": "Injective partners with BDACS to bring Korean won stablecoin to RWA ecosystem",
-   "s": "The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins.",
-   "url": "https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883",
-   "ts": "2026-10-20T14:00:00Z",
-   "tags": [
-    "REGULATION",
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "The Block",
-    "Cointelegraph"
-   ],
-   "alt": [
-    [
-     "Cointelegraph",
-     "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-     "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    ]
-   ]
-  },
-  {
-   "h": "Blockchain.com Launches Options Trading on Seven Cryptoassets",
-   "s": "Buyers fund contracts in USDC and cannot exit before expiry. US and UK residents are among those excluded.",
-   "url": "https://thedefiant.io/news/cefi/blockchain-com-launches-options-trading-on-seven-cryptoassets",
-   "ts": "2026-10-20T13:56:56Z",
-   "tags": [
-    "STABLECOIN"
-   ],
-   "srcs": [
-    "The Defiant"
-   ],
-   "alt": []
-  },
-  {
    "h": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
    "s": "",
    "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
@@ -2584,17 +2691,6 @@
    ],
    "srcs": [
     "CoinDesk"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
-   "s": "The Animoca Brands chairman explains that AI agents can make trades while you sleep, but users need to plan for the day they lose access to the bots.",
-   "url": "https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-10-20T13:30:00Z",
-   "tags": [],
-   "srcs": [
-    "Cointelegraph"
    ],
    "alt": []
   },
@@ -2610,29 +2706,6 @@
     "SEC"
    ],
    "alt": []
-  },
-  {
-   "h": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-   "s": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications.",
-   "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "ts": "2026-10-20T13:10:00Z",
-   "tags": [
-    "BTC",
-    "ETF",
-    "INSTITUTIONAL",
-    "REGULATION"
-   ],
-   "srcs": [
-    "Cointelegraph",
-    "Decrypt"
-   ],
-   "alt": [
-    [
-     "Decrypt",
-     "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
-     "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly"
-    ]
-   ]
   },
   {
    "h": "SEC, FSA Hold Autumn Financial Regulatory Dialogue",
@@ -3067,19 +3140,6 @@
    "alt": []
   },
   {
-   "h": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
-   "s": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
-   "url": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
-   "ts": "2026-10-19T16:05:09Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "Decrypt"
-   ],
-   "alt": []
-  },
-  {
    "h": "Solana or Ethereum: Which Is More Likely to Be a Millionaire-Maker by 2030?",
    "s": "",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVlVQM1R1Um44ZnI4NTR4d0NZTWNVQWVaVDlybll2Vks4NG9ITndzWENiZXMyTHVaem5XaVE3bnJuMms2WEZNNjB4ZU5lVGhwMUlZS3VPTkl2V2ZqS1BfZkxzVUMtWktackpIcGM4M3NsTjBkU0VzS2hNaFQ2VDd5cW9HWUFsc1pwUjV5VXB4OVRDRU1ra3Z0YnMzeWkyN3RINUljUTlZb3RvZjdHZ2tmdGZxaGRtZ2dfTHkxbUIxMkJNR2l0SjdRel9NZHE?oc=5",
@@ -3090,19 +3150,6 @@
    ],
    "srcs": [
     "24/7 Wall St."
-   ],
-   "alt": []
-  },
-  {
-   "h": "Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
-   "s": "The purchase lifts Bitmine’s stash to 6.04 million ETH—4.9% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee framed a market-wide selloff as an attractive entry point.",
-   "url": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line",
-   "ts": "2026-10-19T15:13:42Z",
-   "tags": [
-    "ETH"
-   ],
-   "srcs": [
-    "Decrypt"
    ],
    "alt": []
   },
@@ -3132,19 +3179,6 @@
    ],
    "srcs": [
     "FXStreet"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
-   "s": "The Bitcoin treasury firm raised its preferred stock buyback cap to $3 billion and now holds 848,517 BTC, bought at an average of $75,446.",
-   "url": "https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc",
-   "ts": "2026-10-19T13:04:48Z",
-   "tags": [
-    "BTC"
-   ],
-   "srcs": [
-    "Decrypt"
    ],
    "alt": []
   },
@@ -3234,33 +3268,6 @@
    ],
    "srcs": [
     "SoSoValue"
-   ],
-   "alt": []
-  },
-  {
-   "h": "Ethereum Price Prediction: Can ETH Get Back to $3,000 Before the End of 2026?",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXlIam5YSmgxbjF6dnRHSndYTmEwYXVHTjgza0RFT1Bxc1pGTHJnVkNYd1NiS2xwQWZVaTgxN2RTVlE4am9XQUFPWTZNNnpJZUZESTdBNWZzTWt3ME9SV2JnM0NmMWJfbUNPVWM0QUlPcTFDVTF3Q0xpc1p6b09XdFJUaGJuX3dLOC11ZUhYdXRlTzczOHVYRl9YTDFFU1BLOGdGcU5jZ3ZBSTNuV21QMzFVSjIwdTVLclk5UXNJb0haLTRSUVc5bTY5QmI?oc=5",
-   "ts": "2026-10-18T19:52:00Z",
-   "tags": [
-    "ETH"
-   ],
-   "srcs": [
-    "24/7 Wall St."
-   ],
-   "alt": []
-  },
-  {
-   "h": "XRP ETFs Just Ended a 13-Week Inflow Streak. What Broke It?",
-   "s": "",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRTFWLWdTN254LWwyQ1V6ZjZFSERrZUlGN1EyeVp3TmVNU2NJclJJTGVmYVBqNjdkS0RZQTBrbms3eWFJTHhfYmNnQkE2eXh5TTlDS3dYV2hDYmVTVGpId2YxT0pDTFFldTdqMk5RVmV3bU8ydWlueF9ZVThqZmFjMUV4R3NvUVBzcDNLZ1d4bWN1ZTZMTEk4YTNrRlg2X2ZvRlZFbDAxQV8xY1RrTFNkYkk5d0prNlk?oc=5",
-   "ts": "2026-10-18T18:17:00Z",
-   "tags": [
-    "ETF",
-    "FLOWS"
-   ],
-   "srcs": [
-    "24/7 Wall St."
    ],
    "alt": []
   }
